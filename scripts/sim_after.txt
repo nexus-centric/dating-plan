@@ -1,0 +1,54 @@
+combo	budget	plans/run	sure(Σmax≤B)	maybe(Σmin≤B)	unknown	over	emptyRuns	minSure
+cafe	200k	3.0	0%	100%	0%	0%	0	268k
+cafe	300k	3.0	100%	0%	0%	0%	0	
+cafe	500k	3.0	100%	0%	0%	0%	0	
+cafe	1000k	3.0	100%	0%	0%	0%	0	
+cafe	2000k	3.0	100%	0%	0%	0%	0	
+choi	200k	3.0	0%	100%	0%	0%	0	208k
+choi	300k	3.0	100%	0%	0%	0%	0	
+choi	500k	3.0	100%	0%	0%	0%	0	
+choi	1000k	3.0	100%	0%	0%	0%	0	
+choi	2000k	3.0	100%	0%	0%	0%	0	
+photobooth	200k	3.0	0%	100%	0%	0%	0	278k
+photobooth	300k	3.0	100%	0%	0%	0%	0	
+photobooth	500k	3.0	100%	0%	0%	0%	0	
+photobooth	1000k	3.0	100%	0%	0%	0%	0	
+photobooth	2000k	3.0	100%	0%	0%	0%	0	
+game	200k	3.0	0%	33%	67%	0%	0	348k
+game	300k	3.0	0%	100%	0%	0%	0	348k
+game	500k	3.0	100%	0%	0%	0%	0	
+game	1000k	3.0	100%	0%	0%	0%	0	
+game	2000k	3.0	100%	0%	0%	0%	0	
+spa	200k	3.0	0%	0%	100%	0%	0	438k
+spa	300k	3.0	0%	33%	67%	0%	0	438k
+spa	500k	3.0	72%	28%	0%	0%	0	
+spa	1000k	3.0	100%	0%	0%	0%	0	
+spa	2000k	3.0	100%	0%	0%	0%	0	
+workshop	200k	3.0	0%	100%	0%	0%	0	208k
+workshop	300k	3.0	33%	67%	0%	0%	0	
+workshop	500k	3.0	100%	0%	0%	0%	0	
+workshop	1000k	3.0	100%	0%	0%	0%	0	
+workshop	2000k	3.0	100%	0%	0%	0%	0	
+checkin	200k	3.0	0%	100%	0%	0%	0	208k
+checkin	300k	3.0	100%	0%	0%	0%	0	
+checkin	500k	3.0	100%	0%	0%	0%	0	
+checkin	1000k	3.0	100%	0%	0%	0%	0	
+checkin	2000k	3.0	100%	0%	0%	0%	0	
+finedining	200k	3.0	0%	0%	100%	0%	0	800k
+finedining	300k	3.0	0%	33%	67%	0%	0	800k
+finedining	500k	3.0	0%	100%	0%	0%	0	800k
+finedining	1000k	3.0	100%	0%	0%	0%	0	
+finedining	2000k	3.0	100%	0%	0%	0%	0	
+deeptalk	200k	3.0	0%	100%	0%	0%	0	268k
+deeptalk	300k	3.0	67%	33%	0%	0%	0	
+deeptalk	500k	3.0	100%	0%	0%	0%	0	
+deeptalk	1000k	3.0	100%	0%	0%	0%	0	
+deeptalk	2000k	3.0	100%	0%	0%	0%	0	
+random	200k	3.0	0%	100%	0%	0%	0	208k
+random	300k	3.0	100%	0%	0%	0%	0	
+random	500k	3.0	100%	0%	0%	0%	0	
+random	1000k	3.0	100%	0%	0%	0%	0	
+random	2000k	3.0	100%	0%	0%	0%	0	
+[ 'Quận 4' ] 3 Quận 4>Quận 1 | Quận 4>Quận 1 | Quận 4>Quận 1 
+[ 'Quận 5' ] 0  {"district":["Quận 5"],"count":0,"slot":"Ăn tối","neighbours":["Quận 5","Quận 1","Quận 6","Quận 8","Quận 10","Quận 11"],"neighbourCount":18}
+[ 'Gò Vấp' ] 3 Gò Vấp>Phú Nhuận | Gò Vấp>Gò Vấp | Gò Vấp>Phú Nhuận 

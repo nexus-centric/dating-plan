@@ -1,0 +1,320 @@
+
+=== 2 điểm · 12 lần chạy × 3 kèo ===
+
+-- Dưới 200k --
+combo	part	plans/run	sure(Σmax≤max)	inRange(sure & Σmax≥min)	maybe	unknown	over	avg
+cafe	toi	3.0	100%	100%	0%	0%	0%	172k
+anvat	toi	3.0	100%	100%	0%	0%	0%	110k
+chedem	toi	3.0	100%	100%	0%	0%	0%	95k
+phim	toi	3.0	0%	0%	100%	0%	0%	236k
+choi	toi	3.0	100%	100%	0%	0%	0%	110k
+photobooth	toi	3.0	100%	100%	0%	0%	0%	175k
+cafephoto	chieu	3.0	100%	100%	0%	0%	0%	169k
+baotang	chieu	3.0	100%	100%	0%	0%	0%	151k
+song	toi	3.0	100%	100%	0%	0%	0%	119k
+boardgame	toi	3.0	0%	0%	100%	0%	0%	217k
+karaoke	toi	3.0	0%	0%	100%	0%	0%	452k
+thethao	toi	3.0	0%	0%	100%	0%	0%	224k
+thucung	toi	3.0	100%	100%	0%	0%	0%	180k
+xemkich	toi	3.0	0%	0%	100%	0%	0%	276k
+game	toi	3.0	0%	0%	100%	0%	0%	281k
+spa	toi	3.0	0%	0%	0%	100%	0%	118k
+workshop	toi	3.0	100%	100%	0%	0%	0%	109k
+checkin	toi	3.0	100%	100%	0%	0%	0%	112k
+finedining	toi	3.0	0%	0%	0%	100%	0%	315k
+deeptalk	toi	3.0	100%	100%	0%	0%	0%	170k
+random	toi	3.0	100%	100%	0%	0%	0%	132k
+Dưới 200k: viable combos: ≥80% chắc chắn = 12/20; ≥80% chắc chắn AND ≥50% in-range (Σmax ≥ range min) = 12 · distinct kinds 13 · categories 46 · category repeat rate across the 3 plans 20%
+
+-- 200–300k --
+combo	part	plans/run	sure(Σmax≤max)	inRange(sure & Σmax≥min)	maybe	unknown	over	avg
+cafe	toi	3.0	100%	100%	0%	0%	0%	247k
+anvat	toi	3.0	100%	97%	0%	0%	0%	211k
+chedem	toi	3.0	100%	33%	0%	0%	0%	118k
+phim	toi	3.0	100%	100%	0%	0%	0%	228k
+choi	toi	3.0	100%	97%	0%	0%	0%	213k
+photobooth	toi	3.0	100%	100%	0%	0%	0%	211k
+cafephoto	chieu	3.0	100%	100%	0%	0%	0%	251k
+baotang	chieu	3.0	100%	100%	0%	0%	0%	213k
+song	toi	3.0	100%	72%	0%	0%	0%	184k
+boardgame	toi	3.0	100%	100%	0%	0%	0%	236k
+karaoke	toi	3.0	0%	0%	100%	0%	0%	478k
+thethao	toi	3.0	100%	100%	0%	0%	0%	225k
+thucung	toi	3.0	100%	89%	0%	0%	0%	230k
+xemkich	toi	3.0	67%	67%	33%	0%	0%	261k
+game	toi	3.0	100%	100%	0%	0%	0%	226k
+spa	toi	3.0	0%	0%	100%	0%	0%	309k
+workshop	toi	3.0	100%	44%	0%	0%	0%	161k
+checkin	toi	3.0	100%	100%	0%	0%	0%	225k
+finedining	toi	3.0	0%	0%	100%	0%	0%	770k
+deeptalk	toi	3.0	100%	100%	0%	0%	0%	246k
+random	toi	3.0	100%	100%	0%	0%	0%	231k
+200–300k: viable combos: ≥80% chắc chắn = 16/20; ≥80% chắc chắn AND ≥50% in-range (Σmax ≥ range min) = 14 · distinct kinds 13 · categories 41 · category repeat rate across the 3 plans 19%
+
+-- 400–500k --
+combo	part	plans/run	sure(Σmax≤max)	inRange(sure & Σmax≥min)	maybe	unknown	over	avg
+cafe	toi	3.0	100%	97%	0%	0%	0%	400k
+anvat	toi	3.0	100%	0%	0%	0%	0%	216k
+chedem	toi	3.0	100%	33%	0%	0%	0%	193k
+phim	toi	3.0	100%	89%	0%	0%	0%	397k
+choi	toi	3.0	100%	100%	0%	0%	0%	412k
+photobooth	toi	3.0	100%	100%	0%	0%	0%	385k
+cafephoto	chieu	3.0	100%	100%	0%	0%	0%	385k
+baotang	chieu	3.0	100%	67%	0%	0%	0%	307k
+song	toi	3.0	100%	42%	0%	0%	0%	308k
+boardgame	toi	3.0	100%	56%	0%	0%	0%	363k
+karaoke	toi	3.0	0%	0%	100%	0%	0%	526k
+thethao	toi	3.0	100%	94%	0%	0%	0%	395k
+thucung	toi	3.0	100%	92%	0%	0%	0%	387k
+xemkich	toi	3.0	100%	83%	0%	0%	0%	392k
+game	toi	3.0	100%	100%	0%	0%	0%	396k
+spa	toi	3.0	100%	67%	0%	0%	0%	362k
+workshop	toi	3.0	100%	83%	0%	0%	0%	389k
+checkin	toi	3.0	100%	92%	0%	0%	0%	357k
+finedining	toi	3.0	0%	0%	100%	0%	0%	719k
+deeptalk	toi	3.0	100%	100%	0%	0%	0%	407k
+random	toi	3.0	100%	78%	0%	0%	0%	356k
+400–500k: viable combos: ≥80% chắc chắn = 18/20; ≥80% chắc chắn AND ≥50% in-range (Σmax ≥ range min) = 15 · distinct kinds 13 · categories 50 · category repeat rate across the 3 plans 19%
+
+-- 600–700k --
+combo	part	plans/run	sure(Σmax≤max)	inRange(sure & Σmax≥min)	maybe	unknown	over	avg
+cafe	toi	3.0	100%	100%	0%	0%	0%	579k
+anvat	toi	3.0	100%	0%	0%	0%	0%	216k
+chedem	toi	3.0	100%	0%	0%	0%	0%	192k
+phim	toi	3.0	100%	83%	0%	0%	0%	528k
+choi	toi	3.0	100%	100%	0%	0%	0%	574k
+photobooth	toi	3.0	100%	100%	0%	0%	0%	533k
+cafephoto	chieu	3.0	100%	0%	0%	0%	0%	388k
+baotang	chieu	3.0	100%	0%	0%	0%	0%	362k
+song	toi	3.0	100%	56%	0%	0%	0%	453k
+boardgame	toi	3.0	100%	44%	0%	0%	0%	449k
+karaoke	toi	3.0	67%	67%	33%	0%	0%	504k
+thethao	toi	3.0	100%	100%	0%	0%	0%	578k
+thucung	toi	3.0	100%	72%	0%	0%	0%	513k
+xemkich	toi	3.0	100%	97%	0%	0%	0%	513k
+game	toi	3.0	100%	97%	0%	0%	0%	575k
+spa	toi	3.0	100%	22%	0%	0%	0%	462k
+workshop	toi	3.0	100%	92%	0%	0%	0%	562k
+checkin	toi	3.0	100%	100%	0%	0%	0%	490k
+finedining	toi	3.0	0%	0%	100%	0%	0%	741k
+deeptalk	toi	3.0	100%	100%	0%	0%	0%	571k
+random	toi	3.0	100%	83%	0%	0%	0%	512k
+600–700k: viable combos: ≥80% chắc chắn = 18/20; ≥80% chắc chắn AND ≥50% in-range (Σmax ≥ range min) = 12 · distinct kinds 13 · categories 49 · category repeat rate across the 3 plans 19%
+
+-- 800–900k --
+combo	part	plans/run	sure(Σmax≤max)	inRange(sure & Σmax≥min)	maybe	unknown	over	avg
+cafe	toi	3.0	100%	100%	0%	0%	0%	746k
+anvat	toi	3.0	100%	0%	0%	0%	0%	215k
+chedem	toi	3.0	100%	0%	0%	0%	0%	190k
+phim	toi	3.0	100%	50%	0%	0%	0%	651k
+choi	toi	3.0	100%	81%	0%	0%	0%	783k
+photobooth	toi	3.0	100%	78%	0%	0%	0%	714k
+cafephoto	chieu	3.0	100%	0%	0%	0%	0%	389k
+baotang	chieu	3.0	100%	0%	0%	0%	0%	362k
+song	toi	3.0	100%	39%	0%	0%	0%	607k
+boardgame	toi	3.0	100%	8%	0%	0%	0%	550k
+karaoke	toi	3.0	100%	78%	0%	0%	0%	558k
+thethao	toi	3.0	100%	61%	0%	0%	0%	718k
+thucung	toi	3.0	100%	39%	0%	0%	0%	669k
+xemkich	toi	3.0	100%	97%	0%	0%	0%	708k
+game	toi	3.0	100%	86%	0%	0%	0%	714k
+spa	toi	3.0	100%	86%	0%	0%	0%	695k
+workshop	toi	3.0	100%	75%	0%	0%	0%	722k
+checkin	toi	3.0	100%	72%	0%	0%	0%	703k
+finedining	toi	3.0	100%	100%	0%	0%	0%	672k
+deeptalk	toi	3.0	100%	100%	0%	0%	0%	736k
+random	toi	3.0	100%	69%	0%	0%	0%	706k
+800–900k: viable combos: ≥80% chắc chắn = 20/20; ≥80% chắc chắn AND ≥50% in-range (Σmax ≥ range min) = 13 · distinct kinds 13 · categories 51 · category repeat rate across the 3 plans 22%
+
+-- 900k–1tr --
+combo	part	plans/run	sure(Σmax≤max)	inRange(sure & Σmax≥min)	maybe	unknown	over	avg
+cafe	toi	3.0	100%	100%	0%	0%	0%	858k
+anvat	toi	3.0	100%	0%	0%	0%	0%	218k
+chedem	toi	3.0	100%	0%	0%	0%	0%	188k
+phim	toi	3.0	100%	81%	0%	0%	0%	800k
+choi	toi	3.0	100%	89%	0%	0%	0%	846k
+photobooth	toi	3.0	100%	36%	0%	0%	0%	717k
+cafephoto	chieu	3.0	100%	0%	0%	0%	0%	388k
+baotang	chieu	3.0	100%	0%	0%	0%	0%	349k
+song	toi	3.0	100%	22%	0%	0%	0%	639k
+boardgame	toi	3.0	100%	28%	0%	0%	0%	655k
+karaoke	toi	3.0	100%	42%	0%	0%	0%	614k
+thethao	toi	3.0	100%	94%	0%	0%	0%	835k
+thucung	toi	3.0	100%	44%	0%	0%	0%	739k
+xemkich	toi	3.0	100%	94%	0%	0%	0%	759k
+game	toi	3.0	100%	97%	0%	0%	0%	837k
+spa	toi	3.0	100%	47%	0%	0%	0%	722k
+workshop	toi	3.0	100%	92%	0%	0%	0%	839k
+checkin	toi	3.0	100%	92%	0%	0%	0%	811k
+finedining	toi	3.0	100%	92%	0%	0%	0%	786k
+deeptalk	toi	3.0	100%	97%	0%	0%	0%	853k
+random	toi	3.0	100%	72%	0%	0%	0%	751k
+900k–1tr: viable combos: ≥80% chắc chắn = 20/20; ≥80% chắc chắn AND ≥50% in-range (Σmax ≥ range min) = 10 · distinct kinds 13 · categories 51 · category repeat rate across the 3 plans 23%
+
+SUMMARY 2-stop
+Dưới 200k: viable combos: ≥80% chắc chắn = 12/20; ≥80% chắc chắn AND ≥50% in-range (Σmax ≥ range min) = 12 · distinct kinds 13 · categories 46 · category repeat rate across the 3 plans 20%
+200–300k: viable combos: ≥80% chắc chắn = 16/20; ≥80% chắc chắn AND ≥50% in-range (Σmax ≥ range min) = 14 · distinct kinds 13 · categories 41 · category repeat rate across the 3 plans 19%
+400–500k: viable combos: ≥80% chắc chắn = 18/20; ≥80% chắc chắn AND ≥50% in-range (Σmax ≥ range min) = 15 · distinct kinds 13 · categories 50 · category repeat rate across the 3 plans 19%
+600–700k: viable combos: ≥80% chắc chắn = 18/20; ≥80% chắc chắn AND ≥50% in-range (Σmax ≥ range min) = 12 · distinct kinds 13 · categories 49 · category repeat rate across the 3 plans 19%
+800–900k: viable combos: ≥80% chắc chắn = 20/20; ≥80% chắc chắn AND ≥50% in-range (Σmax ≥ range min) = 13 · distinct kinds 13 · categories 51 · category repeat rate across the 3 plans 22%
+900k–1tr: viable combos: ≥80% chắc chắn = 20/20; ≥80% chắc chắn AND ≥50% in-range (Σmax ≥ range min) = 10 · distinct kinds 13 · categories 51 · category repeat rate across the 3 plans 23%
+
+=== 3 điểm (Buổi dài) · 12 lần chạy × 3 kèo ===
+
+-- Dưới 200k --
+combo	part	plans/run	sure(Σmax≤max)	inRange(sure & Σmax≥min)	maybe	unknown	over	avg
+cafe	toi	3.0	0%	0%	100%	0%	0%	260k
+anvat	toi	3.0	67%	67%	33%	0%	0%	188k
+chedem	toi	3.0	67%	67%	33%	0%	0%	196k
+phim	toi	3.0	0%	0%	0%	69%	31%	311k
+choi	toi	3.0	67%	67%	33%	0%	0%	195k
+photobooth	toi	3.0	0%	0%	100%	0%	0%	258k
+cafephoto	chieu	3.0	0%	0%	100%	0%	0%	235k
+baotang	chieu	3.0	81%	81%	19%	0%	0%	180k
+song	toi	3.0	67%	67%	33%	0%	0%	197k
+boardgame	toi	3.0	0%	0%	0%	100%	0%	224k
+karaoke	toi	3.0	0%	0%	0%	44%	56%	604k
+thethao	toi	3.0	0%	0%	67%	33%	0%	263k
+thucung	toi	3.0	0%	0%	33%	67%	0%	217k
+xemkich	toi	3.0	0%	0%	0%	100%	0%	290k
+game	toi	3.0	0%	0%	67%	33%	0%	250k
+spa	toi	3.0	0%	0%	0%	100%	0%	184k
+workshop	toi	3.0	33%	33%	67%	0%	0%	209k
+checkin	toi	3.0	100%	100%	0%	0%	0%	176k
+finedining	toi	3.0	0%	0%	0%	56%	44%	625k
+deeptalk	toi	3.0	67%	67%	33%	0%	0%	197k
+random	toi	3.0	100%	100%	0%	0%	0%	174k
+Dưới 200k: viable combos: ≥80% chắc chắn = 2/20; ≥80% chắc chắn AND ≥50% in-range (Σmax ≥ range min) = 2 · distinct kinds 13 · categories 47 · category repeat rate across the 3 plans 23%
+
+-- 200–300k --
+combo	part	plans/run	sure(Σmax≤max)	inRange(sure & Σmax≥min)	maybe	unknown	over	avg
+cafe	toi	3.0	100%	100%	0%	0%	0%	258k
+anvat	toi	3.0	100%	100%	0%	0%	0%	223k
+chedem	toi	3.0	100%	100%	0%	0%	0%	217k
+phim	toi	3.0	0%	0%	67%	33%	0%	364k
+choi	toi	3.0	100%	100%	0%	0%	0%	253k
+photobooth	toi	3.0	100%	100%	0%	0%	0%	259k
+cafephoto	chieu	3.0	100%	100%	0%	0%	0%	263k
+baotang	chieu	3.0	100%	100%	0%	0%	0%	239k
+song	toi	3.0	100%	100%	0%	0%	0%	245k
+boardgame	toi	3.0	0%	0%	33%	67%	0%	345k
+karaoke	toi	3.0	0%	0%	33%	33%	33%	635k
+thethao	toi	3.0	0%	0%	100%	0%	0%	366k
+thucung	toi	3.0	72%	72%	28%	0%	0%	287k
+xemkich	toi	3.0	0%	0%	100%	0%	0%	424k
+game	toi	3.0	0%	0%	100%	0%	0%	393k
+spa	toi	3.0	0%	0%	67%	33%	0%	344k
+workshop	toi	3.0	100%	100%	0%	0%	0%	258k
+checkin	toi	3.0	100%	100%	0%	0%	0%	252k
+finedining	toi	3.0	0%	0%	100%	0%	0%	770k
+deeptalk	toi	3.0	100%	100%	0%	0%	0%	253k
+random	toi	3.0	100%	100%	0%	0%	0%	242k
+200–300k: viable combos: ≥80% chắc chắn = 11/20; ≥80% chắc chắn AND ≥50% in-range (Σmax ≥ range min) = 11 · distinct kinds 13 · categories 46 · category repeat rate across the 3 plans 16%
+
+-- 400–500k --
+combo	part	plans/run	sure(Σmax≤max)	inRange(sure & Σmax≥min)	maybe	unknown	over	avg
+cafe	toi	3.0	100%	100%	0%	0%	0%	390k
+anvat	toi	3.0	100%	89%	0%	0%	0%	357k
+chedem	toi	3.0	100%	94%	0%	0%	0%	358k
+phim	toi	3.0	67%	67%	33%	0%	0%	452k
+choi	toi	3.0	100%	89%	0%	0%	0%	405k
+photobooth	toi	3.0	100%	92%	0%	0%	0%	388k
+cafephoto	chieu	3.0	100%	97%	0%	0%	0%	409k
+baotang	chieu	3.0	100%	69%	0%	0%	0%	386k
+song	toi	3.0	100%	28%	0%	0%	0%	322k
+boardgame	toi	3.0	33%	33%	33%	33%	0%	520k
+karaoke	toi	3.0	0%	0%	67%	33%	0%	619k
+thethao	toi	3.0	100%	100%	0%	0%	0%	408k
+thucung	toi	3.0	100%	83%	0%	0%	0%	366k
+xemkich	toi	3.0	33%	33%	67%	0%	0%	496k
+game	toi	3.0	100%	100%	0%	0%	0%	409k
+spa	toi	3.0	100%	100%	0%	0%	0%	397k
+workshop	toi	3.0	100%	56%	0%	0%	0%	358k
+checkin	toi	3.0	100%	83%	0%	0%	0%	401k
+finedining	toi	3.0	0%	0%	100%	0%	0%	734k
+deeptalk	toi	3.0	100%	97%	0%	0%	0%	407k
+random	toi	3.0	100%	86%	0%	0%	0%	388k
+400–500k: viable combos: ≥80% chắc chắn = 15/20; ≥80% chắc chắn AND ≥50% in-range (Σmax ≥ range min) = 14 · distinct kinds 13 · categories 49 · category repeat rate across the 3 plans 17%
+
+-- 600–700k --
+combo	part	plans/run	sure(Σmax≤max)	inRange(sure & Σmax≥min)	maybe	unknown	over	avg
+cafe	toi	3.0	100%	64%	0%	0%	0%	513k
+anvat	toi	3.0	100%	33%	0%	0%	0%	399k
+chedem	toi	3.0	100%	33%	0%	0%	0%	401k
+phim	toi	3.0	100%	78%	0%	0%	0%	502k
+choi	toi	3.0	100%	100%	0%	0%	0%	594k
+photobooth	toi	3.0	100%	50%	0%	0%	0%	506k
+cafephoto	chieu	3.0	100%	47%	0%	0%	0%	497k
+baotang	chieu	3.0	100%	78%	0%	0%	0%	506k
+song	toi	3.0	100%	75%	0%	0%	0%	507k
+boardgame	toi	3.0	67%	36%	0%	33%	0%	616k
+karaoke	toi	3.0	0%	0%	67%	33%	0%	702k
+thethao	toi	3.0	100%	100%	0%	0%	0%	595k
+thucung	toi	3.0	100%	69%	0%	0%	0%	487k
+xemkich	toi	3.0	100%	94%	0%	0%	0%	523k
+game	toi	3.0	100%	100%	0%	0%	0%	589k
+spa	toi	3.0	100%	89%	0%	0%	0%	560k
+workshop	toi	3.0	100%	100%	0%	0%	0%	595k
+checkin	toi	3.0	100%	100%	0%	0%	0%	561k
+finedining	toi	3.0	0%	0%	100%	0%	0%	746k
+deeptalk	toi	3.0	100%	100%	0%	0%	0%	603k
+random	toi	3.0	100%	81%	0%	0%	0%	529k
+600–700k: viable combos: ≥80% chắc chắn = 17/20; ≥80% chắc chắn AND ≥50% in-range (Σmax ≥ range min) = 14 · distinct kinds 13 · categories 47 · category repeat rate across the 3 plans 18%
+
+-- 800–900k --
+combo	part	plans/run	sure(Σmax≤max)	inRange(sure & Σmax≥min)	maybe	unknown	over	avg
+cafe	toi	3.0	100%	97%	0%	0%	0%	726k
+anvat	toi	3.0	100%	0%	0%	0%	0%	398k
+chedem	toi	3.0	100%	0%	0%	0%	0%	399k
+phim	toi	3.0	100%	53%	0%	0%	0%	603k
+choi	toi	3.0	100%	100%	0%	0%	0%	755k
+photobooth	toi	3.0	100%	100%	0%	0%	0%	732k
+cafephoto	chieu	3.0	100%	3%	0%	0%	0%	548k
+baotang	chieu	3.0	100%	72%	0%	0%	0%	668k
+song	toi	3.0	100%	92%	0%	0%	0%	704k
+boardgame	toi	3.0	67%	11%	0%	33%	0%	680k
+karaoke	toi	3.0	33%	33%	33%	33%	0%	741k
+thethao	toi	3.0	100%	100%	0%	0%	0%	776k
+thucung	toi	3.0	100%	67%	0%	0%	0%	643k
+xemkich	toi	3.0	100%	78%	0%	0%	0%	665k
+game	toi	3.0	100%	100%	0%	0%	0%	764k
+spa	toi	3.0	100%	61%	0%	0%	0%	705k
+workshop	toi	3.0	100%	97%	0%	0%	0%	768k
+checkin	toi	3.0	100%	100%	0%	0%	0%	720k
+finedining	toi	3.0	100%	100%	0%	0%	0%	658k
+deeptalk	toi	3.0	100%	100%	0%	0%	0%	762k
+random	toi	3.0	100%	72%	0%	0%	0%	630k
+800–900k: viable combos: ≥80% chắc chắn = 18/20; ≥80% chắc chắn AND ≥50% in-range (Σmax ≥ range min) = 15 · distinct kinds 13 · categories 50 · category repeat rate across the 3 plans 18%
+
+-- 900k–1tr --
+combo	part	plans/run	sure(Σmax≤max)	inRange(sure & Σmax≥min)	maybe	unknown	over	avg
+cafe	toi	3.0	100%	97%	0%	0%	0%	829k
+anvat	toi	3.0	100%	0%	0%	0%	0%	398k
+chedem	toi	3.0	100%	0%	0%	0%	0%	400k
+phim	toi	3.0	100%	42%	0%	0%	0%	669k
+choi	toi	3.0	100%	97%	0%	0%	0%	854k
+photobooth	toi	3.0	100%	94%	0%	0%	0%	832k
+cafephoto	chieu	3.0	100%	0%	0%	0%	0%	592k
+baotang	chieu	3.0	100%	89%	0%	0%	0%	820k
+song	toi	3.0	100%	83%	0%	0%	0%	822k
+boardgame	toi	3.0	67%	22%	0%	33%	0%	744k
+karaoke	toi	3.0	33%	33%	33%	33%	0%	860k
+thethao	toi	3.0	100%	100%	0%	0%	0%	852k
+thucung	toi	3.0	100%	61%	0%	0%	0%	733k
+xemkich	toi	3.0	100%	72%	0%	0%	0%	749k
+game	toi	3.0	100%	100%	0%	0%	0%	829k
+spa	toi	3.0	100%	100%	0%	0%	0%	842k
+workshop	toi	3.0	100%	100%	0%	0%	0%	861k
+checkin	toi	3.0	100%	97%	0%	0%	0%	851k
+finedining	toi	3.0	100%	100%	0%	0%	0%	791k
+deeptalk	toi	3.0	100%	100%	0%	0%	0%	877k
+random	toi	3.0	100%	83%	0%	0%	0%	765k
+900k–1tr: viable combos: ≥80% chắc chắn = 18/20; ≥80% chắc chắn AND ≥50% in-range (Σmax ≥ range min) = 14 · distinct kinds 13 · categories 52 · category repeat rate across the 3 plans 17%
+
+SUMMARY 3-stop
+Dưới 200k: viable combos: ≥80% chắc chắn = 2/20; ≥80% chắc chắn AND ≥50% in-range (Σmax ≥ range min) = 2 · distinct kinds 13 · categories 47 · category repeat rate across the 3 plans 23%
+200–300k: viable combos: ≥80% chắc chắn = 11/20; ≥80% chắc chắn AND ≥50% in-range (Σmax ≥ range min) = 11 · distinct kinds 13 · categories 46 · category repeat rate across the 3 plans 16%
+400–500k: viable combos: ≥80% chắc chắn = 15/20; ≥80% chắc chắn AND ≥50% in-range (Σmax ≥ range min) = 14 · distinct kinds 13 · categories 49 · category repeat rate across the 3 plans 17%
+600–700k: viable combos: ≥80% chắc chắn = 17/20; ≥80% chắc chắn AND ≥50% in-range (Σmax ≥ range min) = 14 · distinct kinds 13 · categories 47 · category repeat rate across the 3 plans 18%
+800–900k: viable combos: ≥80% chắc chắn = 18/20; ≥80% chắc chắn AND ≥50% in-range (Σmax ≥ range min) = 15 · distinct kinds 13 · categories 50 · category repeat rate across the 3 plans 18%
+900k–1tr: viable combos: ≥80% chắc chắn = 18/20; ≥80% chắc chắn AND ≥50% in-range (Σmax ≥ range min) = 14 · distinct kinds 13 · categories 52 · category repeat rate across the 3 plans 17%

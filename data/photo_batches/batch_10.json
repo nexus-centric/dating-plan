@@ -1,0 +1,62 @@
+[
+ {
+  "idx": 13,
+  "name": "Oromia Coffee & Lounge",
+  "address": "85 Phan Kế Bính, P. Đa Kao, Quận 1",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Oromia%20Coffee%20%26%20Lounge%2085%20Phan%20K%E1%BA%BF%20B%C3%ADnh%2C%20P.%20%C4%90a%20Kao%2C%20Qu%E1%BA%ADn%201"
+ },
+ {
+  "idx": 14,
+  "name": "Lavender",
+  "address": "384/40 Nam Kỳ Khởi Nghĩa, P.8, Q.3",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Lavender%20384/40%20Nam%20K%E1%BB%B3%20Kh%E1%BB%9Fi%20Ngh%C4%A9a%2C%20P.8%2C%20Q.3%20TP.HCM"
+ },
+ {
+  "idx": 24,
+  "name": "The Butcher Shop & Grill",
+  "address": "29 Nguyễn Bá Lân (cổng 2: 108 Xuân Thủy), Thảo Điền",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Butcher%20Shop%20%26%20Grill%2029%20Nguy%E1%BB%85n%20B%C3%A1%20L%C3%A2n%20%28c%E1%BB%95ng%202%3A%20108%20Xu%C3%A2n%20Th%E1%BB%A7y%29%2C%20Th%E1%BA%A3o%20%C4%90i%E1%BB%81n"
+ },
+ {
+  "idx": 54,
+  "name": "Cắm trại suối La Ngâu (2N1Đ/3N2Đ)",
+  "address": null,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=C%E1%BA%AFm%20tr%E1%BA%A1i%20su%E1%BB%91i%20La%20Ng%C3%A2u%20B%C3%ACnh%20Thu%E1%BA%ADn%20%28ngo%C3%A0i%20HCM%29%20TP.HCM"
+ },
+ {
+  "idx": 63,
+  "name": "SAY CHEESE Nguyễn Trãi",
+  "address": "38 Nguyễn Trãi, P. Bến Thành, Quận 1",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=SAY%20CHEESE%20Nguy%E1%BB%85n%20Tr%C3%A3i%2038%20Nguy%E1%BB%85n%20Tr%C3%A3i%2C%20P.%20B%E1%BA%BFn%20Th%C3%A0nh%2C%20Qu%E1%BA%ADn%201"
+ },
+ {
+  "idx": 67,
+  "name": "PhotoYoyo",
+  "address": "856 Sư Vạn Hạnh, P.13, Quận 10",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=PhotoYoyo%20856%20S%C6%B0%20V%E1%BA%A1n%20H%E1%BA%A1nh%2C%20P.13%2C%20Qu%E1%BA%ADn%2010"
+ },
+ {
+  "idx": 74,
+  "name": "Fotopop Selfie Studio",
+  "address": "77 Đoàn Như Hài, P.13, Quận 4",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Fotopop%20Selfie%20Studio%2077%20%C4%90o%C3%A0n%20Nh%C6%B0%20H%C3%A0i%2C%20P.13%2C%20Qu%E1%BA%ADn%204"
+ },
+ {
+  "idx": 79,
+  "name": "Timeo Tuft Club (tufting len)",
+  "address": "10F Nguyễn Thị Minh Khai, Quận 1",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Timeo%20Tuft%20Club%2010F%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20Minh%20Khai%2C%20Qu%E1%BA%ADn%201%20TP.HCM"
+ },
+ {
+  "idx": 82,
+  "name": "Sax n' Art Jazz Club",
+  "address": "BB4 hẻm 188 Nguyễn Văn Hưởng, Thảo Điền",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Sax%20n%27%20Art%20Jazz%20Club%20BB4%20h%E1%BA%BBm%20188%20Nguy%E1%BB%85n%20V%C4%83n%20H%C6%B0%E1%BB%9Fng%2C%20Th%E1%BA%A3o%20%C4%90i%E1%BB%81n"
+ },
+ {
+  "idx": 89,
+  "name": "The Factory Contemporary Arts Centre",
+  "address": "165 Nguyễn Văn Hưởng, Thảo Điền",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Factory%20Contemporary%20Arts%20Centre%20165%20Nguy%E1%BB%85n%20V%C4%83n%20H%C6%B0%E1%BB%9Fng%2C%20Th%E1%BA%A3o%20%C4%90i%E1%BB%81n"
+ }
+]

@@ -1,0 +1,1324 @@
+[
+ {
+  "name": "The Park Rooftop Bar & Lounge",
+  "type": "food",
+  "category": "rooftop bar",
+  "district": "Quận 1",
+  "address": "Tầng 5, 20 Đỗ Quang Đẩu, P. Phạm Ngũ Lão, Q.1",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": "Từ 17:00 đến khuya",
+  "mood_tags": [
+   "lãng mạn",
+   "chill",
+   "đêm muộn"
+  ],
+  "description_vi": "Rooftop cocktail view phố, có acoustic/DJ cuối tuần.",
+  "source_urls": [
+   "https://theparksaigon.com/top-dia-diem-hen-ho-lang-man-buoi-toi-tai-quan-1-the-park-rooftop/",
+   "https://caubason.com/dia-diem-hen-ho-sai-gon/"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Propeller Rooftop Bar (Bay Hotel)",
+  "type": "food",
+  "category": "rooftop bar",
+  "district": "Quận 1",
+  "address": "Tầng 17, 7 Ngô Văn Năm, Q.1",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": "16:00–23:00, đóng cửa thứ Hai",
+  "mood_tags": [
+   "lãng mạn",
+   "sang chảnh"
+  ],
+  "description_vi": "Rooftop tầng 17 view sông Sài Gòn và hoàng hôn.",
+  "source_urls": [
+   "https://www.bayhotelhcm.com/propeller-rooftop-bar-in-district-1/"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Zion Sky Lounge & Dining",
+  "type": "food",
+  "category": "rooftop bar",
+  "district": "Quận 1",
+  "address": "Tầng 14, 87A Hàm Nghi, Q.1",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": "16:00–03:00 hằng ngày",
+  "mood_tags": [
+   "sang chảnh",
+   "đêm muộn"
+  ],
+  "description_vi": "Sky lounge tầng 14, có ghi chú chuẩn bị cho sinh nhật/kỷ niệm khi đặt bàn.",
+  "source_urls": [
+   "https://zionskyloungesaigon.com/en/book"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Momento Rooftop (trước đây Cocoon Rooftop)",
+  "type": "food",
+  "category": "rooftop bar",
+  "district": "Quận 1",
+  "address": "Tầng 8, 105 Cô Giang, Q.1",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": "16:00–00:30; T6–T7 đến 04:00",
+  "mood_tags": [
+   "chill",
+   "đêm muộn"
+  ],
+  "description_vi": "Rooftop ngoài trời nhạc hay, pizza và cocktail giữa trung tâm.",
+  "source_urls": [
+   "https://www.tripadvisor.com.au/Restaurant_Review-g293925-d26635082-Reviews-Momento_Rooftop-Ho_Chi_Minh_City.html"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Chill Skybar (AB Tower)",
+  "type": "food",
+  "category": "rooftop bar",
+  "district": "Quận 1",
+  "address": "Tầng 76, AB Tower, 2 Hải Triều, Q.1 (theo nguồn)",
+  "price_per_couple_vnd": 400000,
+  "price_note": "Min spend 200.000đ/người theo TripCurator (tháng 5/2026); nguồn ghi vị trí lẫn lộn AB Tower/Bitexco — cần kiểm tra địa chỉ",
+  "opening_hours": "17:00–02:00",
+  "mood_tags": [
+   "sang chảnh",
+   "lãng mạn",
+   "đêm muộn"
+  ],
+  "description_vi": "Rooftop cao, view 360° thành phố, dress code smart casual.",
+  "source_urls": [
+   "https://www.tripcurator.travel/guides/hcmc-rooftop-bars.html"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "uncertain",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Rooftop Grand Lounge (Hotel Grand Saigon)",
+  "type": "food",
+  "category": "rooftop bar/nhà hàng",
+  "district": "Quận 1",
+  "address": "8 Đồng Khởi, Q.1",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": "06:00–00:00 hằng ngày",
+  "mood_tags": [
+   "sang chảnh",
+   "lãng mạn"
+  ],
+  "description_vi": "Rooftop tầng 20 trong khách sạn cổ, view sông, có ban nhạc sống.",
+  "source_urls": [
+   "https://www.therooftopguide.com/rooftop-bars-in-ho-chi-minh/rooftop-grand-lounge.html"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Bar57",
+  "type": "food",
+  "category": "bar",
+  "district": "Quận 1",
+  "address": "57 Nguyễn Du, Q.1",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "lãng mạn",
+   "đêm muộn"
+  ],
+  "description_vi": "Quán bar được gợi ý cho buổi tối hẹn hò ở Q.1.",
+  "source_urls": [
+   "https://theparksaigon.com/top-dia-diem-hen-ho-lang-man-buoi-toi-tai-quan-1-the-park-rooftop/"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "The Refinery",
+  "type": "food",
+  "category": "nhà hàng/bistro",
+  "district": "Quận 1",
+  "address": "74 Hai Bà Trưng, Q.1",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "lãng mạn",
+   "chill"
+  ],
+  "description_vi": "Bistro yên tĩnh, riêng tư được gợi ý cho cặp đôi.",
+  "source_urls": [
+   "https://pinguide.city/district-1/guides/date-ideas-saigon-district-1/"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Cork and Bottle",
+  "type": "food",
+  "category": "wine bar",
+  "district": "Quận 1",
+  "address": "7 Thái Văn Lung, Q.1",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "lãng mạn",
+   "sang chảnh"
+  ],
+  "description_vi": "Quán rượu vang nhỏ, không gian yên tĩnh.",
+  "source_urls": [
+   "https://pinguide.city/district-1/guides/date-ideas-saigon-district-1/"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "CỘI",
+  "type": "food",
+  "category": "nhà hàng Việt",
+  "district": "Quận 1",
+  "address": "77–79 Lý Tự Trọng, Q.1",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "lãng mạn",
+   "chill"
+  ],
+  "description_vi": "Nhà hàng không gian riêng tư, ấm cúng ở trung tâm.",
+  "source_urls": [
+   "https://pinguide.city/district-1/guides/date-ideas-saigon-district-1/"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Trên Tầng Thượng",
+  "type": "food",
+  "category": "cafe",
+  "district": "Quận 3",
+  "address": "540/19 Cách Mạng Tháng Tám, P.11, Q.3",
+  "price_per_couple_vnd": null,
+  "price_note": "Giá đồ uống 60.000–75.000đ/món",
+  "opening_hours": "07:00–23:30",
+  "mood_tags": [
+   "chill",
+   "lãng mạn"
+  ],
+  "description_vi": "Cafe trên tầng thượng nhà máy cũ, view sân ga, nhạc nhẹ 19:30–21:30.",
+  "source_urls": [
+   "https://zalopay.vn/quan-ca-phe-quan-3-4965"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "3Đ Chill Cafe",
+  "type": "food",
+  "category": "cafe",
+  "district": "Quận 3",
+  "address": "120/4 Trần Quốc Thảo, P.14, Q.3",
+  "price_per_couple_vnd": null,
+  "price_note": "Giá đồ uống 45.000–60.000đ/món",
+  "opening_hours": "07:00–22:00",
+  "mood_tags": [
+   "chill",
+   "ngày mưa",
+   "rẻ mà vui"
+  ],
+  "description_vi": "Cafe trong hẻm, sân cây xanh, gạch bông vintage.",
+  "source_urls": [
+   "https://zalopay.vn/quan-ca-phe-quan-3-4965"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "OZ Coffee House",
+  "type": "food",
+  "category": "cafe",
+  "district": "Quận 3 / Bình Thạnh",
+  "address": "CS: 207/31 Lê Văn Sỹ Q.3; 30 Huỳnh Tịnh Của Q.3; 273/46 Nguyễn Văn Đậu Bình Thạnh",
+  "price_per_couple_vnd": null,
+  "price_note": "Giá 30.000–250.000đ/món tùy chi nhánh",
+  "opening_hours": "08:00–23:30 (Huỳnh Tịnh Của: 08:00–22:00)",
+  "mood_tags": [
+   "lãng mạn",
+   "chill",
+   "ngày mưa"
+  ],
+  "description_vi": "Cafe tình nhân quốc dân, có phòng riêng cho 2 người.",
+  "source_urls": [
+   "https://zalopay.vn/quan-ca-phe-quan-3-4965",
+   "https://thuytinhgiare.com/quan-ca-phe-tinh-nhan.html"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Oromia Coffee & Lounge",
+  "type": "food",
+  "category": "cafe",
+  "district": "Quận 3",
+  "address": "193A/D3 Nam Kỳ Khởi Nghĩa, Q.3 (nguồn khác ghi 93A/D3)",
+  "price_per_couple_vnd": null,
+  "price_note": "Giá 40.000–150.000đ/món; địa chỉ các nguồn không thống nhất",
+  "opening_hours": "07:00–22:00/23:00",
+  "mood_tags": [
+   "chill",
+   "lãng mạn"
+  ],
+  "description_vi": "Cafe trong hẻm có hồ cá Koi, lên đèn buổi tối.",
+  "source_urls": [
+   "https://thuytinhgiare.com/quan-ca-phe-tinh-nhan.html",
+   "https://1phutsaigon.vn/quan-cafe-hen-ho-cuc-chat/"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Lavender",
+  "type": "food",
+  "category": "cafe",
+  "district": "Quận 3",
+  "address": "384/40 Nam Kỳ Khởi Nghĩa, P.8, Q.3",
+  "price_per_couple_vnd": null,
+  "price_note": "Từ 49.000đ/món",
+  "opening_hours": "08:00–21:00",
+  "mood_tags": [
+   "lãng mạn",
+   "chill"
+  ],
+  "description_vi": "Cafe phong cách Pháp tông tím oải hương.",
+  "source_urls": [
+   "https://thuytinhgiare.com/quan-ca-phe-tinh-nhan.html"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Pergola Cafe",
+  "type": "food",
+  "category": "cafe",
+  "district": "Phú Nhuận",
+  "address": "28A Trần Cao Vân, P.12, Phú Nhuận",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": "07:00–23:00",
+  "mood_tags": [
+   "lãng mạn",
+   "chill"
+  ],
+  "description_vi": "Cafe sân vườn phong cách châu Âu cổ điển.",
+  "source_urls": [
+   "https://thuytinhgiare.com/quan-ca-phe-tinh-nhan.html"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Nến Cafe",
+  "type": "food",
+  "category": "cafe",
+  "district": "Phú Nhuận",
+  "address": "110A Nguyễn Đình Chính, P.15, Phú Nhuận",
+  "price_per_couple_vnd": null,
+  "price_note": "Giá 30.000–110.000đ/món",
+  "opening_hours": "07:00–23:00",
+  "mood_tags": [
+   "lãng mạn",
+   "ngày mưa"
+  ],
+  "description_vi": "Cafe ánh nến với 6 khu vực phong cách khác nhau.",
+  "source_urls": [
+   "https://thuytinhgiare.com/quan-ca-phe-tinh-nhan.html"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "The Dome Kaffe",
+  "type": "food",
+  "category": "cafe",
+  "district": "Phú Nhuận",
+  "address": "10/16 Đoàn Thị Điểm, Phú Nhuận",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": "09:30–22:00 (nguồn khác 08:00–22:00)",
+  "mood_tags": [
+   "chill",
+   "ngày mưa"
+  ],
+  "description_vi": "Cafe tối giản đen trắng kiểu Hàn, bánh ngọt đẹp.",
+  "source_urls": [
+   "https://tripi.vn/blog/vi/xep-hang/top-12-quan-ca-phe-lang-man-nhat-sai-gon-danh-cho-cac-cap-doi-tripi",
+   "https://1phutsaigon.vn/quan-cafe-hen-ho-cuc-chat/"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Ráng Chiều Rooftop",
+  "type": "food",
+  "category": "rooftop cafe",
+  "district": "Phú Nhuận",
+  "address": "39A Trần Khắc Chân, P.15, Phú Nhuận",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": "16:00–23:30",
+  "mood_tags": [
+   "chill",
+   "lãng mạn",
+   "rẻ mà vui"
+  ],
+  "description_vi": "Rooftop bình dân ngắm hoàng hôn.",
+  "source_urls": [
+   "https://1phutsaigon.vn/quan-cafe-hen-ho-cuc-chat/"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Trăng Non Rooftop",
+  "type": "food",
+  "category": "rooftop cafe",
+  "district": "Bình Thạnh",
+  "address": "302 Nguyễn Văn Đậu, Bình Thạnh",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": "17:00–23:30",
+  "mood_tags": [
+   "lãng mạn",
+   "chill"
+  ],
+  "description_vi": "Rooftop như khu rừng nhỏ, đèn vàng ngắm sao.",
+  "source_urls": [
+   "https://1phutsaigon.vn/quan-cafe-hen-ho-cuc-chat/"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Chạng Vạng Rooftop Hàng Xanh",
+  "type": "food",
+  "category": "rooftop cafe",
+  "district": "Bình Thạnh",
+  "address": "72/6 P.24, Bình Thạnh",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": "08:00–22:00",
+  "mood_tags": [
+   "chill",
+   "rẻ mà vui"
+  ],
+  "description_vi": "Rooftop lâu đời, acoustic cuối tuần.",
+  "source_urls": [
+   "https://1phutsaigon.vn/quan-cafe-hen-ho-cuc-chat/"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Cà phê Thủy Trúc",
+  "type": "food",
+  "category": "cafe sân vườn",
+  "district": "Bình Thạnh",
+  "address": "197 Đinh Bộ Lĩnh, P.26, Bình Thạnh",
+  "price_per_couple_vnd": null,
+  "price_note": "Giá 35.000–100.000đ/món",
+  "opening_hours": "07:00–21:00",
+  "mood_tags": [
+   "chill",
+   "rẻ mà vui"
+  ],
+  "description_vi": "Cafe sân vườn kiểu đồng quê có suối, cầu nhỏ.",
+  "source_urls": [
+   "https://thuytinhgiare.com/quan-ca-phe-tinh-nhan.html"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "The Deck Saigon",
+  "type": "food",
+  "category": "nhà hàng",
+  "district": "Thảo Điền (TP Thủ Đức)",
+  "address": "38 Nguyễn Ư Dĩ, Thảo Điền",
+  "price_per_couple_vnd": null,
+  "price_note": "Nguồn: khoảng 200.000–800.000đ/người (tóm tắt tìm kiếm, chưa mở trang gốc)",
+  "opening_hours": null,
+  "mood_tags": [
+   "lãng mạn",
+   "sang chảnh"
+  ],
+  "description_vi": "Nhà hàng view sông Sài Gòn sang trọng.",
+  "source_urls": [
+   "https://www.lemon8-app.com/restaurants/7172860750032142850?region=vn"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Quán Bụi Garden",
+  "type": "food",
+  "category": "nhà hàng Việt",
+  "district": "Thảo Điền (TP Thủ Đức)",
+  "address": "55A Ngô Quang Huy, Thảo Điền",
+  "price_per_couple_vnd": null,
+  "price_note": "Khoảng 50.000–250.000đ/người theo tóm tắt tìm kiếm",
+  "opening_hours": null,
+  "mood_tags": [
+   "chill",
+   "lãng mạn"
+  ],
+  "description_vi": "Nhà hàng sân vườn món Việt yên tĩnh.",
+  "source_urls": [
+   "https://www.syphu.com.vn/quan-an-lang-man-cho-2-nguoi-o-sai-gon/"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "The Butcher Shop & Grill",
+  "type": "food",
+  "category": "steakhouse",
+  "district": "Thảo Điền (TP Thủ Đức)",
+  "address": "29 Nguyễn Bá Lân, Thảo Điền",
+  "price_per_couple_vnd": null,
+  "price_note": "Khoảng 200.000–400.000đ/người",
+  "opening_hours": null,
+  "mood_tags": [
+   "lãng mạn",
+   "sang chảnh"
+  ],
+  "description_vi": "Nhà hàng steak & món Âu ấm cúng.",
+  "source_urls": [
+   "https://pasgo.vn/nha-hang/the-butcher-shop-and-grill-nguyen-ba-lan-3762"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Vérité Patisserie",
+  "type": "food",
+  "category": "tiệm bánh/dessert",
+  "district": "Quận 1",
+  "address": "84/1 Trần Đình Xu, Q.1",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "lãng mạn",
+   "chill"
+  ],
+  "description_vi": "Tiệm bánh Pháp, nhạc piano/violin cuối tuần.",
+  "source_urls": [
+   "https://didau.com/giua-long-sai-gon-xuat-hien-1-tiem-banh-phap-cuc-ky-lang-man-chon-hen-ho-tra-banh-ly-tuong-khong-phai-ai-cung-biet"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Châteraisé Lê Thánh Tôn",
+  "type": "food",
+  "category": "dessert",
+  "district": "Quận 1",
+  "address": "29A Lê Thánh Tôn, Q.1",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "chill",
+   "ngày mưa"
+  ],
+  "description_vi": "Tiệm bánh Nhật tối giản, nhiều tầng ngồi.",
+  "source_urls": [
+   "https://exa.ai/library/places?q=e40ccf5d68b3d696"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Tarobu Dessert",
+  "type": "food",
+  "category": "dessert",
+  "district": "Quận 3",
+  "address": "204C Điện Biên Phủ, Q.3",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": "12:00–22:00",
+  "mood_tags": [
+   "chill",
+   "rẻ mà vui"
+  ],
+  "description_vi": "Quán chè/dessert cho buổi chiều tối.",
+  "source_urls": [
+   "https://exa.ai/library/places?q=218539db345c4270"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Chợ ẩm thực Hồ Thị Kỷ",
+  "type": "food",
+  "category": "chợ đêm/street food",
+  "district": "Quận 10",
+  "address": "Hẻm Hồ Thị Kỷ, Q.10",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": "Khoảng 15:00–23:00",
+  "mood_tags": [
+   "rẻ mà vui",
+   "năng động",
+   "đêm muộn"
+  ],
+  "description_vi": "Chợ ẩm thực đường phố sôi động, không thu vé.",
+  "source_urls": [
+   "https://mytour.vn/vi/blog/bai-viet/cho-dem-ho-thi-ky-diem-hen-soi-dong-nhat-tphcm.html",
+   "https://saigonvivu.com/cho-dem-sai-gon/"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Benthanh Princess – du thuyền ăn tối",
+  "type": "food",
+  "category": "du thuyền nhà hàng",
+  "district": "Quận 1 (bến sông Sài Gòn)",
+  "address": null,
+  "price_per_couple_vnd": 1960000,
+  "price_note": "Set menu 2026 từ 980.000đ/người (đã gồm thuế, phí, vé thuyền)",
+  "opening_hours": null,
+  "mood_tags": [
+   "lãng mạn",
+   "sang chảnh",
+   "kỷ niệm"
+  ],
+  "description_vi": "Du thuyền ăn tối 2 giờ trên sông Sài Gòn.",
+  "source_urls": [
+   "https://www.benthanhprincess.com.vn/vi/dining-experiences/"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Tròn Kitchen",
+  "type": "food",
+  "category": "nhà hàng",
+  "district": "Quận 3",
+  "address": "262c Đ. Lê Văn Sỹ, Phường 14, Quận 3",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [],
+  "description_vi": "Nhà hàng do người dùng gợi ý.",
+  "source_urls": [],
+  "source": "user",
+  "out_of_area": false,
+  "status": "user_provided",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Phố đi bộ Nguyễn Huệ",
+  "type": "activity",
+  "category": "đi dạo",
+  "district": "Quận 1",
+  "address": "Đường Nguyễn Huệ, Q.1",
+  "price_per_couple_vnd": 0,
+  "price_note": "Miễn phí vào; giá 0 chỉ là phí vào cửa",
+  "opening_hours": "Đẹp nhất sau 18:00",
+  "mood_tags": [
+   "rẻ mà vui",
+   "lãng mạn",
+   "đêm muộn"
+  ],
+  "description_vi": "Dạo phố đi bộ, nghe nhạc đường phố, nhạc nước cuối tuần.",
+  "source_urls": [
+   "https://caubason.com/dia-diem-hen-ho-sai-gon/",
+   "https://mia.vn/cam-nang-du-lich/cac-dia-diem-hen-ho-o-sai-gon-17524"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Đường sách Nguyễn Văn Bình",
+  "type": "activity",
+  "category": "đi dạo/sách",
+  "district": "Quận 1",
+  "address": "Đường Nguyễn Văn Bình, cạnh Nhà thờ Đức Bà, Q.1",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "chill",
+   "rẻ mà vui"
+  ],
+  "description_vi": "Con đường sách rợp cây, đọc sách và cafe.",
+  "source_urls": [
+   "https://caubason.com/dia-diem-hen-ho-sai-gon/"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Cà phê bệt Nhà thờ Đức Bà",
+  "type": "activity",
+  "category": "đi dạo",
+  "district": "Quận 1",
+  "address": "Công xã Paris, Q.1",
+  "price_per_couple_vnd": null,
+  "price_note": "Khu vực nhà thờ có thể đang trùng tu",
+  "opening_hours": null,
+  "mood_tags": [
+   "rẻ mà vui",
+   "chill"
+  ],
+  "description_vi": "Ngồi bệt uống cafe ngắm phố quanh nhà thờ.",
+  "source_urls": [
+   "https://mia.vn/cam-nang-du-lich/cac-dia-diem-hen-ho-o-sai-gon-17524"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "uncertain",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Thảo Cầm Viên",
+  "type": "activity",
+  "category": "công viên/sở thú",
+  "district": "Quận 1",
+  "address": null,
+  "price_per_couple_vnd": 120000,
+  "price_note": "Vé người lớn 60.000đ",
+  "opening_hours": null,
+  "mood_tags": [
+   "chill",
+   "rẻ mà vui"
+  ],
+  "description_vi": "Dạo vườn cây cổ thụ, nhà kính lan, chụp ảnh vintage.",
+  "source_urls": [
+   "https://caubason.com/dia-diem-hen-ho-sai-gon/",
+   "https://vietair.com.vn/du-lich-trong-nuoc/gia-ve-thao-cam-vien.html"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Nhà hát Thành phố",
+  "type": "activity",
+  "category": "nghệ thuật/biểu diễn",
+  "district": "Quận 1",
+  "address": "7 Công trường Lam Sơn, Q.1",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "sang chảnh",
+   "lãng mạn"
+  ],
+  "description_vi": "Xem opera, kịch, biểu diễn trong nhà hát cổ.",
+  "source_urls": [
+   "https://mia.vn/cam-nang-du-lich/cac-dia-diem-hen-ho-o-sai-gon-17524"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Phố Tây Bùi Viện",
+  "type": "activity",
+  "category": "phố đêm",
+  "district": "Quận 1",
+  "address": "Phố Bùi Viện, Q.1",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "năng động",
+   "đêm muộn"
+  ],
+  "description_vi": "Phố đêm náo nhiệt với bar và quán ăn.",
+  "source_urls": [
+   "https://mia.vn/cam-nang-du-lich/cac-dia-diem-hen-ho-o-sai-gon-17524"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Bến Bạch Đằng",
+  "type": "activity",
+  "category": "bờ sông",
+  "district": "Quận 1",
+  "address": "Đường Tôn Đức Thắng, Q.1",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "lãng mạn",
+   "rẻ mà vui"
+  ],
+  "description_vi": "Ngắm sông và thành phố lên đèn.",
+  "source_urls": [
+   "https://mia.vn/cam-nang-du-lich/cac-dia-diem-hen-ho-o-sai-gon-17524"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Buýt đường sông Sài Gòn (Water Bus)",
+  "type": "activity",
+  "category": "thuyền trên sông",
+  "district": "Quận 1 (ga Bạch Đằng)",
+  "address": null,
+  "price_per_couple_vnd": 60000,
+  "price_note": "15.000đ/lượt, khứ hồi 30.000đ/người",
+  "opening_hours": "Hằng ngày, theo lịch tàu trên website",
+  "mood_tags": [
+   "lãng mạn",
+   "rẻ mà vui"
+  ],
+  "description_vi": "Đi buýt sông ngắm thành phố từ mặt nước.",
+  "source_urls": [
+   "https://mia.vn/cam-nang-du-lich/water-bus-saigon-12411",
+   "https://saigonwaterbus.com/water-bus"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Saigon Skydeck (Bitexco)",
+  "type": "activity",
+  "category": "điểm ngắm cảnh",
+  "district": "Quận 1",
+  "address": "Bitexco Financial Tower, 2 Hải Triều, Q.1",
+  "price_per_couple_vnd": 480000,
+  "price_note": "Vé người lớn 240.000đ",
+  "opening_hours": "09:30–21:30",
+  "mood_tags": [
+   "lãng mạn",
+   "ngày mưa"
+  ],
+  "description_vi": "Ngắm toàn cảnh Sài Gòn từ trên cao lúc hoàng hôn.",
+  "source_urls": [
+   "https://divui.com/blog/kinh-nghiem-tham-quan-saigon-skydeck-bitexco-2026/"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Bảo tàng Mỹ thuật TP.HCM",
+  "type": "activity",
+  "category": "bảo tàng",
+  "district": "Quận 1",
+  "address": null,
+  "price_per_couple_vnd": 120000,
+  "price_note": "Từ 1/10/2026 vé 60.000đ/người (theo tóm tắt tìm kiếm)",
+  "opening_hours": "08:00–17:00 hằng ngày",
+  "mood_tags": [
+   "chill",
+   "ngày mưa"
+  ],
+  "description_vi": "Xem tranh trong tòa nhà Pháp cổ.",
+  "source_urls": [
+   "http://www.baotangmythuattphcm.com.vn/"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Bảo tàng Chứng tích Chiến tranh",
+  "type": "activity",
+  "category": "bảo tàng",
+  "district": "Quận 3",
+  "address": null,
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": "07:30–17:30 hằng ngày (bán vé đến 17:00)",
+  "mood_tags": [
+   "ngày mưa"
+  ],
+  "description_vi": "Bảo tàng lịch sử, phù hợp cặp đôi thích tìm hiểu.",
+  "source_urls": [
+   "https://www.baotangchungtichchientranh.vn/"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "CGV Liberty Citypoint – Sweetbox",
+  "type": "activity",
+  "category": "rạp chiếu phim",
+  "district": "Quận 1",
+  "address": "59–61 Pasteur, Q.1",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "ngày mưa",
+   "lãng mạn"
+  ],
+  "description_vi": "Rạp có ghế đôi Sweetbox vách ngăn cao.",
+  "source_urls": [
+   "https://rapchieuphim.com/rap/cgv-liberty-citypoint",
+   "https://www.cgv.vn/en/theaters/special/sweetbox"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Gốm Sài Gòn",
+  "type": "activity",
+  "category": "workshop gốm",
+  "district": "Quận 1 / Quận 3",
+  "address": "26 Lý Tự Trọng Q.1; 42 Nguyễn Huệ Q.1; 6C Tú Xương Q.3",
+  "price_per_couple_vnd": 900000,
+  "price_note": "Khoảng 450.000đ/người tại 6C Tú Xương (Tripi); CN 42 Nguyễn Huệ chỉ có trong bài ELLE cũ — cần kiểm tra",
+  "opening_hours": "CN 6C Tú Xương: 08:00–22:00 (Maps)",
+  "mood_tags": [
+   "kỷ niệm",
+   "ngày mưa",
+   "chill"
+  ],
+  "description_vi": "Workshop làm gốm 3 giờ, tự tay tạo hình và trang trí.",
+  "source_urls": [
+   "https://www.elle.vn/trai-nghiem/workshop-cho-cap-doi-tai-sai-gon-valentine/",
+   "https://tripi.vn/blog/vi/kinh-nghiem-hay/kham-pha-nhung-workshop-tuyet-voi-tai-sai-gon-danh-cho-cac-cap-doi-trong-mua-valentine-tripi",
+   "https://exa.ai/library/places?q=4cac557f6aba4b85",
+   "https://vietbao.vn/nhung-workshop-o-sai-gon-danh-cho-cac-cap-doi-vao-moi-cuoi-tuan-581347.html"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Tipsy Art",
+  "type": "activity",
+  "category": "workshop vẽ tranh",
+  "district": "Quận 1",
+  "address": "6B Nguyễn Cảnh Chân, P. Nguyễn Cư Trinh, Q.1",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "kỷ niệm",
+   "ngày mưa"
+  ],
+  "description_vi": "Workshop vẽ tranh 3 giờ có họa sĩ hướng dẫn.",
+  "source_urls": [
+   "https://www.elle.vn/trai-nghiem/workshop-cho-cap-doi-tai-sai-gon-valentine/"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Coming Home Candle",
+  "type": "activity",
+  "category": "workshop nến",
+  "district": "Quận 1",
+  "address": "Lầu 1, 158/17 Nguyễn Công Trứ, Q.1",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "kỷ niệm",
+   "lãng mạn",
+   "ngày mưa"
+  ],
+  "description_vi": "Tự làm nến thơm tạo hình làm quà tặng.",
+  "source_urls": [
+   "https://www.elle.vn/trai-nghiem/workshop-cho-cap-doi-tai-sai-gon-valentine/",
+   "https://exa.ai/library/places?q=4cac557f6aba4b85"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Haru Craft Ceramic Studio",
+  "type": "activity",
+  "category": "workshop gốm",
+  "district": "Bình Thạnh",
+  "address": "15/10 Nguyễn Huy Tưởng, Bình Thạnh",
+  "price_per_couple_vnd": null,
+  "price_note": "300.000–600.000đ/buổi (không rõ người hay buổi)",
+  "opening_hours": null,
+  "mood_tags": [
+   "kỷ niệm",
+   "chill"
+  ],
+  "description_vi": "Studio gốm tối giản kiểu Hàn cho cặp đôi.",
+  "source_urls": [
+   "https://vietinsiders.com/goi-y/workshop-cho-cap-doi-tphcm/"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Clover Pottery Studio & Cafe",
+  "type": "activity",
+  "category": "workshop gốm",
+  "district": "Bình Thạnh",
+  "address": "193 Lê Quang Định, Bình Thạnh",
+  "price_per_couple_vnd": null,
+  "price_note": "250.000–450.000đ (đơn vị không rõ)",
+  "opening_hours": null,
+  "mood_tags": [
+   "chill",
+   "rẻ mà vui"
+  ],
+  "description_vi": "Vừa uống cafe vừa nặn gốm, không dùng bàn xoay.",
+  "source_urls": [
+   "https://vietinsiders.com/goi-y/workshop-cho-cap-doi-tphcm/"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Bibouyo",
+  "type": "activity",
+  "category": "workshop vẽ tranh",
+  "district": "Thảo Điền (TP Thủ Đức)",
+  "address": "191B Nguyễn Văn Hưởng, Thảo Điền",
+  "price_per_couple_vnd": 600000,
+  "price_note": "Từ 300.000đ/người",
+  "opening_hours": null,
+  "mood_tags": [
+   "kỷ niệm",
+   "chill"
+  ],
+  "description_vi": "Vẽ tranh trong không gian như phòng triển lãm nhỏ.",
+  "source_urls": [
+   "https://vietinsiders.com/goi-y/workshop-cho-cap-doi-tphcm/"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Master Escape Room",
+  "type": "activity",
+  "category": "escape room",
+  "district": "Quận 10 / Phú Nhuận",
+  "address": "268 Tô Hiến Thành Q.10; Tầng 4, 240 Nguyễn Đình Chính, Phú Nhuận",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "năng động",
+   "ngày mưa"
+  ],
+  "description_vi": "Giải đố 60 phút; phòng 'Liên' cho 2–8 người.",
+  "source_urls": [
+   "https://masterescape.vn/"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Karaoke ICOOL Thành Thái",
+  "type": "activity",
+  "category": "karaoke",
+  "district": "Quận 10",
+  "address": "120 Thành Thái, Q.10",
+  "price_per_couple_vnd": null,
+  "price_note": "iCool 120.000–350.000đ/giờ/phòng (VietnamSpot 7/2026)",
+  "opening_hours": "24/7 (Maps)",
+  "mood_tags": [
+   "năng động",
+   "đêm muộn",
+   "ngày mưa"
+  ],
+  "description_vi": "Phòng karaoke riêng, âm thanh tốt.",
+  "source_urls": [
+   "https://exa.ai/library/places?q=ed4ff25247a365dd",
+   "https://vietnamspot.ru/en/blog/ho-chi-minh-entertainment"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Bowling Vạn Hạnh Mall",
+  "type": "activity",
+  "category": "bowling",
+  "district": "Quận 10",
+  "address": "Tầng 5, 11 Sư Vạn Hạnh, Q.10",
+  "price_per_couple_vnd": null,
+  "price_note": "Nguồn chung: 60.000–100.000đ/người/game; chưa xác nhận còn hoạt động",
+  "opening_hours": null,
+  "mood_tags": [
+   "năng động",
+   "ngày mưa"
+  ],
+  "description_vi": "Chơi bowling trong trung tâm thương mại.",
+  "source_urls": [
+   "https://pastafrescasaigon.com/en/fun-to-play/"
+  ],
+  "source": "web",
+  "out_of_area": false,
+  "status": "uncertain",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Trượt băng Vincom Landmark 81",
+  "type": "activity",
+  "category": "trượt băng",
+  "district": "Bình Thạnh",
+  "address": "Landmark 81, Bình Thạnh",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "năng động",
+   "ngày mưa"
+  ],
+  "description_vi": "Trượt băng trong nhà cùng nhau.",
+  "source_urls": [],
+  "source": "user",
+  "out_of_area": false,
+  "status": "user_provided",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Bắn cung ở Cung Văn hóa Lao động",
+  "type": "activity",
+  "category": "thể thao",
+  "district": "Quận 1",
+  "address": "Cung Văn hóa Lao động, Q.1",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "năng động"
+  ],
+  "description_vi": "Thử bắn cung cùng nhau giữa trung tâm.",
+  "source_urls": [],
+  "source": "user",
+  "out_of_area": false,
+  "status": "user_provided",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Cắm trại suối La Ngâu (2N1Đ/3N2Đ)",
+  "type": "activity",
+  "category": "chuyến đi xa",
+  "district": "Bình Thuận (ngoài HCM)",
+  "address": null,
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "năng động",
+   "kỷ niệm"
+  ],
+  "description_vi": "Cắm trại ở suối La Ngâu, đi xe máy khoảng 4–5 giờ.",
+  "source_urls": [],
+  "source": "user",
+  "out_of_area": true,
+  "status": "user_provided",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Sáng tác bài hát tặng đối phương (AI hỗ trợ)",
+  "type": "idea",
+  "category": "idea",
+  "district": null,
+  "address": null,
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "kỷ niệm",
+   "lãng mạn"
+  ],
+  "description_vi": "Cùng AI viết và thu một bài hát tặng người ấy.",
+  "source_urls": [],
+  "source": "user",
+  "out_of_area": false,
+  "status": "user_provided",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Tạo công thức nước uống đặt tên theo đối phương",
+  "type": "idea",
+  "category": "idea",
+  "district": null,
+  "address": null,
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "kỷ niệm",
+   "rẻ mà vui"
+  ],
+  "description_vi": "Pha chế đồ uống riêng và đặt tên theo người ấy.",
+  "source_urls": [],
+  "source": "user",
+  "out_of_area": false,
+  "status": "user_provided",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "DIY theo TikTok rồi cùng đi mua đồ về làm",
+  "type": "idea",
+  "category": "idea",
+  "district": null,
+  "address": null,
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "chill",
+   "ngày mưa"
+  ],
+  "description_vi": "Chọn video DIY cute, đi mua nguyên liệu và làm cùng nhau, rời xa điện thoại.",
+  "source_urls": [],
+  "source": "user",
+  "out_of_area": false,
+  "status": "user_provided",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Homestay double date đổi phòng (gợi ý Bliss Home)",
+  "type": "idea",
+  "category": "idea",
+  "district": null,
+  "address": null,
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "năng động",
+   "kỷ niệm"
+  ],
+  "description_vi": "Rủ thêm một cặp, book 2 phòng, setup hoạt động cho cặp kia rồi đổi phòng (máy chiếu, nấu ăn, bida, PS4, boardgame, Nintendo, lego).",
+  "source_urls": [],
+  "source": "user",
+  "out_of_area": false,
+  "status": "user_provided",
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Đổi quần áo cho nhau, nấu ăn và chụp ảnh",
+  "type": "idea",
+  "category": "idea",
+  "district": null,
+  "address": null,
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "rẻ mà vui",
+   "kỷ niệm"
+  ],
+  "description_vi": "Mặc đồ của nhau, cùng nấu ăn và chụp ảnh kỷ niệm.",
+  "source_urls": [],
+  "source": "user",
+  "out_of_area": false,
+  "status": "user_provided",
+  "date_checked": "2026-10-25"
+ }
+]

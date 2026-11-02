@@ -1,0 +1,242 @@
+[
+ {
+  "idx": 18,
+  "name": "Ráng Chiều Rooftop",
+  "address": "39A Trần Khắc Chân, P.15, Phú Nhuận",
+  "maps_url": "https://maps.google.com/?cid=1346462130994968363"
+ },
+ {
+  "idx": 52,
+  "name": "Trượt băng Vincom Landmark 81",
+  "address": "Landmark 81, Bình Thạnh",
+  "maps_url": "https://maps.google.com/?cid=3939612233067731661"
+ },
+ {
+  "idx": 77,
+  "name": "NOTE – The Scent Lab (workshop nước hoa cặp đôi)",
+  "address": "34 Nguyễn Duy Hiệu, Thảo Điền",
+  "maps_url": "https://maps.google.com/?cid=5730994502623970728"
+ },
+ {
+  "idx": 122,
+  "name": "Bliss Homestay Bình Thạnh",
+  "address": "217/70/5 Bùi Đình Tuý, Bình Thạnh (Bình Thạnh)",
+  "maps_url": "https://maps.google.com/?cid=1404526353910630669"
+ },
+ {
+  "idx": 123,
+  "name": "Bliss Homestay Gò Vấp",
+  "address": "331/14 Phan Huy Ích, An Hội Tây (Gò Vấp)",
+  "maps_url": "https://maps.google.com/?cid=12150920198957095984"
+ },
+ {
+  "idx": 124,
+  "name": "Bliss Homestay Quận 10",
+  "address": "25a 3 Tháng 2, Vườn Lài (Quận 10)",
+  "maps_url": "https://maps.google.com/?cid=9218002822789821591"
+ },
+ {
+  "idx": 125,
+  "name": "Bliss Homestay Quận 5",
+  "address": "2N Phạm Hữu Chí, Chợ Lớn (Quận 5)",
+  "maps_url": "https://maps.google.com/?cid=17243105484553392369"
+ },
+ {
+  "idx": 126,
+  "name": "Bliss Homestay Tân Bình",
+  "address": "71 Xuân Hồng Phường 4, 71 Xuân Hồng, Bảy Hiền (Tân Bình)",
+  "maps_url": "https://maps.google.com/?cid=16729755792662501900"
+ },
+ {
+  "idx": 127,
+  "name": "Sense Homestay Quận Tân Bình",
+  "address": "40/31 Đ. Lam Sơn, Tân Sơn Hòa (Tân Bình)",
+  "maps_url": "https://maps.google.com/?cid=136705494547422614"
+ },
+ {
+  "idx": 128,
+  "name": "85B Homestay",
+  "address": "85B Trần Đình Xu, Cầu Ông Lãnh (Quận 1)",
+  "maps_url": "https://maps.google.com/?cid=14352301735233657810"
+ },
+ {
+  "idx": 129,
+  "name": "Vibrate Stay",
+  "address": "15 Đường số 2, Cư xá Đô Thành, Bàn Cờ (Quận 3)",
+  "maps_url": "https://maps.google.com/?cid=2141449886411608914"
+ },
+ {
+  "idx": 130,
+  "name": "Alma Homestay",
+  "address": "611/14B Điện Biên Phủ, Bàn Cờ (Quận 3)",
+  "maps_url": "https://maps.google.com/?cid=3896149488977254169"
+ },
+ {
+  "idx": 131,
+  "name": "Space Home 3 - Huỳnh Khương Ninh",
+  "address": "9 Huỳnh Khương Ninh, Tân Định (Quận 1)",
+  "maps_url": "https://maps.google.com/?cid=5754268891745393595"
+ },
+ {
+  "idx": 132,
+  "name": "Là Home - Stay Cozy , Stay Home",
+  "address": "347/15 Huỳnh Văn Bánh, Phú Nhuận (Phú Nhuận)",
+  "maps_url": "https://maps.google.com/?cid=3763055738025943963"
+ },
+ {
+  "idx": 133,
+  "name": "Oh-hi Home",
+  "address": "38/19E, Đ. Nguyễn Công Hoan, Cầu Kiệu (Phú Nhuận)",
+  "maps_url": "https://maps.google.com/?cid=14062372306760803145"
+ },
+ {
+  "idx": 134,
+  "name": "Peanut Homestay - Homestay Sài Gòn",
+  "address": "153 Bạch Đằng, Khu phố 8, Tân Sơn Hòa (Tân Bình)",
+  "maps_url": "https://maps.google.com/?cid=4945526614432068278"
+ },
+ {
+  "idx": 135,
+  "name": "DEY HOME - Hoa Lan",
+  "address": "123 Hoa Lan, Cầu Kiệu (Phú Nhuận)",
+  "maps_url": "https://maps.google.com/?cid=8034502397547044348"
+ },
+ {
+  "idx": 136,
+  "name": "Q Home Thích Quảng Đức",
+  "address": "3/37 Hẻm 3 Thích Quảng Đức, Đức Nhuận (Phú Nhuận)",
+  "maps_url": "https://maps.google.com/?cid=9534950571703165232"
+ },
+ {
+  "idx": 137,
+  "name": "HÔME nào staycation - CN 1",
+  "address": "2 Đường số 11, Khu nhà ở, Tam Bình (TP Thủ Đức (Thủ Đức cũ))",
+  "maps_url": "https://maps.google.com/?cid=4409305750199860324"
+ },
+ {
+  "idx": 138,
+  "name": "Sense Homes An Dương Vương",
+  "address": "78/13 An Dương Vương, An Đông (Quận 5)",
+  "maps_url": "https://maps.google.com/?cid=13599282176632793785"
+ },
+ {
+  "idx": 139,
+  "name": "Bliss Home Signature",
+  "address": "448/20 Phan Huy Ích, An Hội Tây (Gò Vấp)",
+  "maps_url": "https://maps.google.com/?cid=7189855427630750324"
+ },
+ {
+  "idx": 140,
+  "name": "Co Bar Cafe",
+  "address": "448/20 Phan Huy Ích, An Hội Tây (Gò Vấp)",
+  "maps_url": "https://maps.google.com/?cid=6888952389162678302"
+ },
+ {
+  "idx": 141,
+  "name": "NYNA Coffee 24h - Nguyễn Trãi",
+  "address": "212B/D18B Nguyễn Trãi, Cầu Ông Lãnh (Quận 1)",
+  "maps_url": "https://maps.google.com/?cid=3508625293187776593"
+ },
+ {
+  "idx": 142,
+  "name": "Room44 Caffe - Bến Thành",
+  "address": "35 Nguyễn Văn Tráng, Bến Thành (Quận 1)",
+  "maps_url": "https://maps.google.com/?cid=5955672775720780000"
+ },
+ {
+  "idx": 143,
+  "name": "Cason Coffee",
+  "address": "6 Nguyễn Siêu, Sài Gòn (Quận 1)",
+  "maps_url": "https://maps.google.com/?cid=8953692919798337428"
+ },
+ {
+  "idx": 144,
+  "name": "80plus Coffee Roastery Trần Nhật Duật",
+  "address": "5E Đ. Trần Nhật Duật, Tân Định (Quận 1)",
+  "maps_url": "https://maps.google.com/?cid=13467883168915102200"
+ },
+ {
+  "idx": 145,
+  "name": "Samm Coffee",
+  "address": "63 Rạch Bùng Binh, Nhiêu Lộc (Quận 3)",
+  "maps_url": "https://maps.google.com/?cid=14595759955575932194"
+ },
+ {
+  "idx": 146,
+  "name": "Trap Space",
+  "address": "12/67 Nguyễn Hữu Cảnh, Thạnh Mỹ Tây (Bình Thạnh)",
+  "maps_url": "https://maps.google.com/?cid=9310037484767216969"
+ },
+ {
+  "idx": 147,
+  "name": "MI CASA coffee & kitchen",
+  "address": "104 Cư Xá Nguyễn Văn Trổi, Phú Nhuận (Phú Nhuận)",
+  "maps_url": "https://maps.google.com/?cid=15476004909751200536"
+ },
+ {
+  "idx": 148,
+  "name": "The Workshop Coffee",
+  "address": "27 Ngô Đức Kế, Sài Gòn (Quận 1)",
+  "maps_url": "https://maps.google.com/?cid=8864834756804505306"
+ },
+ {
+  "idx": 149,
+  "name": "AMERICANO COFFEE - Phạm Văn Chiêu",
+  "address": "240 Đ. Phạm Văn Chiêu, Thông Tây Hội (Gò Vấp)",
+  "maps_url": "https://maps.google.com/?cid=4792361536768732892"
+ },
+ {
+  "idx": 150,
+  "name": "Do.Corner - Study & Working Space",
+  "address": "220/38 Nguyễn Oanh, Gò Vấp (Gò Vấp)",
+  "maps_url": "https://maps.google.com/?cid=2649205844382421212"
+ },
+ {
+  "idx": 151,
+  "name": "C.Fleur Cafe",
+  "address": "10L Đ. Trần Hữu Trang, Phú Nhuận (Phú Nhuận)",
+  "maps_url": "https://maps.google.com/?cid=8908968461101262243"
+ },
+ {
+  "idx": 152,
+  "name": "GEEK Hub Huynh Van Banh",
+  "address": "244/31 Hẻm 244 Huỳnh Văn Bánh, Phú Nhuận (Phú Nhuận)",
+  "maps_url": "https://maps.google.com/?cid=17632845677911537994"
+ },
+ {
+  "idx": 153,
+  "name": "WorkFlow Thảo Điền - Working Space & Cafe",
+  "address": "39 Nguyễn Duy Hiệu, An Khánh (TP Thủ Đức (Q2 cũ))",
+  "maps_url": "https://maps.google.com/?cid=7018606771125604301"
+ },
+ {
+  "idx": 154,
+  "name": "WorkFlow Gò Vấp - Working Space & Café",
+  "address": "2 Đ. Số 2, CityLand Park Hills, Gò Vấp (Gò Vấp)",
+  "maps_url": "https://maps.google.com/?cid=13408514662032123432"
+ },
+ {
+  "idx": 155,
+  "name": "WorkFlow Quận 3 - Working Space & Café",
+  "address": "195/3 Hai Bà Trưng, Xuân Hòa (Quận 3)",
+  "maps_url": "https://maps.google.com/?cid=1011267597805569721"
+ },
+ {
+  "idx": 156,
+  "name": "OLLIN Café",
+  "address": "180 Nguyễn Văn Thủ, Tân Định (Quận 1)",
+  "maps_url": "https://maps.google.com/?cid=4850021757179681708"
+ },
+ {
+  "idx": 157,
+  "name": "soo coffee & bakery _ PKB",
+  "address": "85A Phan Kế Bính, Tân Định (Quận 1)",
+  "maps_url": "https://maps.google.com/?cid=8591587535430742606"
+ },
+ {
+  "idx": 158,
+  "name": "SUA Coffee & Cakes",
+  "address": "1162 Trường Sa, Phường, Phú Nhuận (Phú Nhuận)",
+  "maps_url": "https://maps.google.com/?cid=15588559947824135655"
+ }
+]

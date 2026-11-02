@@ -1,0 +1,149 @@
+{
+ "generated": "2026-10-26",
+ "note": "Bliss Home places outside central HCMC (excluded: Q12, Củ Chi, Hóc Môn, Bình Chánh, Nhà Bè, Cần Giờ, Q9 cũ, Bình Tân, ngoài TP.HCM)",
+ "excluded": [
+  {
+   "name": "Phaya Thai Spa Bình Tân",
+   "lists": [
+    "Spa date"
+   ],
+   "address": "9/1/6 Đ. Tên Lửa, An Lạc",
+   "district": "Bình Tân",
+   "reason": "Ngoài khu trung tâm (Bình Tân)",
+   "lat": 10.7400723,
+   "lng": 106.61364689999999
+  },
+  {
+   "name": "Mori Cafe & Spa",
+   "lists": [
+    "Spa date"
+   ],
+   "address": "11a Đ. Lê Đại Hành, Nha Trang, Khánh Hòa 650000",
+   "district": null,
+   "reason": "Ngoài TP.HCM cũ (vd. Bình Dương/Đồng Nai)",
+   "lat": 12.2415752,
+   "lng": 109.1868538
+  },
+  {
+   "name": "VinWonders GRAND PARK - HCMC",
+   "lists": [
+    "Tổ hợp game date"
+   ],
+   "address": "VinWonders Grand Park, Đường Nguyễn Xiển Phước Thiện, Long Bình",
+   "district": "Quận 9",
+   "reason": "Ngoài khu trung tâm (Quận 9)",
+   "lat": 10.839808699999999,
+   "lng": 106.8456428
+  },
+  {
+   "name": "AEON MALL Bình Tân",
+   "lists": [
+    "Tổ hợp game date"
+   ],
+   "address": "AEON MALL, Đường Số 17A, An Lạc",
+   "district": "Bình Tân",
+   "reason": "Ngoài khu trung tâm (Bình Tân)",
+   "lat": 10.7430842,
+   "lng": 106.6125344
+  },
+  {
+   "name": "Life4cuts photobooth - 인생네컷",
+   "lists": [
+    "Photobooth date"
+   ],
+   "address": "TTTM AEONMall, 1 Đường Số 17A, An Lạc",
+   "district": "Bình Tân",
+   "reason": "Ngoài khu trung tâm (Bình Tân)",
+   "lat": 10.7427958,
+   "lng": 106.61193109999999
+  },
+  {
+   "name": "PHOTO OBJET AEON MALL BÌNH TÂN",
+   "lists": [
+    "Photobooth date"
+   ],
+   "address": "AEON Bình Tân, 1 Đường Số 17A, Khu phố 11, An Lạc",
+   "district": "Bình Tân",
+   "reason": "Ngoài khu trung tâm (Bình Tân)",
+   "lat": 10.7427338,
+   "lng": 106.61197039999999
+  }
+ ],
+ "dropped_permanently_closed": [
+  {
+   "name": "THE COCOA PROJECT",
+   "list": "Work date",
+   "reason": "Đóng cửa vĩnh viễn (Google Maps)"
+  },
+  {
+   "name": "SOUTH GROUND Co.working & Cafe - Phạm Ngọc Thạch",
+   "list": "Work date",
+   "reason": "Đóng cửa vĩnh viễn (Google Maps)"
+  },
+  {
+   "name": "Chốn Riêng Café",
+   "list": "Work date",
+   "reason": "Đóng cửa vĩnh viễn (Google Maps)"
+  },
+  {
+   "name": "Battie Hall",
+   "list": "Shopping date",
+   "reason": "Đóng cửa vĩnh viễn (Google Maps)"
+  },
+  {
+   "name": "Khu vui chơi Tuyết Snow Town Sài Gòn",
+   "list": "Tổ hợp game date",
+   "reason": "Đóng cửa vĩnh viễn (Google Maps)"
+  },
+  {
+   "name": "Baseball Cage - Lồng bóng chày tự động",
+   "list": "Tổ hợp game date",
+   "reason": "Đóng cửa vĩnh viễn (Google Maps)"
+  },
+  {
+   "name": "Jump Arena Lê Thị Riêng",
+   "list": "Tổ hợp game date",
+   "reason": "Đóng cửa vĩnh viễn (Google Maps)"
+  },
+  {
+   "name": "SAY CHEESE TÔ HIẾN THÀNH",
+   "list": "Photobooth date",
+   "reason": "Đóng cửa vĩnh viễn (Google Maps)"
+  },
+  {
+   "name": "PHOTO OBJET Quận 7",
+   "list": "Photobooth date",
+   "reason": "Đóng cửa vĩnh viễn (Google Maps)"
+  },
+  {
+   "name": "PHOTO OBJET Quận 3",
+   "list": "Photobooth date",
+   "reason": "Đóng cửa vĩnh viễn (Google Maps)"
+  },
+  {
+   "name": "etc. bar",
+   "list": "Deep talk date",
+   "reason": "Đóng cửa vĩnh viễn (Google Maps)"
+  },
+  {
+   "name": "Instincts Bar",
+   "list": "Deep talk date",
+   "reason": "Đóng cửa vĩnh viễn (Google Maps)"
+  },
+  {
+   "name": "Forest Therapy - Cocktails & Modern Asian Cuisine",
+   "list": "Fine Dining date",
+   "reason": "Đóng cửa vĩnh viễn (Google Maps)"
+  },
+  {
+   "name": "Long Hou Steak House",
+   "list": "Fine Dining date",
+   "reason": "Đóng cửa vĩnh viễn (Google Maps)"
+  },
+  {
+   "name": "Do It Unique Workshop",
+   "list": "Workshop date",
+   "reason": "Đóng cửa vĩnh viễn (Google Maps)"
+  }
+ ]
+}

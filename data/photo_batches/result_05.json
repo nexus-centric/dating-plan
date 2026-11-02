@@ -1,0 +1,402 @@
+[
+ {
+  "idx": 287,
+  "name": "Dear Bar",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHfOEOhdwSBmO7hJu2Lv_DJSpz5wHBvQ1SopAq_MzCbEPA9MdZF4ZilECvTyJCXKBY_VUdoM0oJLCHxH3d-6EJ4Z-mu1iFX1aZycudcPpP9CRRF_4UrLz4nHgRPaTA2y7iw_AdXTmlWhU=w408-h544-k-no",
+  "maps_title": "Dear Bar",
+  "maps_address": "107f Trương Định, Xuân Hòa, Hồ Chí Minh 72117, Việt Nam",
+  "place_url": "https://www.google.com/maps?cid=2378759223162286272",
+  "note": ""
+ },
+ {
+  "idx": 288,
+  "name": "BỜM - Kitchen & Wine Bar",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Td6oqr6ujEZk7y7rcohC01xvIapcIvtBwgP47Re1QDHimfmW10cbemoqT5H7rxEdZl_jQiaFloSX7cdaUgQmCz2UcnD4KAOoRiqVIUEnhZHNT3TOUJvmxppBAMnrBP9Yqs1Pw=w447-h298-k-no",
+  "maps_title": "BỜM - Kitchen & Wine Bar",
+  "maps_address": "24 Nguyễn Thị Nghĩa, Quận 1, Hồ Chí Minh 700000, Việt Nam",
+  "place_url": "https://www.google.com/maps?cid=836618591257411385",
+  "note": ""
+ },
+ {
+  "idx": 289,
+  "name": "Đèn Dầu Thảo Điền",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SXHT1yVj6rn6AwZcKfX2tRtGw9FtbDV1nrYlfVX7uLd436ocGjEmZ-i0xPQE9JJIRa2pP5vDlyJR13PFxOx-zbemXrK5PaxRoB52YqVcZa47c-HXBK_NCdN4Fdn3VK2O9NDaCMmFnlhuyr=w453-h298-k-no",
+  "maps_title": "Đèn Dầu Thảo Điền",
+  "maps_address": "19C Ngô Quang Huy, An Khánh, Hồ Chí Minh 700000, Việt Nam",
+  "place_url": "https://www.google.com/maps?cid=10014747013754599250",
+  "note": ""
+ },
+ {
+  "idx": 290,
+  "name": "Mr.Saigon - Mì Ý, Salad Sài Gòn - Lê Lai",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLctO-hlzpywnslLOMQcawRt6CRRRk9nEBpwKMU7ZkIeCBr_3uNY_p1X54L9Q-XWZCIVP1kOJF5T_qRGhSmL1OGnJE4bwUUAkAbe2tquYO62GiKCUf9ztGPquGq4-Ma4Z_bfMnGX=w408-h306-k-no",
+  "maps_title": "Mr.Saigon - Mì Ý, Salad Sài Gòn - Lê Lai",
+  "maps_address": "75 Đ. Lê Lai, Hạnh Thông, Hồ Chí Minh 71409, Việt Nam",
+  "place_url": "https://www.google.com/maps?cid=18345390020191431127",
+  "note": ""
+ },
+ {
+  "idx": 291,
+  "name": "Fenice - Cuisine & Bar",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdYfz-sBsMoHqaGipcy4SSxaJ83Ovnb1WdyUHTvJeAWl2zoZ4pboCIpg-cPndIod8V11pe8dR-aaDCO7rAW3VGHCaAu8UlMP5OmptXWG6ytnhGkPTwMPhdc19pIAZ7xRodnHoRB2ewMWNZV=w408-h288-k-no",
+  "maps_title": "Fenice - Cuisine & Bar",
+  "maps_address": "688/46 Đ. Lê Đức Thọ, An Hội Đông, Hồ Chí Minh 71414, Việt Nam",
+  "place_url": "https://www.google.com/maps?cid=15586756056140073011",
+  "note": ""
+ },
+ {
+  "idx": 292,
+  "name": "Mạch Saigon",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3wGWThsX8tElM7oZ_vsSG1upwmCtZVElt2k6cGFgl61TJVu2HkKIDtX66hKwFcfmTbEVUYdg5vdWBAkQUF8adM3yOyN12m21jShZ6OKJzSxqeQeZm_Hk65bh7Ky8F24PCBUIYJ2mhuA=w408-h272-k-no",
+  "maps_title": "Mạch Saigon",
+  "maps_address": "75/1 Mai Thị Lựu, Ward, Tân Định, Hồ Chí Minh, Việt Nam",
+  "place_url": "https://www.google.com/maps?cid=14959707225316052550",
+  "note": ""
+ },
+ {
+  "idx": 293,
+  "name": "Matsuri Japanese Restaurant - Vincom Center Landmark 81",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QeGYEVih8QDyoP5tcNJ8pNxHyjbJDbbWvlnuN4AFpoM2mIumaxOq-p25TBB3WM0X4VwEpuOxlLqQbUjRfcRbMF2UazXdwoQ7fOCk2Kg3kOx0Ldi3hUIyRxl6q-ER4w1Nu_R7MlM1zIYISQ=w529-h298-k-no",
+  "maps_title": "Matsuri Japanese Restaurant - Vincom Center Landmark 81",
+  "maps_address": "Vincom Center Landmark, 81 772 Điện Biên Phủ, Vinhomes Tân Cảng, Thạnh Mỹ Tây, Hồ Chí Minh, Việt Nam",
+  "place_url": "https://www.google.com/maps?cid=12687578907184847249",
+  "note": ""
+ },
+ {
+  "idx": 294,
+  "name": "Apero Bistro & Bar",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RjlAc_jterqOeufarD1n0SFKceF2qHpsnaTp40DyranEbDNDcMlp26pSHelzHErgABF6C0-bA_UZqNIu39Jfrob4v3CkPhcNOpQ8zyN1Go0Wv4aK89-rymNKFcpZRfjTcuvn55=w529-h298-k-no",
+  "maps_title": "Apero Bistro & Bar",
+  "maps_address": "45 Nguyễn Duy Hiệu, An Khánh, Hồ Chí Minh 700000, Việt Nam",
+  "place_url": "https://www.google.com/maps?cid=15395378955149592825",
+  "note": ""
+ },
+ {
+  "idx": 295,
+  "name": "Én’s Kitchen- Italian Cuisine & more",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfAOuvBlYAGgwDC8wYkoFIZ-2EI23ZMeJrrazO0ylmMFvQE5D4fv7yOxK0xfavjQwJCI09PxxDSUitnA7g9iixB1xYtiSNxtmRsoCcS0EhBBA9DBMITdsqQY4jZKZtMWfYtTfqZIH4qqrJ2=w408-h544-k-no",
+  "maps_title": "Én’s Kitchen- Italian Cuisine & more",
+  "maps_address": "109/11 Nguyễn Bỉnh Khiêm, Tân Định, Hồ Chí Minh 700000, Việt Nam",
+  "place_url": "https://www.google.com/maps?cid=9296704098185562656",
+  "note": ""
+ },
+ {
+  "idx": 297,
+  "name": "NOIRE Dining & Cafe - Phạm Ngọc Thạch",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SZjvsZDxhuxCIpgtkg86ScVa3W3Evqtq4-Ww7xT1Z70E_4t8tAB3_af1haV-xYmACbTkfn1V2Kf7cwPhe6won6PVL04IcSjr0DxyO20Is4_2E4GCJpagrL9tJiO5HLrhEO-xMR9T46vGo=w447-h298-k-no",
+  "maps_title": "NOIRE Dining & Cafe - Phạm Ngọc Thạch",
+  "maps_address": "1Bis Phạm Ngọc Thạch, Sài Gòn, Hồ Chí Minh 70000, Việt Nam",
+  "place_url": "https://www.google.com/maps?cid=15399171321270558361",
+  "note": ""
+ },
+ {
+  "idx": 298,
+  "name": "GLAMISQUE - Fusion Dining",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RITmw2RJxAIIgkyHXfG8264jxsYIQSsDvQSqZmutE7af203xSG36wr_uK5cwDGpy1VpG3ZiI-qpTJvIWVOe9udF2ZMDpcVMXhlthzrNRaXUoUgDQ_Uvdf-xpzPS7W2ePW1sroTTIi8NKQ=w447-h298-k-no",
+  "maps_title": "GLAMISQUE - Fusion Dining",
+  "maps_address": "59 - 59B Nguyễn Hữu Cầu, Tân Định, Hồ Chí Minh 700000, Việt Nam",
+  "place_url": "https://www.google.com/maps?cid=17170652856801171958",
+  "note": ""
+ },
+ {
+  "idx": 299,
+  "name": "Trạm Hầm Quận 3",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RaBl2P35gj_aqy8ijm3dWSnGExSEMU4-enJnlrrsBc5nlf7ybWudsdGZEO5yCXCbMr5y_3V_2LOdVpvmubKQXBHb6_kpXY-KUCJXqS6DtLakLibwwbuQd9BJjHHAVnYhMNYdE=w447-h298-k-no",
+  "maps_title": "Trạm Hầm Quận 3",
+  "maps_address": "540/17 Cách Mạng Tháng Tám, Nhiêu Lộc, Hồ Chí Minh, Việt Nam",
+  "place_url": "https://www.google.com/maps?cid=17233405473500960878",
+  "note": ""
+ },
+ {
+  "idx": 300,
+  "name": "CHIIK Steak & Pasta Thảo Điền",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R3xqf_5_MDRv5scr2p2U-ULEOMKnNCgQ6m5yPxxJNGxLTokN5MrOa75x-nFCHVFeDLELzyylleoCnsSFNjhAma_bBiSKODAaglXvy4biw2VnoGpjID7GqnNxKkG-yQhuVgeZzHqg=w447-h298-k-no",
+  "maps_title": "CHIIK Steak & Pasta Thảo Điền",
+  "maps_address": "07 Đ. Đỗ Quang, An Khánh, Hồ Chí Minh 700000, Việt Nam",
+  "place_url": "https://www.google.com/maps?cid=15826299511284551122",
+  "note": ""
+ },
+ {
+  "idx": 301,
+  "name": "Le Monde Steak, Nguyễn Thị Minh Khai",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfM9487grByd7rjRETvwIExSKmPC0Sddlwk0Tz5nhxAbBamKJz2l7vefCvndHGS3e5ZCU0dkbeJRzCGFIEjSCX6M7Ut2KygpI4ixP8GCLz4RsxY1bNmHr2pBJDEiMhe-X8svZ3puA=w408-h306-k-no",
+  "maps_title": "Le Monde Steak, Nguyễn Thị Minh Khai",
+  "maps_address": "11H Nguyễn Thị Minh Khai, Sài Gòn, Hồ Chí Minh, Việt Nam",
+  "place_url": "https://www.google.com/maps?cid=698686859458746675",
+  "note": ""
+ },
+ {
+  "idx": 302,
+  "name": "Calóre Coffee & Eatery",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RwhKsu_ScWF7QFdpkUbiNL_jfynNKFSOYpwphGI_o1KnrXOWsOxaQazcNXIPQY0zzbrfrag4Ytaf41G1HkH6buUKo5LvbT1WALgqRIF0d_pJh9SkQwEASgIYGJYloWw6ynooFRJtPKyYc=w460-h298-k-no",
+  "maps_title": "Calóre Coffee & Eatery",
+  "maps_address": "769/1 Cách Mạng Tháng Tám, Tân Hòa, Hồ Chí Minh, Việt Nam",
+  "place_url": "https://www.google.com/maps?cid=2602636969669274400",
+  "note": ""
+ },
+ {
+  "idx": 303,
+  "name": "Livannah - Sips & Bites Thảo Điền",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S-gIvqMwijzHKt4YE86wyBBJnIgsoQviSYehojwMzbVwjEOAa1LXewcCJVIB4KIHetrEuFC5Uls5gPKkGng_J4V3nxEK-HLM9lcLNx8gKzyVULcvLlnd8iMfvIuj-dvlolYm_v=w447-h298-k-no",
+  "maps_title": "Livannah - Sips & Bites Thảo Điền",
+  "maps_address": "12 Nguyễn Ư Dĩ, An Khánh, Hồ Chí Minh 700000, Việt Nam",
+  "place_url": "https://www.google.com/maps?cid=11212778547773392000",
+  "note": ""
+ },
+ {
+  "idx": 304,
+  "name": "Chamie Steak",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T6xJeEQMzOU2wGuWkPuFf562E5-dkLcxmBBJoaNlXjOfKrb09kH-3frtKLJdp7eolkMd8GjGL_etT2VXWAAb1YdsUTpFgSeL6ixplgw4wDe3TAf55MJvUBS6i2WqpqRT2X3_tK=w544-h298-k-no",
+  "maps_title": "Chamie Steak",
+  "maps_address": "770B Sư Vạn Hạnh, Hòa Hưng, Hồ Chí Minh 700000, Việt Nam",
+  "place_url": "https://www.google.com/maps?cid=4428804828236072666",
+  "note": ""
+ },
+ {
+  "idx": 306,
+  "name": "Yeshi Taiwanese Fusion",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RiSbKREo03Oe81KiNrB7eiWGgLVcVyYxxynPTIkr3TEWCgL9p4dqqFC9PKX21CSTrBOmeWIYVcTi2gjBkcMYhFRNXAMk_CLHvK6jwNbApuypra1EFOoj1TCauqzdpwjteMpFo3gnAPoWA=w529-h298-k-no",
+  "maps_title": "Yeshi Taiwanese Fusion",
+  "maps_address": "1F 16 Thảo Điền, An Khánh, Hồ Chí Minh, Việt Nam",
+  "place_url": "https://www.google.com/maps?cid=7720365190874347052",
+  "note": ""
+ },
+ {
+  "idx": 307,
+  "name": "Gabi's Corner",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdz4bVwXebqhKwh3W4zj1wZJppfI7AgaI4N576TFp378c8o1hPeOgCQW6zW-aKu1MIebHlyB36k8mg5wRHE8oI7IzCpfYm3lNvo0_Svmpc5Fb7RD_QZ44KebY3y_sGjFuhcI4McibpeDEc=w408-h408-k-no",
+  "maps_title": "Gabi's Corner",
+  "maps_address": "702/76 Điện Biên Phủ, Vườn Lài, Hồ Chí Minh 07000, Việt Nam",
+  "place_url": "https://www.google.com/maps?cid=16067774961846500752",
+  "note": ""
+ },
+ {
+  "idx": 308,
+  "name": "Workshop Hub",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcvYZh-asZc1-NXcyAIcCv_sGWp8SM-hlr6lYgRZLxFudlMbtnu_pexj3c_WNrRnYHwsVN6v3zGUjnZqe5zuQGvD5hD_IOIUKnHhZNF8-69Z6uB-D8l45sJTlGFAbt7oLpaToQV5Y6w0dlt=w408-h544-k-no",
+  "maps_title": "Workshop Hub",
+  "maps_address": "6 Lê Văn Miến, An Khánh, Hồ Chí Minh 700000, Việt Nam",
+  "place_url": "https://www.google.com/maps?cid=1891703473409843252",
+  "note": ""
+ },
+ {
+  "idx": 309,
+  "name": "The Joy Workshop",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfesNOYbyzR6ElX8V-Ver3Sel4OCgO3Q3iOGAGIE_JGWjKMnHFbST_gzyVzyNx65Kua_7s3f8IZ-vk0dJhl532mDoC7GKf05wLpfX-_mKjmR5wNoO9xp_CEPwQWvJ6xlSfUW9l8ZzIiit8e=w408-h544-k-no",
+  "maps_title": "The Joy Workshop",
+  "maps_address": "39/5 Hoàng Dư Khương, Hòa Hưng, Hồ Chí Minh 70000, Việt Nam",
+  "place_url": "https://www.google.com/maps?cid=15307891693303714970",
+  "note": ""
+ },
+ {
+  "idx": 310,
+  "name": "Another Saigon by LG",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLedyD9fPvIXToKTMnt2u8mSwDvFXcIsbxci7Zv0maPnrPh3oEkEYeaXdW0BYyBd7e3g9Rn07J7FhE8f16zbJnWCebyvFFzS3QNk8sj7_UOaPhDg_NeFIq84VFg5X403trf3PRU45w=w408-h544-k-no",
+  "maps_title": "Another Saigon by LG",
+  "maps_address": "96 Mạc Thị Bưởi, Sài Gòn, Hồ Chí Minh 71006, Việt Nam",
+  "place_url": "https://www.google.com/maps?cid=11632347301854382662",
+  "note": ""
+ },
+ {
+  "idx": 311,
+  "name": "Véry Nice Bracelet",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdAlKLWjcjKftG7ixdaAqTdunGn6L5SNoxS4rnq9Uu9Kqe5fVXFQKwK6kRYup3yOgfeLhAcQsDoZPBxDPUtmj_dPjQjRbcOxxrXR02Z12a4ilR-EfSRKxJfTGyduRmpihRSUO8SwOMTTvU=w408-h544-k-no",
+  "maps_title": "Véry Nice Bracelet",
+  "maps_address": "37/10 Đinh Công Tráng, Tân Định, Hồ Chí Minh, Việt Nam",
+  "place_url": "https://www.google.com/maps?cid=13629466097535387659",
+  "note": ""
+ },
+ {
+  "idx": 312,
+  "name": "Hiên Concept",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Trteu2NAenshUkIeiZp9dlMADnn3wsHH9E_vb2OjkA5StC7lJ7g4iiEQrvpAPGiD7jHyaa1Lxp9RB1MAc7-NhK5sCavVdmfMN0dSYcfhUwWuj3tFGoeBVWspc5lcjmB_PMQ8jslM9Y26st=w529-h298-k-no",
+  "maps_title": "Hiên Concept",
+  "maps_address": "26 Bá Tòng, Bảy Hiền, Hồ Chí Minh, Việt Nam",
+  "place_url": "https://www.google.com/maps?cid=9201637827315729830",
+  "note": ""
+ },
+ {
+  "idx": 313,
+  "name": "Workshop Làm Bánh-IdiM DIY Bakery (Phú Mỹ Hưng) 自己做烘培俱樂部",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeXY9Qa4pU_YpyhoEIHcRqkFRP0zzHAKEqnB8NFaTFN5ZMFEzSfIEGbC3979ke9kqUFqIYEwjqXNVo3Wp6uOf2ZyPhwV7JTc9rLA3qP9C9u9X9Mr9jP82iJeZFI-Bx-cWWJTcJqCA=w425-h240-k-no",
+  "maps_title": "Workshop Làm Bánh-IdiM DIY Bakery (Phú Mỹ Hưng) 自己做烘培俱樂部",
+  "maps_address": "22 Raymondienne, Khu đô thị Phú Mỹ Hưng, Tân Mỹ, Hồ Chí Minh 700000, Việt Nam",
+  "place_url": "https://www.google.com/maps?cid=14532866850236077185",
+  "note": ""
+ },
+ {
+  "idx": 314,
+  "name": "MYU MEMORIES - Trang Sức Phụ Kiện Italy",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcfSUA4edBKkQFCCeAGrJBESsdtKy-anYrAki-8GgFriYRonoSsHg0TZf4Qv9WH0TF8V54kggxH4PB08EUsrBcMnDk93hpLW8xDbRYaegY0WuTsn3cvQhaHr9f8GDg0j5BQuV-UviQKvFDA=w408-h544-k-no",
+  "maps_title": "MYU MEMORIES - Trang Sức Phụ Kiện Italy",
+  "maps_address": "The Box Icon, 22 Đ. Trần Huy Liệu, Phú Nhuận, Hồ Chí Minh, Việt Nam",
+  "place_url": "https://www.google.com/maps?cid=3589678750324716460",
+  "note": ""
+ },
+ {
+  "idx": 315,
+  "name": "Tiệm Tranh Bắp Vẽ Workshop Thư Giãn tại Sunsetview Coffee",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdbCgKtQXgNyOUXlYfwLRiTZ0dXySN2NRMrbDL0LQ1NXJs4anSeNVNywvL-vqLfCkCreg5ZfQBnN4eUzwnt_bWehCglmAYF6C2SWHKiwRhTlRLZa3EPRTspUnDnKOX8cSZLtura=w408-h543-k-no",
+  "maps_title": "Tiệm Tranh Bắp Vẽ Workshop Thư Giãn tại Sunsetview Coffee",
+  "maps_address": "353/7a Bình Quới, Hồ Chí Minh, Việt Nam",
+  "place_url": "https://www.google.com/maps?cid=4843187519958327835",
+  "note": ""
+ },
+ {
+  "idx": 316,
+  "name": "XOXO SAIGON - Workshop, Accessories, Custom",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeI3Gddg1YO1rHY1Pt8hOUVfH2AeXe0_m2CB6mgVeeJYE1HW7hdOZUYfVGowGre-pGKT_dDsga2I_VppRymSnWsxoc92AauiW6tI3ybgYeuEoULK7Tb4rBIQnS6cIX3W5_Kiz2-5A=w408-h544-k-no",
+  "maps_title": "XOXO SAIGON - Workshop, Accessories, Custom",
+  "maps_address": "47L Đ. số 11, Gia Định, Hồ Chí Minh 72322, Việt Nam",
+  "place_url": "https://www.google.com/maps?cid=14534545580668960162",
+  "note": ""
+ },
+ {
+  "idx": 317,
+  "name": "Tía Tô Artbook",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TxRrYLCK5EoRRiXETb4YMu294OKhXHO2FBPPRUdgmol7IlXubfYaQT1XVuSl7TFc6P6IU5wv3Nn40pTrV-OfD8bNNH83C0P9FDXc2OwpuOgNjFls7onhzf0f53jPpX3C9k9bcq=w529-h298-k-no",
+  "maps_title": "Tía Tô Artbook",
+  "maps_address": "chung cư 14, Tôn Thất Đạm, Sài Gòn, Hồ Chí Minh, Việt Nam",
+  "place_url": "https://www.google.com/maps?cid=3428837490935868958",
+  "note": ""
+ },
+ {
+  "idx": 318,
+  "name": "CHUCKY BEETLE INDUSTRY",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQTfXJtStgYTDxvDu149g9vDYPpvXcf5Y-lsniezEKRhewufDiOnq5k_a-i_ibJmlGj6jMxn15FJ6UNHlyvuQImrMO5r7WQ-2QjcOnVNMrAjCwJtleHiKNYemloJYPAfloEEQ=w408-h408-k-no",
+  "maps_title": "CHUCKY BEETLE INDUSTRY",
+  "maps_address": "525/9 Quang Trung, Gò Vấp, Hồ Chí Minh 71416, Việt Nam",
+  "place_url": "https://www.google.com/maps?cid=6204892324642994380",
+  "note": ""
+ },
+ {
+  "idx": 320,
+  "name": "Art Vendors Studio",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcRWbPskcKbWuF8Q3v0zl-b4_00UC-zH0VF4GvfdiEYejM53PmA-AK4J7MswurZWglXArYHqpvDzqLwwvAAYkScxsteGnpy26vZvypNHrEwlq45mxEHJaLtV-9rMD0xdSZyF1HNT42Ml_9k=w408-h544-k-no",
+  "maps_title": "Art Vendors Studio",
+  "maps_address": "443/6 Đ. Lê Văn Sỹ, Nhiêu Lộc, Hồ Chí Minh, Việt Nam",
+  "place_url": "https://www.google.com/maps?cid=11109671393023194084",
+  "note": ""
+ },
+ {
+  "idx": 3,
+  "name": "Momento Rooftop (trước đây Cocoon Rooftop)",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SN_WmkgN6SopNV9d6g3Rz25QbaAJq55UVysRBriwO45WV64imkQOzMQZYZWr5e95-2YpJcmxOz9qKwdJqky9tUgg9RYzySFpBtIELqza9_LsNTjKZyAe1XxhfYIRjYBPJDzaQ=w529-h298-k-no",
+  "maps_title": "Momento Rooftop Bar",
+  "maps_address": "105 Cô Giang, Cầu Ông Lãnh, Hồ Chí Minh, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Momento%20Rooftop%20T%E1%BA%A7ng%208%2C%20105%20C%C3%B4%20Giang%2C%20Q.1%20TP.HCM",
+  "note": ""
+ },
+ {
+  "idx": 4,
+  "name": "Chill Skybar (AB Tower)",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcNm5eaB1CgRWQkX2Pb4_r5um6jpqe9zK3b4Zx710g2GoCwe75mnbOyxiGOgInSRXz4UaElstAwYtOGOTKiF28MtlaZUQds9bCMPal5mrCA55wvR0IkQkXzw3564RJFnOOAkUgT=w408-h306-k-no",
+  "maps_title": "Chill Skybar & Dining",
+  "maps_address": "AB Tower, 76A Lê Lai, Bến Thành, Hồ Chí Minh 700000, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Chill%20Skybar%20T%E1%BA%A7ng%2076%2C%20AB%20Tower%2C%202%20H%E1%BA%A3i%20Tri%E1%BB%81u%2C%20Q.1%20%28theo%20ngu%E1%BB%93n%29%20TP.HCM",
+  "note": "AB Tower is at 76A Lê Lai (Bitexco-adjacent address differs from source text); name matches"
+ },
+ {
+  "idx": 5,
+  "name": "Rooftop Grand Lounge (Hotel Grand Saigon)",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TUXWMi00-jaQGR-suH6q5JgITXnNIUR9LfeRstCIGlC-LRX69cPJM5J2Qd9I1mYs00Zg66keBx4pC401_pNhRfhclzBKTj6FVfAjcwiVt2uIfVXSGxzaBlyJWQ8zDTXBTYn2_LpQ=w546-h298-k-no",
+  "maps_title": "Rooftop GRAND Lounge",
+  "maps_address": "No 8 Đồng Khởi, Sài Gòn, Hồ Chí Minh 70000, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Rooftop%20Grand%20Lounge%208%20%C4%90%E1%BB%93ng%20Kh%E1%BB%9Fi%2C%20Q.1%20TP.HCM",
+  "note": ""
+ },
+ {
+  "idx": 6,
+  "name": "Bar57",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SbpX72bVT3rboRvKHXCz2rzbWv0YLiofglMr8KbGHo7Wfd1HymLAOetTZTXBskDSEIXjQBdNysf6EACvBnLCbtWxjoIT6RSwh_5IYDhJ-z7xcATHbXMvas5ZE6vH_8IePQKfJdUa48w0Nb=w446-h298-k-no",
+  "maps_title": "Bar 57",
+  "maps_address": "57 Nguyễn Du, Sài Gòn, Hồ Chí Minh 700000, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Bar57%2057%20Nguy%E1%BB%85n%20Du%2C%20Q.1%20TP.HCM",
+  "note": "Maps name \"Bar 57\""
+ },
+ {
+  "idx": 8,
+  "name": "Cork and Bottle",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeli9vhWmz82D_pMQVJIeKmbojvTmgON84YhQ-reyWqGArT1D2dEVsQrH6MFJ6iwrkGp26fDYzrNJjiWCkHwA7_K88yWDABRx6oB3BCYSs7QMXWaTY4dZFW6mZ0x15eYfkJykNUUA=w408-h306-k-no",
+  "maps_title": "Cork and Bottle - Sài Gòn",
+  "maps_address": "7 Thái Văn Lung, Sài Gòn, Hồ Chí Minh, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Cork%20and%20Bottle%207%20Th%C3%A1i%20V%C4%83n%20Lung%2C%20Q.1%20TP.HCM",
+  "note": ""
+ },
+ {
+  "idx": 9,
+  "name": "CỘI",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S4yBAhgStXVDBcNlDbiXY0SyqYYMLTVr2t0MkZYvbC28-EnYW3blk9uEOfdpFxMEMLD-Oqa63LyjhBYFm97lSagxfP_7QAqNt11nFN8y3l8lWxdaPCXjSnohCTubipGlGaH9HH=w529-h298-k-no",
+  "maps_title": "CỘI",
+  "maps_address": "77-79 Lý Tự Trọng, Bến Thành, Hồ Chí Minh 670000, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=C%E1%BB%98I%2077%E2%80%9379%20L%C3%BD%20T%E1%BB%B1%20Tr%E1%BB%8Dng%2C%20Q.1%20TP.HCM",
+  "note": ""
+ },
+ {
+  "idx": 10,
+  "name": "Trên Tầng Thượng",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeM5YFZfSpt2okiv08SAnRQS0NfJ3La0MotCa1OLJQIByuFbo4FobBKq-uEhly8ihUdWaQxxxCPqupJNJHew5bdyyj1zAeSaBW9xg1QCb50r3yUu7JKIGkcTipT1dYi314Ua4JydzVY2ttP=w408-h306-k-no",
+  "maps_title": "Trên Tầng Thượng",
+  "maps_address": "540/19 Cách Mạng Tháng Tám, Nhiêu Lộc, Hồ Chí Minh 70000, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Tr%C3%AAn%20T%E1%BA%A7ng%20Th%C6%B0%E1%BB%A3ng%20540/19%20C%C3%A1ch%20M%E1%BA%A1ng%20Th%C3%A1ng%20T%C3%A1m%2C%20P.11%2C%20Q.3%20TP.HCM",
+  "note": ""
+ },
+ {
+  "idx": 11,
+  "name": "3Đ Chill Cafe",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_tfMIcaLMPL9rHd9wIkmW3_eP_8q_x0EcNv49B-0Atz9hRNjEjxiOm-g4c6DiWKDhHBXASRm5dekHItL6ST7DLuIY8i0VmWOPtxOQ8v8EBIM6phZYmgtOkqAmYKThoUQkkAkF9w=w408-h510-k-no",
+  "maps_title": "3Đ Chill Cafe",
+  "maps_address": "120/4 Trần Quốc Thảo, Xuân Hòa, Hồ Chí Minh, Việt Nam",
+  "place_url": "https://www.google.com/maps/place/3%C4%90+Chill+Cafe/@10.785348,106.6838366,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f694bbdf291:0xb41097432ae6b971!8m2!3d10.785348!4d106.6838366!16s%2Fg%2F11v6c2m5w2?hl=vi&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+  "note": ""
+ },
+ {
+  "idx": 12,
+  "name": "OZ Coffee House",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcuYIZHoZ3iU3kGhNx9b1uWvCE3E_KXqhM_OUibvkLt8HzCyvNgrcqtNUsxmwCXbSgwC_25-13YsWTgy9wI7DZbWrdpV7ZGiIeQhshg8Tuw7XGh8ZKOBrkzsSnSC7m0KHDJQiLZ=w408-h272-k-no",
+  "maps_title": "OZ Coffee House 2",
+  "maps_address": "30 Huỳnh Tịnh Của, Xuân Hòa, Hồ Chí Minh 70000, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=OZ%20Coffee%20House%20CS%3A%20207/31%20L%C3%AA%20V%C4%83n%20S%E1%BB%B9%20Q.3%3B%2030%20Hu%E1%BB%B3nh%20T%E1%BB%8Bnh%20C%E1%BB%A7a%20Q.3%3B%20273/46%20Nguy%E1%BB%85n%20V%C4%83n%20%C4%90%E1%BA%ADu%20B%C3%ACnh%20Th%E1%BA%A1nh%20TP.HCM",
+  "note": "Multi-branch source; matched branch \"OZ Coffee House 2\" at 30 Huỳnh Tịnh Của (one of listed addresses)"
+ }
+]

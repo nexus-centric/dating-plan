@@ -1,0 +1,2447 @@
+[
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/izakaya-unatoto-phan-xich-long",
+  "name": "Izakaya Unatoto Phan Xích Long",
+  "area": "Phú Nhuận",
+  "kind": "restaurant",
+  "sub": "Quán ăn vặt",
+  "addr": "240 Phan Xích Long, Cầu Kiệu, Hồ Chí Minh 72212, Việt Nam",
+  "lat": 10.7979611,
+  "lng": 106.6897176,
+  "rating": 5,
+  "reviews": 3526,
+  "pmin": 100000,
+  "pmax": 300000,
+  "image": "https://queolua.vn/media/place/57ce69d291c51fec73959346f25f540936f7bc5ddf5e1a61b9617ad89b96932a.jpg",
+  "hours": null
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/blanca-coffee-tea",
+  "name": "Blanca Coffee & Tea",
+  "area": "Phú Nhuận",
+  "kind": "cafe",
+  "sub": "Quán cà phê",
+  "addr": "390/3 Phan Xích Long, Cầu Kiệu, Hồ Chí Minh 700000, Việt Nam",
+  "lat": 10.7998133,
+  "lng": 106.6854032,
+  "rating": 5,
+  "reviews": 713,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/8739ef11ef31abd99602294021b18f4ae41db82211654feebc8b3ad915ddd2c6.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "08:00",
+    "closes": "23:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/bun-bo-hue-o-xuan-phan-xich-long",
+  "name": "Bún bò Huế O Xuân",
+  "area": "Phú Nhuận",
+  "kind": "streetfood",
+  "sub": "Quán bún bò",
+  "addr": "269/1 Phan Xích Long, Cầu Kiệu, Hồ Chí Minh, Việt Nam",
+  "lat": 10.7996411,
+  "lng": 106.6849356,
+  "rating": 5,
+  "reviews": 198,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/8d88fa8d39d9396beb565f9d2ec4b90feb351df0084b3530b6e35ca31c3adba8.jpg",
+  "hours": null
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/button-boardgames-coffee",
+  "name": "Button Boardgames Coffee",
+  "area": "Phú Nhuận",
+  "kind": "cafe",
+  "sub": "Quán cà phê",
+  "addr": "48/60 Đ. Hồ Biểu Chánh, Phường 11, Phú Nhuận, Hồ Chí Minh 700000, Việt Nam",
+  "lat": 10.7930143,
+  "lng": 106.6748053,
+  "rating": 5,
+  "reviews": 194,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/6723f4ad3e23819bccaedd666c8efe73004678c5daec3a8691e5e37274c1ce39.jpg",
+  "hours": null
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/the-ran-korea-phu-nhuan",
+  "name": "The Rán Korea Phú Nhuận",
+  "area": "Phú Nhuận",
+  "kind": "restaurant",
+  "sub": "Quán gà",
+  "addr": "15a đường 11, Cầu Kiệu, Hồ Chí Minh 700000, Việt Nam",
+  "lat": 10.7963871,
+  "lng": 106.6918759,
+  "rating": 4.9,
+  "reviews": 2203,
+  "pmin": 100000,
+  "pmax": 200000,
+  "image": "https://queolua.vn/media/place/d4fa9cad557e3ccb2461406433644fd9d3fc4919b8cc7f6d4b73247b5191687c.jpg",
+  "hours": null
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/mi-gia-duy-ky",
+  "name": "Mì Gia Duy Ký",
+  "area": "Phú Nhuận",
+  "kind": "streetfood",
+  "sub": "Quán bánh canh",
+  "addr": "86/35/29 Đ. Thích Quảng Đức, Đức Nhuận, Hồ Chí Minh 700000, Việt Nam",
+  "lat": 10.8069881,
+  "lng": 106.6835602,
+  "rating": 5,
+  "reviews": 162,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/13ae3be058c44b72a04d5267028d474122d55689c545d1d668f90c17aead04b3.jpg",
+  "hours": null
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/fast-sushi-phu-nhuan-chi-nhanh-1",
+  "name": "FAST SUSHI PHÚ NHUẬN CHI NHÁNH 1",
+  "area": "Phú Nhuận",
+  "kind": "restaurant",
+  "sub": "Quán sushi",
+  "addr": "12/6 Cù Lao, Phường 2, Cầu Kiệu, Hồ Chí Minh 70000, Việt Nam",
+  "lat": 10.7962175,
+  "lng": 106.6895975,
+  "rating": 4.9,
+  "reviews": 1876,
+  "pmin": 200000,
+  "pmax": 500000,
+  "image": "https://queolua.vn/media/place/c1080066fd3e1be3be30dd166529fd62e78e0e9d7b0b808f70102596c781475b.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "10:00",
+    "closes": "22:30"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/moongo-cau-kieu-am-thuc-han-quoc",
+  "name": "MoonGo Cầu Kiệu - Ẩm thực Hàn Quốc",
+  "area": "Phú Nhuận",
+  "kind": "restaurant",
+  "sub": "Quán cơm gà",
+  "addr": "221 Phan Đăng Lưu, Cầu Kiệu, Hồ Chí Minh, Việt Nam",
+  "lat": 10.7995299,
+  "lng": 106.6808891,
+  "rating": 4.9,
+  "reviews": 1483,
+  "pmin": 100000,
+  "pmax": 200000,
+  "image": "https://queolua.vn/media/place/e19a12a63fc149eedfca0a3c82c3d044f3ed439b8616707ba213c8178706911b.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "10:30",
+    "closes": "22:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/tiem-lau-1996",
+  "name": "TIỆM LẨU 1996",
+  "area": "Phú Nhuận",
+  "kind": "restaurant",
+  "sub": "Quán lẩu bò",
+  "addr": "29 Đ. Nguyễn Đình Chiểu, Đức Nhuận, Hồ Chí Minh, Việt Nam",
+  "lat": 10.803666,
+  "lng": 106.6798869,
+  "rating": 4.9,
+  "reviews": 1205,
+  "pmin": 100000,
+  "pmax": 200000,
+  "image": "https://queolua.vn/media/place/352a884f843369424216834c2dd4d790ef5ad696f39bf1afdf99b4d9f1ed0586.jpg",
+  "hours": null
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/chivago-phu-nhuan-ga-ran-han-quoc-bia",
+  "name": "Chivago Phú Nhuận - Gà rán Hàn Quốc & Bia",
+  "area": "Phú Nhuận",
+  "kind": "restaurant",
+  "sub": "Quán gà rán hàn quốc",
+  "addr": "8 Đ. Hoa Đào, Cầu Kiệu, Hồ Chí Minh 72000, Việt Nam",
+  "lat": 10.7975139,
+  "lng": 106.6881014,
+  "rating": 4.9,
+  "reviews": 916,
+  "pmin": 200000,
+  "pmax": 300000,
+  "image": "https://queolua.vn/media/place/fb1766235faf14c948186ee7348b6b74473ff9c8b3f43965e586f15ebd7812e1.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "11:00",
+    "closes": "01:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/nem-nuong-d-ran-since-1968-pho-quang",
+  "name": "Nem nướng D'ran - Since 1968 - Phổ Quang",
+  "area": "Phú Nhuận",
+  "kind": "restaurant",
+  "sub": "Quán nem nướng",
+  "addr": "130 Đ. Phổ Quang, Đức Nhuận, Hồ Chí Minh 700000, Việt Nam",
+  "lat": 10.8083273,
+  "lng": 106.6717753,
+  "rating": 4.9,
+  "reviews": 890,
+  "pmin": 100000,
+  "pmax": 200000,
+  "image": "https://queolua.vn/media/place/7af6c7b86194331f66be5ab2b572dd6fb9b96fd1f00beb5938fca26ff2418946.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "10:00",
+    "closes": "21:30"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/quiqui-our-space",
+  "name": "quiqui - our space",
+  "area": "Phú Nhuận",
+  "kind": "cafe",
+  "sub": "Quán cà phê",
+  "addr": "10/14 Đ. Đoàn Thị Điểm, Cầu Kiệu, Hồ Chí Minh 700000, Việt Nam",
+  "lat": 10.7988136,
+  "lng": 106.6811366,
+  "rating": 5,
+  "reviews": 142,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/53d24ca5f952a7c88d46fbec14a659d09f22f617aca9113e42fd9c48d141c550.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "08:30",
+    "closes": "22:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/dao-niu-guo-phan-xich-long",
+  "name": "Dao Niu Guo Phan Xích Long",
+  "area": "Phú Nhuận",
+  "kind": "dessert",
+  "sub": "Quán chè",
+  "addr": "139 Phan Xích Long, Cầu Kiệu, Hồ Chí Minh 70000, Việt Nam",
+  "lat": 10.7975781,
+  "lng": 106.6894914,
+  "rating": 5,
+  "reviews": 136,
+  "pmin": 300000,
+  "pmax": 400000,
+  "image": "https://queolua.vn/media/place/15cd5712ef479759e58f67a14db68161862136c463111a07c8b70724576a9606.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "10:00",
+    "closes": "22:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/pizza-chat-in-saigon",
+  "name": "Pizza Chất in Saigon",
+  "area": "Phú Nhuận",
+  "kind": "restaurant",
+  "sub": "Quán pizza",
+  "addr": "27 Hoa Sứ, Cầu Kiệu, Hồ Chí Minh, Việt Nam",
+  "lat": 10.7992965,
+  "lng": 106.68886,
+  "rating": 4.9,
+  "reviews": 611,
+  "pmin": 100000,
+  "pmax": 200000,
+  "image": "https://queolua.vn/media/place/6444db42b8f729c1af08eacf3468c7e78f2ed49af8fc4679195a765b5762fe9b.jpg",
+  "hours": null
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/garini-coffee-and-tea",
+  "name": "Garini Coffee and Tea",
+  "area": "Phú Nhuận",
+  "kind": "cafe",
+  "sub": "Quán cà phê",
+  "addr": "81 Cù Lao, Cầu Kiệu, Hồ Chí Minh 70000, Việt Nam",
+  "lat": 10.7971647,
+  "lng": 106.6865524,
+  "rating": 4.9,
+  "reviews": 542,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/5724d3f90bf5520aaea096f73707c578ed4eb95b179ed3e3d5e76ce146c59b58.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "07:30",
+    "closes": "23:59"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/farida-check-in-coffee",
+  "name": "FaRída Check-in & Coffee",
+  "area": "Phú Nhuận",
+  "kind": "cafe",
+  "sub": "Quán cà phê",
+  "addr": "423/11 Nguyễn Kiệm, Đức Nhuận, Hồ Chí Minh 72200, Việt Nam",
+  "lat": 10.800616,
+  "lng": 106.6790319,
+  "rating": 4.9,
+  "reviews": 498,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/ed0ea6fc11a3a9fa82ead21cbabf6a70201821c9799b14f560d5f2f59dcbeb26.jpg",
+  "hours": null
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/hu-tieu-nam-vang-nhat-pham",
+  "name": "Hủ Tiếu Nam Vang Nhất Phẩm",
+  "area": "Phú Nhuận",
+  "kind": "streetfood",
+  "sub": "Quán hủ tiếu Nam Vang",
+  "addr": "38/15A Đ. Nguyễn Văn Trỗi, Cầu Kiệu, Hồ Chí Minh 70000, Việt Nam",
+  "lat": 10.794399,
+  "lng": 106.6796931,
+  "rating": 4.9,
+  "reviews": 367,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/ad66e66a758f4eca86ef326d938e0b84415a9d1ff23c254e2218ac4339cb4e09.jpg",
+  "hours": null
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/king-poutine",
+  "name": "KING POUTINE",
+  "area": "Phú Nhuận",
+  "kind": "restaurant",
+  "sub": "Nhà hàng",
+  "addr": "61 Phan Xích Long, Cầu Kiệu, Hồ Chí Minh 700000, Việt Nam",
+  "lat": 10.7971518,
+  "lng": 106.6913787,
+  "rating": 4.9,
+  "reviews": 365,
+  "pmin": 100000,
+  "pmax": 200000,
+  "image": "https://queolua.vn/media/place/959c43e6e823abe6736b1f50f79dfa74e428d2a38ec8ed90ffd8308f33811b5f.jpg",
+  "hours": null
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/tiem-tra-tuoi-trung-hoa-fujian",
+  "name": "Tiệm trà tươi Trung Hoa Fujian",
+  "area": "Phú Nhuận",
+  "kind": "cafe",
+  "sub": "Quán trà sữa",
+  "addr": "93/61 Đ. Nguyễn Đình Chiểu, Đức Nhuận, Hồ Chí Minh, Việt Nam",
+  "lat": 10.8047137,
+  "lng": 106.6823332,
+  "rating": 4.9,
+  "reviews": 336,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/cbc7f08d534277ee3a51236110d87354dffb8e666dd6e90089d23f58f76bc235.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "12:00",
+    "closes": "21:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/an-yang-mi-ga-han-quoc-phan-xich-long",
+  "name": "An Yang Mì Gà Hàn Quốc Phan Xích Long",
+  "area": "Phú Nhuận",
+  "kind": "restaurant",
+  "sub": "Quán miến gà",
+  "addr": "194A Phan Xích Long, Cầu Kiệu, Hồ Chí Minh 72210, Việt Nam",
+  "lat": 10.7977519,
+  "lng": 106.6905243,
+  "rating": 4.9,
+  "reviews": 242,
+  "pmin": 100000,
+  "pmax": 200000,
+  "image": "https://queolua.vn/media/place/329836c2db6a82c3cd5bd7929cd6aa999b178e9055ff1b89b356cb1e5333cfa1.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "11:00",
+    "closes": "22:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/sip-soul-cafe",
+  "name": "Sip & Soul Cafe",
+  "area": "Phú Nhuận",
+  "kind": "cafe",
+  "sub": "Quán cà phê",
+  "addr": "5/6 Trần Cao Vân, Phú Nhuận, Hồ Chí Minh 70000, Việt Nam",
+  "lat": 10.792419,
+  "lng": 106.6769254,
+  "rating": 5,
+  "reviews": 91,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/1a4dc0b45413a3b7cd3ac922740f2b2bae5b83d5664b3f814f76164c8cc51e4d.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "07:30",
+    "closes": "21:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/oc-quay-phu-nhuan",
+  "name": "Ốc Quậy Phú Nhuận",
+  "area": "Phú Nhuận",
+  "kind": "restaurant",
+  "sub": "Quán ốc",
+  "addr": "7 Hoàng Diệu, Phú Nhuận, Hồ Chí Minh, Việt Nam",
+  "lat": 10.7961782,
+  "lng": 106.6719094,
+  "rating": 5,
+  "reviews": 86,
+  "pmin": 100000,
+  "pmax": 300000,
+  "image": "https://queolua.vn/media/place/b9d5da1311bbda4c74e3fb14c926f37518ed904efac71bd409221cc6735c0272.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "11:00",
+    "closes": "23:59"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/cococha-teahouse",
+  "name": "COCOCHA TEAHOUSE",
+  "area": "Phú Nhuận",
+  "kind": "cafe",
+  "sub": "Quán cà phê",
+  "addr": "171e Đ. Thích Quảng Đức, Đức Nhuận, Hồ Chí Minh 700000, Việt Nam",
+  "lat": 10.806584,
+  "lng": 106.680499,
+  "rating": 5,
+  "reviews": 85,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/f4e0461ff4ad576afa14ffb7c89a7db7114bd81e143e77101699be1aac2f2e9f.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "09:00",
+    "closes": "21:30"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/malajoy",
+  "name": "MalaJoy",
+  "area": "Phú Nhuận",
+  "kind": "streetfood",
+  "sub": "Quán lẩu",
+  "addr": "128 Phan Xích Long, Cầu Kiệu, Hồ Chí Minh 70000, Việt Nam",
+  "lat": 10.797458,
+  "lng": 106.6919941,
+  "rating": 4.9,
+  "reviews": 179,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/8117160f727c419a636869fd2ba7b7513a6e4fd2a8003c58f058fc7f91083614.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "10:00",
+    "closes": "22:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/latam-kitchen",
+  "name": "latẩm kitchen",
+  "area": "Phú Nhuận",
+  "kind": "streetfood",
+  "sub": "Quán bánh bột lọc",
+  "addr": "12/19 Đ. Đào Duy Anh, Đức Nhuận, Hồ Chí Minh, Việt Nam",
+  "lat": 10.8068066,
+  "lng": 106.6777765,
+  "rating": 4.9,
+  "reviews": 159,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/15d80a09954b877304298915ff4c2c16ddb4dbdef05878325891cbf92ef45615.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "07:30",
+    "closes": "20:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/kohaku-ramen-udon-phan-xich-long",
+  "name": "KOHAKU RAMEN & UDON - PHAN XÍCH LONG",
+  "area": "Phú Nhuận",
+  "kind": "restaurant",
+  "sub": "Quán ramen",
+  "addr": "185 Phan Xích Long, Cầu Kiệu, Hồ Chí Minh 700000, Việt Nam",
+  "lat": 10.798268,
+  "lng": 106.6878487,
+  "rating": 4.8,
+  "reviews": 3077,
+  "pmin": 100000,
+  "pmax": 200000,
+  "image": "https://queolua.vn/media/place/84aaf88f3d887137b8b13697b90f933ef37f894c300a7bf1d9b9cc7c6ae55fb6.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "10:00",
+    "closes": "22:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/bake-by-t",
+  "name": "Bake By T",
+  "area": "Phú Nhuận",
+  "kind": "dessert",
+  "sub": "Tiệm bánh mì",
+  "addr": "124/2 Đ. Nguyễn Đình Chiểu, Đức Nhuận, Hồ Chí Minh 700000, Việt Nam",
+  "lat": 10.8041993,
+  "lng": 106.6827201,
+  "rating": 5,
+  "reviews": 68,
+  "pmin": null,
+  "pmax": 400000,
+  "image": "https://queolua.vn/media/place/833ee284165fea1e8384312072fa6e557db8c5befc8b19abf86f063515099c8b.jpg",
+  "hours": null
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/the-flour-donut-pxl",
+  "name": "The Flour Donut PXL",
+  "area": "Phú Nhuận",
+  "kind": "dessert",
+  "sub": "Quán bánh hỏi",
+  "addr": "394 Phan Xích Long, Cầu Kiệu, Hồ Chí Minh 70000, Việt Nam",
+  "lat": 10.7998373,
+  "lng": 106.6852964,
+  "rating": 4.8,
+  "reviews": 125,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/5c20d36f8acfd4a64a90b7e1d2fcefe1fe7b648f5676071a2a99b45922c53e1b.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "09:00",
+    "closes": "22:30"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/bo-by-butterman",
+  "name": "Bơ by Butterman",
+  "area": "Phú Nhuận",
+  "kind": "dessert",
+  "sub": "Tiệm bánh",
+  "addr": "166/41A Đ. Thích Quảng Đức, Đức Nhuận, Hồ Chí Minh, Việt Nam",
+  "lat": 10.8090592,
+  "lng": 106.6799149,
+  "rating": 4.7,
+  "reviews": 401,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/95d58a3e6f46983b55db28831a3c1d5886ba8ff9b854c0679c34150ac93c2c83.jpg",
+  "hours": null
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/baben-fresh-bakery-pho-quang",
+  "name": "Baben Fresh Bakery - Phổ Quang",
+  "area": "Phú Nhuận",
+  "kind": "dessert",
+  "sub": "Quán bánh flan",
+  "addr": "123 Đ. Phổ Quang, Đức Nhuận, Hồ Chí Minh, Việt Nam",
+  "lat": 10.808292,
+  "lng": 106.6724468,
+  "rating": 4.9,
+  "reviews": 40,
+  "pmin": null,
+  "pmax": 200000,
+  "image": "https://queolua.vn/media/place/3a146e2d756d9ca09dc72385827cae3800816ae14697f2084e65281b3a3d8120.jpg",
+  "hours": null
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/banh-pia-soc-trang-tan-binh-huong-viet",
+  "name": "Bánh Pía Sóc Trăng Tân Bình - Hương Việt",
+  "area": "Tân Bình",
+  "kind": "dessert",
+  "sub": "Tiệm bánh",
+  "addr": "236 Đ. Nguyễn Hồng Đào, Tân Bình, Hồ Chí Minh 700000, Việt Nam",
+  "lat": 10.7908026,
+  "lng": 106.6411052,
+  "rating": 5,
+  "reviews": 440,
+  "pmin": 100000,
+  "pmax": 200000,
+  "image": "https://queolua.vn/media/place/eb2dfa538263e69d27076449d486b0d876a7f0f794c5057c9a52c4b72eec2820.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "07:30",
+    "closes": "21:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/kingbeef-steak-pasta-house",
+  "name": "Kingbeef Steak & Pasta House",
+  "area": "Tân Bình",
+  "kind": "restaurant",
+  "sub": "Quán steak",
+  "addr": "120 Trương Công Định, Tân Bình, Hồ Chí Minh, Việt Nam",
+  "lat": 10.795569,
+  "lng": 106.640534,
+  "rating": 5,
+  "reviews": 434,
+  "pmin": 200000,
+  "pmax": 300000,
+  "image": "https://queolua.vn/media/place/c3e887ac5b2e4142da9de2a11f661d2d8bd1c0ccef6dd044c7ec8004b7caee5c.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "10:00",
+    "closes": "22:30"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/breadtalk-menas-mall",
+  "name": "BreadTalk Menas Mall",
+  "area": "Tân Bình",
+  "kind": "dessert",
+  "sub": "Tiệm bánh",
+  "addr": "60A Trường Sơn, Tân Sơn Hòa, Hồ Chí Minh 700000, Việt Nam",
+  "lat": 10.8129321,
+  "lng": 106.6656901,
+  "rating": 5,
+  "reviews": 384,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/daac38ccc5a9ee1530d5f027b28697a39dd2e23eb2d62c521d926e6904781b9b.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "08:00",
+    "closes": "22:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/tiem-chao-suon-habi",
+  "name": "Tiệm Cháo Sườn HaBi",
+  "area": "Tân Bình",
+  "kind": "streetfood",
+  "sub": "Quán cháo sườn",
+  "addr": "44 Hoàng Hoa Thám, Tân Bình, Hồ Chí Minh 700000, Việt Nam",
+  "lat": 10.798655,
+  "lng": 106.6472301,
+  "rating": 5,
+  "reviews": 376,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/754a3c78430cfcf9a84b3ddaa43d292226f4bb394cfdffa48444cc8cab8a6ac8.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "06:00",
+    "closes": "21:50"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/ca-phe-muoi-hue-cao-loan",
+  "name": "Cà Phê Muối Huế Cao Loan",
+  "area": "Tân Bình",
+  "kind": "cafe",
+  "sub": "Quán cà phê muối",
+  "addr": "406/3 Cộng Hòa, Tân Bình, Hồ Chí Minh, Việt Nam",
+  "lat": 10.802598,
+  "lng": 106.64354,
+  "rating": 5,
+  "reviews": 374,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/4ae331a390f7eeab76ae3acd8ee51dbf62fa893a263362692c25c0d1cb22eadf.jpg",
+  "hours": null
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/bun-dau-trang-an",
+  "name": "Bún Đậu Tràng An",
+  "area": "Tân Bình",
+  "kind": "streetfood",
+  "sub": "Quán bún đậu",
+  "addr": "31 Ba Vân, Tân Bình, Hồ Chí Minh 70000, Việt Nam",
+  "lat": 10.7949541,
+  "lng": 106.6420827,
+  "rating": 5,
+  "reviews": 358,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/e45623a14c18d0359d13a01bb8077518eea2391331312ec32555bc2aa2aabac1.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "11:00",
+    "closes": "21:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/muot-chao-suon-quay-gion-eat-chill",
+  "name": "Mướt Cháo Sườn Quẩy Giòn - Eat & Chill",
+  "area": "Tân Bình",
+  "kind": "cafe",
+  "sub": "Quán cháo sườn",
+  "addr": "48/3 Út Tịch, Tân Sơn Nhất, Hồ Chí Minh 70000, Việt Nam",
+  "lat": 10.7965364,
+  "lng": 106.6582362,
+  "rating": 5,
+  "reviews": 277,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/5105d88da13468f2051ec606d3e1ffb0fbb14830325f01322f09858258d9cdd3.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "08:00",
+    "closes": "21:30"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/sushi-to-no3",
+  "name": "Sushi TO No3",
+  "area": "Tân Bình",
+  "kind": "restaurant",
+  "sub": "Quán sushi",
+  "addr": "183 Hoàng Hoa Thám, Tân Bình, Hồ Chí Minh 70000, Việt Nam",
+  "lat": 10.8056512,
+  "lng": 106.6475984,
+  "rating": 5,
+  "reviews": 204,
+  "pmin": 200000,
+  "pmax": 300000,
+  "image": "https://queolua.vn/media/place/8eb3225da86f8afba66d18b4e83fd8d22ae3063250a2aea49bbb545b1b4410a1.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "10:00",
+    "closes": "22:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/imago-coffee-workshop",
+  "name": "Imago Coffee & Workshop",
+  "area": "Tân Bình",
+  "kind": "cafe",
+  "sub": "Quán cà phê",
+  "addr": "94 Bàu Cát 3, Tân Bình, Hồ Chí Minh 700000, Việt Nam",
+  "lat": 10.7926095,
+  "lng": 106.6430367,
+  "rating": 5,
+  "reviews": 204,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/1d1a9eea5ef2aa99a5580dad14db42f24e9b24484b149f855f0433a721a7195d.jpg",
+  "hours": null
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/liu-shan-men-taiwan-hotpot-mini-tan-binh",
+  "name": "Liu Shan Men Taiwan Hotpot Mini Tan Binh",
+  "area": "Tân Bình",
+  "kind": "restaurant",
+  "sub": "Quán lẩu",
+  "addr": "2a Bế Văn Đàn, Tân Bình, Hồ Chí Minh, Việt Nam",
+  "lat": 10.7900624,
+  "lng": 106.6409618,
+  "rating": 5,
+  "reviews": 188,
+  "pmin": 100000,
+  "pmax": 200000,
+  "image": "https://queolua.vn/media/place/bdae55284f88fe50fca2e925c7562833c4da975f81feedae324036d76d6d96b4.jpg",
+  "hours": null
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/tiem-nuong-no",
+  "name": "Tiệm Nướng NỌ",
+  "area": "Tân Bình",
+  "kind": "restaurant",
+  "sub": "Quán nướng",
+  "addr": "728 Cách Mạng Tháng Tám, Tân Sơn Nhất, Hồ Chí Minh 700000, Việt Nam",
+  "lat": 10.7878626,
+  "lng": 106.6630917,
+  "rating": 4.9,
+  "reviews": 7194,
+  "pmin": 200000,
+  "pmax": 300000,
+  "image": "https://queolua.vn/media/place/ce09ac4f49517ea7ba136953391575589abcf06b3364a9ddd308bdd8af204c92.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "16:30",
+    "closes": "23:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/tiem-nuong-nha-bird",
+  "name": "Tiệm Nướng Nhà Bird",
+  "area": "Tân Bình",
+  "kind": "restaurant",
+  "sub": "Quán nướng",
+  "addr": "214 Trương Công Định, Tân Bình, Hồ Chí Minh, Việt Nam",
+  "lat": 10.7930544,
+  "lng": 106.6398013,
+  "rating": 4.9,
+  "reviews": 4227,
+  "pmin": 100000,
+  "pmax": 200000,
+  "image": "https://queolua.vn/media/place/5e7b5b70820665eb5cdaea9f12f5acd49e5b10ac343fcc6eb849fc08613195c9.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "16:00",
+    "closes": "23:30"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/tram-hoc-mochi",
+  "name": "TRẠM HỌC MOCHI",
+  "area": "Tân Bình",
+  "kind": "cafe",
+  "sub": "Quán cà phê",
+  "addr": "115 Trương Công Định, Tân Bình, Hồ Chí Minh, Việt Nam",
+  "lat": 10.7927856,
+  "lng": 106.6398537,
+  "rating": 5,
+  "reviews": 170,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/c7b825f2e43a30777873f797d26b6e88af949e43d6a66cfc9a878f54b594d1f8.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "00:00",
+    "closes": "23:59"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/izakaya-unatoto-tan-binh",
+  "name": "Izakaya Unatoto Tân Bình",
+  "area": "Tân Bình",
+  "kind": "restaurant",
+  "sub": "Nhà hàng",
+  "addr": "248 Đ. Nguyễn Hồng Đào, Phường, Tân Bình, Hồ Chí Minh 736300, Việt Nam",
+  "lat": 10.7902487,
+  "lng": 106.6405497,
+  "rating": 4.9,
+  "reviews": 3216,
+  "pmin": 100000,
+  "pmax": 500000,
+  "image": "https://queolua.vn/media/place/a9ace53441fe6f18d90ee7875db5469bf9b761496b94e64107233c2ee546f572.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "11:00",
+    "closes": "22:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/kfc-duong-dong-den-tp-ho-chi-minh",
+  "name": "KFC Đường Đồng Đen TP Hồ Chí Minh",
+  "area": "Tân Bình",
+  "kind": "restaurant",
+  "sub": "Quán gà",
+  "addr": "143 Đồng Đen, Bảy Hiền, Hồ Chí Minh, Việt Nam",
+  "lat": 10.7906365,
+  "lng": 106.6435557,
+  "rating": 4.9,
+  "reviews": 2175,
+  "pmin": 100000,
+  "pmax": 200000,
+  "image": "https://queolua.vn/media/place/6746bdfb050389d5b89bce921b8e275c3ceab939b0447db21a9a615e5d4ac127.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "10:00",
+    "closes": "22:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/jollibee-268-au-co",
+  "name": "Jollibee 268 Âu Cơ",
+  "area": "Tân Bình",
+  "kind": "streetfood",
+  "sub": "Quán gà",
+  "addr": "268 Âu Cơ, Tân Hòa, Hồ Chí Minh, Việt Nam",
+  "lat": 10.773959,
+  "lng": 106.6487342,
+  "rating": 4.9,
+  "reviews": 2142,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/d1265d358a45b68e3287cb456bf7a44191b6536495d8ddadbccc094b8f31e587.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "08:30",
+    "closes": "22:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/hy-ky-mi-gia",
+  "name": "HỶ KÝ MÌ GIA",
+  "area": "Tân Bình",
+  "kind": "streetfood",
+  "sub": "Quán mì hoành thánh",
+  "addr": "158/20 Hoàng Hoa Thám, Tân Bình, Hồ Chí Minh 50000, Việt Nam",
+  "lat": 10.8067029,
+  "lng": 106.6486225,
+  "rating": 4.9,
+  "reviews": 2060,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/0b88a073d2f423bfd84f09ff5b4249aaeee4461b6f162c07d27a70b328d1b8a5.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "06:30",
+    "closes": "22:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/pho-bo-nga-gan-benh-vien-tan-phu",
+  "name": "PHỞ BÒ NGA - GẦN BỆNH VIỆN TÂN PHÚ",
+  "area": "Tân Bình",
+  "kind": "streetfood",
+  "sub": "Quán phở gà",
+  "addr": "594/22 Âu Cơ, Bảy Hiền, Hồ Chí Minh, Việt Nam",
+  "lat": 10.7828743,
+  "lng": 106.6429952,
+  "rating": 5,
+  "reviews": 157,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/289810a0386e13062fbcd0d15510103d6e06de76dc97ae6cfc7ddec2a095db97.jpg",
+  "hours": null
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/renge-ramen",
+  "name": "RENGE RAMEN",
+  "area": "Tân Bình",
+  "kind": "restaurant",
+  "sub": "Quán ramen",
+  "addr": "157 Đ. Nguyễn Hồng Đào, Tân Bình, Hồ Chí Minh, Việt Nam",
+  "lat": 10.793781,
+  "lng": 106.6425202,
+  "rating": 4.9,
+  "reviews": 1237,
+  "pmin": 100000,
+  "pmax": 200000,
+  "image": "https://queolua.vn/media/place/82c393605ea9abd9e743b00ae333eb39b54144ffc935a7ca9a8c188d3458e130.jpg",
+  "hours": null
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/nha-hang-bep-di-toan",
+  "name": "Nhà hàng Bếp Dì Toàn",
+  "area": "Tân Bình",
+  "kind": "restaurant",
+  "sub": "Nhà hàng",
+  "addr": "6A Đ. Đặng Văn Sâm, Tân Sơn Hòa, Hồ Chí Minh 700000, Việt Nam",
+  "lat": 10.8142634,
+  "lng": 106.6727937,
+  "rating": 4.9,
+  "reviews": 1100,
+  "pmin": 100000,
+  "pmax": 400000,
+  "image": "https://queolua.vn/media/place/636717258e063541f19decffe601e5d41fd6fe75b8a23b04260acf6eb0bdb379.jpg",
+  "hours": null
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/fisa-kafe",
+  "name": "FISA Kafé",
+  "area": "Tân Bình",
+  "kind": "cafe",
+  "sub": "Quán cà phê",
+  "addr": "275 Đ. Nguyễn Thái Bình, Tân Sơn Nhất, Hồ Chí Minh, Việt Nam",
+  "lat": 10.7971205,
+  "lng": 106.6542285,
+  "rating": 5,
+  "reviews": 144,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/6eda9aa2921d9dcc4788f8403e75006dc8aad079e8124999cce3f9b8521dcad5.jpg",
+  "hours": null
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/banh-kem-hannie-banh-kem-tan-binh",
+  "name": "Bánh Kem Hannie - Bánh Kem Tân Bình",
+  "area": "Tân Bình",
+  "kind": "dessert",
+  "sub": "Tiệm kem",
+  "addr": "233/4a Nghĩa Phát, Tân Hòa, Hồ Chí Minh, Việt Nam",
+  "lat": 10.7837914,
+  "lng": 106.6559627,
+  "rating": 4.9,
+  "reviews": 805,
+  "pmin": 100000,
+  "pmax": 400000,
+  "image": "https://queolua.vn/media/place/7185c63dc40999b5bbe5c9b445f6e950ccc4cc320eb16c4db0835f91b28d4edc.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "00:00",
+    "closes": "23:59"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/dong-cafe-bau-cat",
+  "name": "Đồng Cafe - Bàu Cát",
+  "area": "Tân Bình",
+  "kind": "cafe",
+  "sub": "Quán cà phê",
+  "addr": "157 Đ. Bàu Cát, Tân Bình, Hồ Chí Minh 700000, Việt Nam",
+  "lat": 10.7923229,
+  "lng": 106.6431297,
+  "rating": 4.9,
+  "reviews": 766,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/94ee6be6e0a5b2c9f904433d017231362596822ea50415ce6c27e02ae23ec8ad.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "07:00",
+    "closes": "23:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/tiem-o-day-coffee-tea-cake",
+  "name": "Tiệm Ở Đây Coffee - Tea & Cake",
+  "area": "Tân Bình",
+  "kind": "cafe",
+  "sub": "Quán cà phê",
+  "addr": "62 Trần Thánh Tông, Tân Sơn, Hồ Chí Minh, Việt Nam",
+  "lat": 10.8284074,
+  "lng": 106.6392247,
+  "rating": 5,
+  "reviews": 141,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/564279bf2c3831de2c4c02607a9185875db0aee238f1003b324b1e8fac230471.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "07:00",
+    "closes": "22:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/dao-niu-guo-le-van-sy",
+  "name": "Dao Niu Guo Lê Văn Sỹ",
+  "area": "Tân Bình",
+  "kind": "restaurant",
+  "sub": "Quán lẩu",
+  "addr": "300 Đ. Lê Văn Sỹ, Tân Sơn Hòa, Hồ Chí Minh 70000, Việt Nam",
+  "lat": 10.796621,
+  "lng": 106.6653819,
+  "rating": 5,
+  "reviews": 138,
+  "pmin": 100000,
+  "pmax": 500000,
+  "image": "https://queolua.vn/media/place/15cd5712ef479759e58f67a14db68161862136c463111a07c8b70724576a9606.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "10:00",
+    "closes": "22:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/kohaku-udon-ramen-lotte-mart-tan-binh",
+  "name": "Kohaku Udon & Ramen - LOTTE Mart Tân Bình",
+  "area": "Tân Bình",
+  "kind": "restaurant",
+  "sub": "Quán ramen",
+  "addr": "LOTTE Mart, 20 Cộng Hòa, Bảy Hiền, Hồ Chí Minh, Việt Nam",
+  "lat": 10.8012166,
+  "lng": 106.6532047,
+  "rating": 4.9,
+  "reviews": 644,
+  "pmin": 100000,
+  "pmax": 200000,
+  "image": "https://queolua.vn/media/place/7ed066ac9ea8caf052084c156447d805d35b3fb83e003edc65ed2064bbb2dbd9.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "10:00",
+    "closes": "22:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/bukchon-korean-restaurant-tan-binh-branch",
+  "name": "북촌 한식당 공항점 (BUKCHON Korean Restaurant Tan Binh Branch)",
+  "area": "Tân Bình",
+  "kind": "restaurant",
+  "sub": "Quán lẩu",
+  "addr": "102 Thăng Long, Tân Sơn Nhất, Hồ Chí Minh 70000, Việt Nam",
+  "lat": 10.8073355,
+  "lng": 106.6616681,
+  "rating": 4.9,
+  "reviews": 494,
+  "pmin": 200000,
+  "pmax": 300000,
+  "image": "https://queolua.vn/media/place/6907f830c1724750c9e060ae7ea8566e16302c2d9cee1152a176d50e05c93024.jpg",
+  "hours": null
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/milligram-coffee-and-food",
+  "name": "Milligram Coffee and Food",
+  "area": "Tân Bình",
+  "kind": "cafe",
+  "sub": "Quán cà phê",
+  "addr": "124 Yên Thế, Tân Sơn Hòa, Hồ Chí Minh 72108, Việt Nam",
+  "lat": 10.8140571,
+  "lng": 106.6687841,
+  "rating": 4.9,
+  "reviews": 393,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/44fd9f6b4a00b9f02d935a8f4c663c14ebeb1389a7624691307ba90483270620.jpg",
+  "hours": null
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/che-tuyet",
+  "name": "Chè Tuyết",
+  "area": "Tân Bình",
+  "kind": "dessert",
+  "sub": "Quán chè thái",
+  "addr": "27a Đ. Nguyễn Quang Bích, Tân Bình, Hồ Chí Minh, Việt Nam",
+  "lat": 10.8043668,
+  "lng": 106.6460948,
+  "rating": 4.9,
+  "reviews": 270,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/c2c82e936a9d9751f56c64cdf7643c745991ab785586308e88cbcfe85e446074.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "10:00",
+    "closes": "23:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/chewy-chewy-tan-binh-cmt8",
+  "name": "Chewy Chewy Tân Bình - CMT8",
+  "area": "Tân Bình",
+  "kind": "dessert",
+  "sub": "Tiệm bánh",
+  "addr": "750 Cách Mạng Tháng Tám, Tân Sơn Nhất, Hồ Chí Minh 70000, Việt Nam",
+  "lat": 10.7881162,
+  "lng": 106.6625878,
+  "rating": 4.9,
+  "reviews": 230,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/0a1445c55d4605af1064c2425bbd8ca963d241694e663cdef2c5bf14d3fa5760.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "08:00",
+    "closes": "22:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/hyakumi-ramen-tay-thanh",
+  "name": "HYAKUMI RAMEN - Tây Thạnh",
+  "area": "Tân Phú",
+  "kind": "streetfood",
+  "sub": "Quán ramen",
+  "addr": "180 Đường Tây Thạnh, Tây Thạnh, Hồ Chí Minh 70000, Việt Nam",
+  "lat": 10.8116444,
+  "lng": 106.6210755,
+  "rating": 5,
+  "reviews": 1114,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/5889f0279742d34a3668cdf1906c7973b882de9a07273bf0fb21d441370cdcda.jpg",
+  "hours": null
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/bun-quay-hai-anh-em-16-18-tan-quy",
+  "name": "Bún Quậy Hai Anh Em 16 - 18 Tân Quý",
+  "area": "Tân Phú",
+  "kind": "streetfood",
+  "sub": "Quán bún quậy",
+  "addr": "16 - 18 Đ.Tân Quý, Tân Sơn Nhì, Hồ Chí Minh 200000, Việt Nam",
+  "lat": 10.7985377,
+  "lng": 106.6195131,
+  "rating": 5,
+  "reviews": 657,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/e010c71026b2609ff007ef2233481fe8ca77e5050209bfaf6dedadcbda2b1e97.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "06:00",
+    "closes": "21:30"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/tiem-banh-anycake",
+  "name": "Tiệm bánh ANYCAKE",
+  "area": "Tân Phú",
+  "kind": "dessert",
+  "sub": "Tiệm bánh",
+  "addr": "318/1 Trịnh Đình Trọng, Tân Phú, Hồ Chí Minh 700000, Việt Nam",
+  "lat": 10.7770961,
+  "lng": 106.6366793,
+  "rating": 5,
+  "reviews": 614,
+  "pmin": 400000,
+  "pmax": 500000,
+  "image": "https://queolua.vn/media/place/7e5e14b42a57d6dcb30fa09339e5c6ecd939cceb6abb3f102bf6d795963af1cb.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "08:30",
+    "closes": "21:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/tiem-banh-an-cake",
+  "name": "Tiệm Bánh An Cake",
+  "area": "Tân Phú",
+  "kind": "dessert",
+  "sub": "Tiệm bánh",
+  "addr": "Lê Trọng Tấn, Tây Thạnh, Hồ Chí Minh, Việt Nam",
+  "lat": 10.8045012,
+  "lng": 106.6327384,
+  "rating": 5,
+  "reviews": 467,
+  "pmin": 200000,
+  "pmax": 300000,
+  "image": "https://queolua.vn/media/place/29242072d1cdf2d935f657c74bafbed2c6081ee09e81014cb3ecbd211185e0e9.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "08:00",
+    "closes": "22:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/th25-coffee-tan-phu-poker-board-game",
+  "name": "TH25 Coffee - Tân Phú - POKER Board Game",
+  "area": "Tân Phú",
+  "kind": "cafe",
+  "sub": "Quán cà phê",
+  "addr": "71/2 Chế Lan Viên, Tây Thạnh, Hồ Chí Minh 72009, Việt Nam",
+  "lat": 10.8113792,
+  "lng": 106.6288211,
+  "rating": 5,
+  "reviews": 334,
+  "pmin": 100000,
+  "pmax": 200000,
+  "image": "https://queolua.vn/media/place/e0b6b5b202a78081a7603653de028d15c03a398c8d3235bb5a6ae681552d3feb.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "12:00",
+    "closes": "23:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/anh-bar-mi-cay-tra-trai-cay-le-nga",
+  "name": "ANH BAR - MÌ CAY & TRÀ TRÁI CÂY - LÊ NGÃ",
+  "area": "Tân Phú",
+  "kind": "streetfood",
+  "sub": "Quán mì cay",
+  "addr": "21/63 Lê Ngã, Tân Phú, Hồ Chí Minh, Việt Nam",
+  "lat": 10.7772534,
+  "lng": 106.6441004,
+  "rating": 5,
+  "reviews": 190,
+  "pmin": null,
+  "pmax": 100000,
+  "image": null,
+  "hours": null
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/panda-bbq-le-trong-tan",
+  "name": "PANDA BBQ LÊ TRỌNG TẤN",
+  "area": "Tân Phú",
+  "kind": "restaurant",
+  "sub": "Quán nướng",
+  "addr": "453 Lê Trọng Tấn, Tây Thạnh, Hồ Chí Minh, Việt Nam",
+  "lat": 10.8090425,
+  "lng": 106.6144175,
+  "rating": 4.9,
+  "reviews": 5600,
+  "pmin": 200000,
+  "pmax": 300000,
+  "image": "https://queolua.vn/media/place/6b70584c73a32e99b29669b9744f7e7e4df103c110ad6417fd4b122c4fa4608e.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "16:00",
+    "closes": "22:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/mi-cay-sasin-123-le-trong-tan",
+  "name": "Mì Cay Sasin 123 Lê Trọng Tấn",
+  "area": "Tân Phú",
+  "kind": "streetfood",
+  "sub": "Quán mì cay",
+  "addr": "123 Lê Trọng Tấn, Tân Sơn Nhì, Hồ Chí Minh 700000, Việt Nam",
+  "lat": 10.8058815,
+  "lng": 106.6283229,
+  "rating": 4.9,
+  "reviews": 4854,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/b586daa4198c12f6953af3284a83caeee16fdfc3347fa66fe082b1f0cd094d46.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "09:00",
+    "closes": "22:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/arli-tea-coffee",
+  "name": "Arli - Tea & Coffee",
+  "area": "Tân Phú",
+  "kind": "cafe",
+  "sub": "Quán cà phê",
+  "addr": "37 Dân Tộc, Tân Sơn Nhì, Hồ Chí Minh, Việt Nam",
+  "lat": 10.7941429,
+  "lng": 106.6358846,
+  "rating": 5,
+  "reviews": 172,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/f8c80c50b0b255fac90420e9357b321235d85ffeb2e25eba039ad8616005e33b.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "07:00",
+    "closes": "22:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/mikado-sushi-aeon-mall-tan-phu-celadon",
+  "name": "Mikado Sushi Aeon Mall Tân Phú Celadon",
+  "area": "Tân Phú",
+  "kind": "restaurant",
+  "sub": "Quán sushi",
+  "addr": "30 Tân Thắng, Celadon City, Tân Sơn Nhì, Hồ Chí Minh 700000, Việt Nam",
+  "lat": 10.801889,
+  "lng": 106.6181269,
+  "rating": 4.9,
+  "reviews": 2675,
+  "pmin": 100000,
+  "pmax": 200000,
+  "image": "https://queolua.vn/media/place/f1470ee57dcea6b79b574bb441b5a99550f4256c6579b76405bb835ef8681eb5.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "11:00",
+    "closes": "22:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/tacos-deli",
+  "name": "TACOS DELI",
+  "area": "Tân Phú",
+  "kind": "streetfood",
+  "sub": "Quán ăn vặt",
+  "addr": "350 Đ. Lũy Bán Bích, Tân Phú, Hồ Chí Minh, Việt Nam",
+  "lat": 10.7754599,
+  "lng": 106.6335171,
+  "rating": 5,
+  "reviews": 157,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/0be16fe550ce5a885426876a0e728e23d4ee04beaf2d32e90a679714b721e8c3.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "08:00",
+    "closes": "21:30"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/cha-ca-hang-son-aeon-mall-tan-phu",
+  "name": "Chả Cá Hàng Sơn Aeon Mall Tân Phú",
+  "area": "Tân Phú",
+  "kind": "restaurant",
+  "sub": "Quán chả cá",
+  "addr": "AEON MALL TÂN PHÚ CELADON, 30 Tân Thắng, Celadon City, Tân Sơn Nhì, Hồ Chí Minh 32000, Việt Nam",
+  "lat": 10.8013965,
+  "lng": 106.6185733,
+  "rating": 4.9,
+  "reviews": 942,
+  "pmin": 200000,
+  "pmax": 300000,
+  "image": "https://queolua.vn/media/place/7ce4eb99fa79315fcfcc438231d716987bc0b76cd8c531c3c25813f29e03d3b6.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "10:00",
+    "closes": "22:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/chay-gume-nuong-om-lau",
+  "name": "Cháy GUME Nướng Ôm Lẩu",
+  "area": "Tân Phú",
+  "kind": "restaurant",
+  "sub": "Quán nướng",
+  "addr": "51 Đường Tây Thạnh, Khu Phố 3, Tây Thạnh, Hồ Chí Minh 70000, Việt Nam",
+  "lat": 10.8164724,
+  "lng": 106.6259741,
+  "rating": 5,
+  "reviews": 142,
+  "pmin": 100000,
+  "pmax": 200000,
+  "image": "https://queolua.vn/media/place/2f66961c8d950d2d80b7f526336d82bf78f7c2f81308264da6efb55e96539832.jpg",
+  "hours": null
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/no-nuong-sot",
+  "name": "NÓ Nướng & Sốt",
+  "area": "Tân Phú",
+  "kind": "restaurant",
+  "sub": "Quán nướng",
+  "addr": "217 Đường Tây Thạnh, Tây Thạnh, Hồ Chí Minh, Việt Nam",
+  "lat": 10.8131734,
+  "lng": 106.6229032,
+  "rating": 4.9,
+  "reviews": 578,
+  "pmin": 200000,
+  "pmax": 300000,
+  "image": "https://queolua.vn/media/place/d5bcbffd9e8418ade4b394346e8cc10d483c52c8b3af9b0362d820d403c33e6b.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "16:00",
+    "closes": "23:59"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/kangnam-chicken-ga-ran-kangnam",
+  "name": "KangNam Chicken - Gà Rán KangNam",
+  "area": "Tân Phú",
+  "kind": "restaurant",
+  "sub": "Quán gà",
+  "addr": "125 Đường Tây Thạnh, Tây Thạnh, Hồ Chí Minh, Việt Nam",
+  "lat": 10.8154527,
+  "lng": 106.6248971,
+  "rating": 4.9,
+  "reviews": 449,
+  "pmin": 100000,
+  "pmax": 200000,
+  "image": "https://queolua.vn/media/place/b1d1772c633c9b1abb4eb06d952272e258c374fa71c4aa511b171e23788fa179.jpg",
+  "hours": null
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/am-thuc-tran-celadon-city",
+  "name": "Ẩm Thực Trần - Celadon City",
+  "area": "Tân Phú",
+  "kind": "restaurant",
+  "sub": "Quán bánh bèo",
+  "addr": "Celadon City, Tân Sơn Nhì, Hồ Chí Minh 72000, Việt Nam",
+  "lat": 10.8040357,
+  "lng": 106.6140153,
+  "rating": 4.9,
+  "reviews": 414,
+  "pmin": 100000,
+  "pmax": 200000,
+  "image": "https://queolua.vn/media/place/0c5f1a70d1a55ad4089de3d2a398adf49f4b4ae801f658da9cf4692a8b7e1426.jpg",
+  "hours": null
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/focus-space-cafe-hoc-tap-lam-viec-cn-tan-phu",
+  "name": "FOCUS SPACE - Cafe học tập & làm việc (CN Tân Phú)",
+  "area": "Tân Phú",
+  "kind": "cafe",
+  "sub": "Quán cà phê",
+  "addr": "49B Tân Thành, Tân Phú, Hồ Chí Minh 70000, Việt Nam",
+  "lat": 10.7868824,
+  "lng": 106.6383903,
+  "rating": 5,
+  "reviews": 117,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/e6edb90e21aea01d701a3f00d9544d04e11b41934bb3c6d0ded7fa96dd7c3f10.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "07:00",
+    "closes": "23:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/oc-na",
+  "name": "Ốc Na",
+  "area": "Tân Phú",
+  "kind": "restaurant",
+  "sub": "Quán ốc",
+  "addr": "32A 32B, Tân Sơn Nhì, Hồ Chí Minh 700000, Việt Nam",
+  "lat": 10.7978774,
+  "lng": 106.6196298,
+  "rating": 4.9,
+  "reviews": 368,
+  "pmin": 100000,
+  "pmax": 200000,
+  "image": "https://queolua.vn/media/place/2be90610f36856f590da7bb27bdbeefab464852938398de1e8a696628133c671.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "16:00",
+    "closes": "23:59"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/bac-2-voi-ga-u-muoi-dam-vi-tan-phu",
+  "name": "Bác 2 Voi: Gà Ủ Muối Đậm Vị - Tân Phú",
+  "area": "Tân Phú",
+  "kind": "restaurant",
+  "sub": "Quán ăn",
+  "addr": "136 Hòa Bình, Tân Phú, Hồ Chí Minh 73100, Việt Nam",
+  "lat": 10.7703688,
+  "lng": 106.6320478,
+  "rating": 4.9,
+  "reviews": 330,
+  "pmin": 100000,
+  "pmax": 200000,
+  "image": "https://queolua.vn/media/place/c37623571f899d3335a8dcc26dc12d4d4d2dd4a322d67daecc9d1cb8792984d1.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "07:30",
+    "closes": "23:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/gogi-house-pandora-truong-chinh",
+  "name": "GoGi House Pandora Trường Chinh",
+  "area": "Tân Phú",
+  "kind": "restaurant",
+  "sub": "Quán cà phê",
+  "addr": "Pandora City, G.01,A,B tầng trệt, TTTM, 1/1 Trường Chinh, Tây Thạnh, Hồ Chí Minh 70000, Việt Nam",
+  "lat": 10.8064778,
+  "lng": 106.634545,
+  "rating": 4.9,
+  "reviews": 310,
+  "pmin": 300000,
+  "pmax": 400000,
+  "image": "https://queolua.vn/media/place/eb1dd2237cbb0656c661caa26bc56137130e23085f87a2c3314bf0e4fe97ba96.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "10:00",
+    "closes": "22:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/cafe-24h-tien-lang-coffee-cn-2",
+  "name": "Cafe 24H - Tiên Lãng Coffee CN 2",
+  "area": "Tân Phú",
+  "kind": "cafe",
+  "sub": "Quán cà phê",
+  "addr": "267A Trịnh Đình Trọng, Tân Phú, Hồ Chí Minh, Việt Nam",
+  "lat": 10.7761799,
+  "lng": 106.6373595,
+  "rating": 4.9,
+  "reviews": 211,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/f7180357388920b676c12bf63775498572e54ac5b8cfb0c492b8eac3a85493be.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "07:00",
+    "closes": "23:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/lani-coffee",
+  "name": "LANI COFFEE",
+  "area": "Tân Phú",
+  "kind": "cafe",
+  "sub": "Quán cà phê",
+  "addr": "807 Trường Chinh, Tây Thạnh, Hồ Chí Minh 72009, Việt Nam",
+  "lat": 10.8121135,
+  "lng": 106.6328836,
+  "rating": 5,
+  "reviews": 86,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/cad5a99c0d6a08082f765161996eb7ab9741f340c8923eb58ecf6e9247df6308.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "06:00",
+    "closes": "23:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/w-station-study-chill-cafe",
+  "name": "W Station - Study & Chill Café",
+  "area": "Tân Phú",
+  "kind": "cafe",
+  "sub": "Quán cà phê",
+  "addr": "267G Trịnh Đình Trọng, Tân Phú, Hồ Chí Minh 604765, Việt Nam",
+  "lat": 10.7763773,
+  "lng": 106.6372067,
+  "rating": 4.9,
+  "reviews": 178,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/730ceea22441dd689b76b44c305f9f1f54f3215c8feb5fbd3004475775454ac6.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "06:00",
+    "closes": "02:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/k-pub-aeon-mall-tan-phu-celadon",
+  "name": "K-Pub AEON MALL Tân Phú Celadon",
+  "area": "Tân Phú",
+  "kind": "restaurant",
+  "sub": "Quán lẩu",
+  "addr": "Celadon, Lô F28-F29 Tầng 1, TTTM AEON MALL, 30 Tân Thắng, Tân Sơn Nhì, Hồ Chí Minh 700000, Việt Nam",
+  "lat": 10.80137,
+  "lng": 106.6175556,
+  "rating": 4.8,
+  "reviews": 2753,
+  "pmin": 200000,
+  "pmax": 300000,
+  "image": "https://queolua.vn/media/place/e8d83febf7dbb9e5d126bb699456d2d35c01551e75fa835f0c964c8d9c28adb5.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "10:00",
+    "closes": "22:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/meetcha",
+  "name": "MeetCha",
+  "area": "Tân Phú",
+  "kind": "cafe",
+  "sub": "Quán trà sữa",
+  "addr": "325 Lê Trọng Tấn, Tân Sơn Nhì, Hồ Chí Minh, Việt Nam",
+  "lat": 10.8076605,
+  "lng": 106.6204189,
+  "rating": 5,
+  "reviews": 71,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/96a705d6a611b4d313f1a572862cda63d1b2cc81c3df3c83666e361ada2dfc15.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "09:00",
+    "closes": "22:30"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/buffet-goc-nuong-bbq-tan-phu",
+  "name": "Buffet Góc Nướng BBQ - Tân Phú",
+  "area": "Tân Phú",
+  "kind": "restaurant",
+  "sub": "Nhà hàng buffet",
+  "addr": "155A Đ. Kênh Tân Hóa, Tân Phú, Hồ Chí Minh, Việt Nam",
+  "lat": 10.7711803,
+  "lng": 106.6357162,
+  "rating": 4.8,
+  "reviews": 1673,
+  "pmin": 100000,
+  "pmax": 200000,
+  "image": "https://queolua.vn/media/place/0417b4d7da9eded7cfa2d839f8e76894c389a025089b5d0bb5124ec9547d84fc.jpg",
+  "hours": null
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/homebrew-cafe-tan-thang",
+  "name": "Homebrew Café Tân Thắng -",
+  "area": "Tân Phú",
+  "kind": "cafe",
+  "sub": "Quán cà phê",
+  "addr": "75-77 Tân Thắng, Tân Sơn Nhì, Hồ Chí Minh 70000, Việt Nam",
+  "lat": 10.8044752,
+  "lng": 106.6224315,
+  "rating": 4.8,
+  "reviews": 969,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/ae0a3265fff698ebd42b5374cb64ea11fae908b1086dc5fa561e7b7523d2d7de.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "06:00",
+    "closes": "23:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/che-buoi-huynh-nga",
+  "name": "Chè Bưởi Huỳnh Nga",
+  "area": "Tân Phú",
+  "kind": "dessert",
+  "sub": "Quán chè bưởi",
+  "addr": "282a Đ. Lũy Bán Bích, Tân Phú, Hồ Chí Minh 700000, Việt Nam",
+  "lat": 10.7731483,
+  "lng": 106.6324263,
+  "rating": 4.9,
+  "reviews": 80,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/586a474abaa6997674cd5c0e87c96b2cd8e3a49c6f0a19f80e8da92075fb19e3.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "13:00",
+    "closes": "23:00"
+   }
+  ]
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/tiem-banh-tacos-happy",
+  "name": "Tiệm bánh TACOS HAPPY",
+  "area": "Tân Phú",
+  "kind": "dessert",
+  "sub": "Tiệm bánh",
+  "addr": "77 Đ. Kênh 19/5, Tây Thạnh, Hồ Chí Minh 700000, Việt Nam",
+  "lat": 10.8063918,
+  "lng": 106.6122992,
+  "rating": 5,
+  "reviews": 42,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/d5911420b426a1b7fb2f200ec10a9b35535f6e4f0dd971eef60989995a86df44.png",
+  "hours": null
+ },
+ {
+  "src": "queolua",
+  "key": "https://queolua.vn/dia-diem/savoure-bakery-cafe-thoai-ngoc-hau",
+  "name": "Savouré Bakery & Café - Thoại Ngọc Hầu",
+  "area": "Tân Phú",
+  "kind": "dessert",
+  "sub": "Tiệm bánh",
+  "addr": "02 Thoại Ngọc Hầu, Tân Phú, Hồ Chí Minh 008428, Việt Nam",
+  "lat": 10.7857057,
+  "lng": 106.6411053,
+  "rating": 4.7,
+  "reviews": 41,
+  "pmin": null,
+  "pmax": 100000,
+  "image": "https://queolua.vn/media/place/cf8f0d72084212ac7466bcf444c8a4d1b56c37a05a1ee43cd6562b80fe1bfdc5.jpg",
+  "hours": [
+   {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "opens": "06:00",
+    "closes": "21:00"
+   }
+  ]
+ }
+]

@@ -1,0 +1,170 @@
+[
+ {
+  "type": "activity",
+  "price_per_couple_vnd": 1600000,
+  "price_note": "Vé người lớn 800.000đ (Aah!) – 1.250.000đ (Ooh!) – 1.750.000đ (Wow!)/người; tính hạng rẻ nhất cho 2 người",
+  "opening_hours": "Suất 18:00, ~60 phút; chỉ diễn theo lịch từng tháng",
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-26",
+  "name": "À Ố Show (xiếc tre – Lune Production)",
+  "category": "biểu diễn nghệ thuật",
+  "district": "Quận 1",
+  "address": "Nhà hát Thành phố, 07 Công Trường Lam Sơn, Quận 1",
+  "mood_tags": [
+   "lãng mạn",
+   "kỷ niệm",
+   "ngày mưa"
+  ],
+  "description_vi": "Xiếc tre không lời kết hợp nhạc dân tộc chơi sống tại Nhà hát Thành phố. Kiểm tra lịch diễn và đặt vé trước ≥24h.",
+  "source_urls": [
+   "https://www.luneproduction.com/ao-show?location_id=1",
+   "https://www.ticketgo.vn/event/vo-dien-xiec-tre-a-o-show",
+   "https://cityguide.vn/vn/ho-chi-minh/su-kien/van-hoa-va-nghe-thuat/bieu-dien-san-khau/xiec-tre-a-o-show-18611b68-5b11-42e9-bf3f-242ba89871d1"
+  ]
+ },
+ {
+  "type": "food",
+  "price_per_couple_vnd": null,
+  "price_note": "Món ốc khoảng 50.000–180.000đ/dĩa (theo nguồn); tổng tuỳ số món",
+  "opening_hours": "Khoảng 16:00–01:00, đông nhất 19:00–23:00",
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-26",
+  "name": "Phố ẩm thực Vĩnh Khánh (phố ốc)",
+  "category": "chợ đêm/street food",
+  "district": "Quận 4",
+  "address": "Đường Vĩnh Khánh, Quận 4 (P. Khánh Hội mới)",
+  "mood_tags": [
+   "rẻ mà vui",
+   "năng động",
+   "đêm muộn"
+  ],
+  "description_vi": "Phố ốc – hải sản vỉa hè nổi tiếng nhất Sài Gòn, cách Quận 1 một cây cầu. Đi sớm tầm 18:30 để tránh xếp hàng.",
+  "source_urls": [
+   "https://govietnam.travel/destination/saigon-street-food-cluster-vinh-khanh-snail-street-xom-chieu-ban-co-markets/",
+   "https://viet-go.com/en/attractions/vinh-khanh-street"
+  ]
+ },
+ {
+  "type": "activity",
+  "price_per_couple_vnd": null,
+  "price_note": "Giá vé theo từng đêm nhạc – xem lịch trên website",
+  "opening_hours": "Đêm nhạc khoảng 21:15–23:15 (theo lịch)",
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-26",
+  "name": "Phòng trà Không Tên",
+  "category": "nhạc sống/phòng trà",
+  "district": "Quận 1",
+  "address": "112 Lê Thánh Tôn, Quận 1",
+  "mood_tags": [
+   "lãng mạn",
+   "đêm muộn",
+   "sang chảnh"
+  ],
+  "description_vi": "Phòng trà lâu năm với các đêm nhạc trữ tình/ca sĩ khách mời, hợp hẹn hò tối muộn sau bữa tối ở Quận 1.",
+  "source_urls": [
+   "https://phongtrakhongten.vn/",
+   "https://dulich3mien.vn/ho-chi-minh/phong-tra-khong-ten/"
+  ]
+ },
+ {
+  "type": "activity",
+  "price_per_couple_vnd": 160000,
+  "price_note": "Vé toàn bộ (Dinh + nhà trưng bày) 80.000đ/người lớn (áp dụng 2026)",
+  "opening_hours": "07:00–18:00 hằng ngày",
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-26",
+  "name": "Dinh Độc Lập",
+  "category": "di tích/triển lãm",
+  "district": "Quận 1",
+  "address": "135 Nam Kỳ Khởi Nghĩa (cổng chính) / 106 Nguyễn Du, Quận 1",
+  "mood_tags": [
+   "chill",
+   "kỷ niệm"
+  ],
+  "description_vi": "Tham quan Dinh và nhà trưng bày “Từ Dinh Norodom đến Dinh Độc Lập”; có xe điện 25.000đ/lượt. Hợp hẹn ban ngày.",
+  "source_urls": [
+   "https://dinhdoclap.gov.vn/gio-tham-quan-va-gia-ve-moi-nhat-ap-dung-tu-01-8-2025-2/",
+   "https://dinhdoclap.gov.vn/lien-he/"
+  ]
+ },
+ {
+  "type": "activity",
+  "price_per_couple_vnd": 120000,
+  "price_note": "60.000đ/người/lượt từ 01/10/2026; SV miễn phí",
+  "opening_hours": "08:00–17:00 hằng ngày",
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-26",
+  "name": "Bảo tàng Thành phố Hồ Chí Minh (Dinh Gia Long)",
+  "category": "bảo tàng",
+  "district": "Quận 1",
+  "address": "65 Lý Tự Trọng, Quận 1",
+  "mood_tags": [
+   "chill",
+   "kỷ niệm",
+   "ngày mưa"
+  ],
+  "description_vi": "Kiến trúc Pháp cổ, cầu thang – hành lang rất ăn ảnh; chụp lưu niệm bằng điện thoại được phép (không flash, không gậy selfie).",
+  "source_urls": [
+   "https://hcmc-museum.edu.vn/luu-tru/5482",
+   "https://hcmc-museum.edu.vn/",
+   "https://travel.com.vn/tin-tuc-du-lich/bao-tang-thanh-pho-ho-chi-minh-v18623.aspx"
+  ]
+ },
+ {
+  "type": "food",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": "Chợ 07:00–22:00 (hàng ăn uống mở từ 04:00); khu ăn ngoài trời buổi tối khoảng 18:00–22:00 theo nguồn du lịch",
+  "source": "web",
+  "out_of_area": false,
+  "status": "uncertain",
+  "date_checked": "2026-10-26",
+  "name": "Chợ Bến Thành – khu ăn uống buổi tối",
+  "category": "chợ đêm/street food",
+  "district": "Quận 1",
+  "address": "Chợ Bến Thành, Quận 1",
+  "mood_tags": [
+   "rẻ mà vui",
+   "năng động"
+  ],
+  "description_vi": "Ăn vặt – món Việt trong và quanh chợ biểu tượng Sài Gòn, rồi đi bộ sang phố đi bộ Nguyễn Huệ.",
+  "source_urls": [
+   "https://benthanhmarket.vn/about/noi-quy-cho.html",
+   "https://www.vietnamtourism.com/vi/cho-ben-thanh-cam-nang-ay-u-ve-ngoi-cho-bieu-tuong-cua-sai-g"
+  ]
+ },
+ {
+  "type": "food",
+  "price_per_couple_vnd": 1960000,
+  "price_note": "Set menu từ 980.000đ/người lớn (theo nguồn 2026), giá đổi theo ngày/vị trí",
+  "opening_hours": "Đón khách 18:00, khởi hành 19:30, cập bến 21:30",
+  "source": "web",
+  "out_of_area": false,
+  "status": "likely_operating",
+  "date_checked": "2026-10-26",
+  "name": "Du thuyền Saigon Princess – ăn tối trên sông",
+  "category": "du thuyền nhà hàng",
+  "district": "Quận 4",
+  "address": "Cảng Sài Gòn, 5 Nguyễn Tất Thành, Quận 4",
+  "mood_tags": [
+   "lãng mạn",
+   "sang chảnh",
+   "kỷ niệm"
+  ],
+  "description_vi": "Ăn tối set menu + nhạc sống trên du thuyền 2 tiếng dọc sông Sài Gòn.",
+  "source_urls": [
+   "https://www.saigonprincess.com.vn/ticket/set-menu-2026-s41449t2",
+   "https://tausaigon.com.vn/du-thuyen-saigon-princess-5-sao"
+  ]
+ }
+]

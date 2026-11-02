@@ -1,0 +1,402 @@
+[
+ {
+  "idx": 63,
+  "name": "SAY CHEESE Nguyễn Trãi",
+  "status": "not_found",
+  "image_url": null,
+  "maps_title": null,
+  "maps_address": null,
+  "place_url": null,
+  "note": "Only SAY CHEESE COFFEE & TEA at 138/16 Nguyễn Trãi (Chợ Quán), not 38 Nguyễn Trãi (nearest non-matching place: SAY CHEESE COFFEE & TEA)"
+ },
+ {
+  "idx": 64,
+  "name": "PHOTO TIME Nguyễn Gia Trí",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S3670FSd2yBnAV_fsmwEpR3Ab3QKi1zb28lboeV1Pg0zzO-bc7vlKOWEASUs6esD6f2OlaG1l8Uvgrb8GPYwyY0WWNKcct8y7PjyBHjNDXh_eOEvxz7H2X9GBjVTEC0eycBjQl=w446-h298-k-no",
+  "maps_title": "PHOTO TIME - NGUYỄN GIA TRÍ",
+  "maps_address": "39 Nguyễn Gia Trí, Thạnh Mỹ Tây, Hồ Chí Minh, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=PHOTO%20TIME%20Nguy%E1%BB%85n%20Gia%20Tr%C3%AD%2039%20Nguy%E1%BB%85n%20Gia%20Tr%C3%AD%20%28D2%20c%C5%A9%29%2C%20P.25%2C%20B%C3%ACnh%20Th%E1%BA%A1nh%20TP.HCM",
+  "note": ""
+ },
+ {
+  "idx": 65,
+  "name": "PHOTO TIME Phú Nhuận",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeh7wB9wDsATwERhZCeXmjm9uuDa2pSpU-sWiVPS_-3plmzNDwPG2t7QsD6vRtPmtHGHv6S6_4QjSdUeO52Q3WRnFjRC4NX59DJu6Pi_Fy_FQlrUeWwxqxTVt709Y9-_2ukvUAY=w408-h510-k-no",
+  "maps_title": "PHOTO TIME PHÚ NHUẬN",
+  "maps_address": "234 Phan Xích Long, Cầu Kiệu, Hồ Chí Minh 700000, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=PHOTO%20TIME%20Ph%C3%BA%20Nhu%E1%BA%ADn%20234%20Phan%20X%C3%ADch%20Long%2C%20Ph%C3%BA%20Nhu%E1%BA%ADn%20TP.HCM",
+  "note": ""
+ },
+ {
+  "idx": 66,
+  "name": "PHOTO TIME Sư Vạn Hạnh",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3qdmKx8N1qV2JlD69XGvrYDanmGfBWcUOOYZneS3Uv-C9sOkb-XlE9lDiPQV0KWuDrYXlMThXfH8S_aAODAh5v2h6TWt0AF2qH80cvJUD9sqewOpzuosfNR5h4MuxTmsph55sGpV1vC1B=w408-h544-k-no",
+  "maps_title": "PHOTO TIME - VẠN HẠNH MALL",
+  "maps_address": "11 Sư Vạn Hạnh, Hòa Hưng, Hồ Chí Minh, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=PHOTO%20TIME%20S%C6%B0%20V%E1%BA%A1n%20H%E1%BA%A1nh%2011%20S%C6%B0%20V%E1%BA%A1n%20H%E1%BA%A1nh%2C%20P.12%2C%20Qu%E1%BA%ADn%2010%20TP.HCM",
+  "note": ""
+ },
+ {
+  "idx": 67,
+  "name": "PhotoYoyo",
+  "status": "not_found",
+  "image_url": null,
+  "maps_title": null,
+  "maps_address": null,
+  "place_url": null,
+  "note": "No PhotoYoyo in results (other photobooths on Sư Vạn Hạnh only)"
+ },
+ {
+  "idx": 68,
+  "name": "Fun Studio Điện Biên Phủ",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfqB9_Ef5SVyX3SyuyyeoWMCrSXrnSqE168gu93Cgy8G6u2T3JqI0iR42P4uYBK-G9fsngZKFcYEuTfpohp4Zuzy3EBm6YLEyu6cL8rThKQBrvdZDE1U-HWnoU8F_u9wp_YLOCFkD4QEsww=w408-h544-k-no",
+  "maps_title": "Fun Studio 482 Điện Biên Phủ (ngay ngã tư Cao Thắng)",
+  "maps_address": "Điện Biên Phủ/482 Cao Thắng, ngay ngã tư, Vườn Lài, Hồ Chí Minh, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Fun%20Studio%20%C4%90i%E1%BB%87n%20Bi%C3%AAn%20Ph%E1%BB%A7%20482%20%C4%90i%E1%BB%87n%20Bi%C3%AAn%20Ph%E1%BB%A7%20%28ng%C3%A3%20t%C6%B0%20Cao%20Th%E1%BA%AFng%29%2C%20Qu%E1%BA%ADn%2010%20TP.HCM",
+  "note": ""
+ },
+ {
+  "idx": 69,
+  "name": "Photo Story Cửu Long",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdTBrVestEAheIh7vEvXM0v4kDakNu9PaiQGV9Jyz8VyQ3YOCWrvDM3ZkcWV0vso6ut-ErGWC451DvAZvXxqZ5MrXKGy4lj1kLRVVBmqDK4EsfjsOuR1o0vfeZrKCz-YZMpnomr=w408-h306-k-no",
+  "maps_title": "Photostory quận 10",
+  "maps_address": "57 Cửu Long, Cư xá Bắc Hải, Hòa Hưng, Hồ Chí Minh, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Photo%20Story%20C%E1%BB%ADu%20Long%2057%20C%E1%BB%ADu%20Long%2C%20P.15%2C%20Qu%E1%BA%ADn%2010%20TP.HCM",
+  "note": "Maps name \"Photostory quận 10\""
+ },
+ {
+  "idx": 70,
+  "name": "Flash Box Photobooth",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcup05ITQ9xj4CADQsdSx91oTUTptONqdSViTMEQILyWsBHE45CyURwHoGQBywLo8fTVWzUBpNwfZxLDwGaYAVpNWKxcPJK88Wo4ue60cUpzaI3sOQEBErc6uualX6Yr9Rpe7RKSCERdRA8=w408-h262-k-no",
+  "maps_title": "FLASH BOX Photobooth Bình Thạnh",
+  "maps_address": "90 Lê Văn Duyệt, Gia Định, Hồ Chí Minh 700000, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Flash%20Box%20Photobooth%2090%20L%C3%AA%20V%C4%83n%20Duy%E1%BB%87t%2C%20P.1%2C%20B%C3%ACnh%20Th%E1%BA%A1nh%20TP.HCM",
+  "note": ""
+ },
+ {
+  "idx": 71,
+  "name": "Printaphy Photobooth",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfMcbuidLgXbi1CcJ9HEpR8cZYK_3e6yWJm76q3D6mfMEDs1qgIYjYsmmN_9K2L7eW1NCyRoXxb_w5HChOZbslKzW6tx3Pk707mP64B1IktrZZqIjWxRWHrWVCPAh7tRj1U_esxqFakUN0=w408-h544-k-no",
+  "maps_title": "Printaphy Photobooth Vietnam - In ảnh lấy liền",
+  "maps_address": "9/1 Nguyễn Thị Huỳnh, Phú Nhuận, Hồ Chí Minh 700000, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Printaphy%20Photobooth%201%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20Hu%E1%BB%B3nh%2C%20P.8%2C%20Ph%C3%BA%20Nhu%E1%BA%ADn%20TP.HCM",
+  "note": ""
+ },
+ {
+  "idx": 72,
+  "name": "Hachi Saigon – ảnh thẻ lấy liền",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLchwCCunng261n-oo74gVdu4Yf04nEZD5N1nqC7kMYafMyYY-EZZh98F1JIiCgZrEHxm0knOXhVfP-cDJf1TFK7xgWB_5_79y6Xm_cpQlbEIZDcA8UAH5yXr_NHcdLjrZFcymrvHNwLv82b=w408-h306-k-no",
+  "maps_title": "Chụp hình thẻ in lấy liền- Hachi Saigon",
+  "maps_address": "chung cư 88, Lê Lợi, Bến Thành, Hồ Chí Minh 71009, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Hachi%20Saigon%20%E2%80%93%20%E1%BA%A3nh%20th%E1%BA%BB%20l%E1%BA%A5y%20li%E1%BB%81n%20L%E1%BA%A7u%201%2C%20chung%20c%C6%B0%2088%20L%C3%AA%20L%E1%BB%A3i%2C%20Qu%E1%BA%ADn%201%20TP.HCM",
+  "note": ""
+ },
+ {
+  "idx": 73,
+  "name": "Gạo Nâu Profile – ảnh thẻ/profile Hàn",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcXSIKuAuYP2z49PsDHIa8UTfg7ggjsuE4AFUyendWs07G5UFpwj2STApEnCH0OAaMWzcTZh3vHHUXID_G5MGJ4TqUYVBbcsmu2jOAJICrtMjbWQmT82s4tzCmarbqGv1vG6_RFP5rLsqpR=w408-h544-k-no",
+  "maps_title": "Gạo Nâu Chụp Ảnh - Sài Gòn",
+  "maps_address": "351/45 Đ. Lê Văn Sỹ, Nhiêu Lộc, Hồ Chí Minh 700000, Việt Nam",
+  "place_url": "https://www.google.com/maps/place/G%E1%BA%A1o+N%C3%A2u+Ch%E1%BB%A5p+%E1%BA%A2nh+-+S%C3%A0i+G%C3%B2n/data=!4m7!3m6!1s0x31752f0337315895:0xd5961e663d379cca!8m2!3d10.7864268!4d106.6767379!16s%2Fg%2F11sjhj70p0!19sChIJlVgxNwMvdTERypw3PWYeltU?authuser=0&hl=vi&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+  "note": ""
+ },
+ {
+  "idx": 74,
+  "name": "Fotopop Selfie Studio",
+  "status": "not_found",
+  "image_url": null,
+  "maps_title": null,
+  "maps_address": null,
+  "place_url": null,
+  "note": "Fotopop only found at 77 Đoàn Như Hài Q4, not Panorama Q7 (nearest non-matching place: Fotopop Photo Booth & Selfie Studio)"
+ },
+ {
+  "idx": 75,
+  "name": "PHOTO TIME Crescent Mall",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3AvRCwjWVt4avY6f5p6o40oJCA2-IZZT6IesKd1jX0G8UTx5t7aYrNsNslGcsZyO_ggp3xQRkkLJI1LM1GbvLhOHHQZh10WBQTk9YC_xps3GGn4OUcYYMelUibhe-vanKbzDEGQ=w408-h306-k-no",
+  "maps_title": "PHOTO TIME CRESCENT MALL",
+  "maps_address": "101 Đ. Tôn Dật Tiên, Khu đô thị Phú Mỹ Hưng, Tân Mỹ, Hồ Chí Minh, Việt Nam",
+  "place_url": "https://www.google.com/maps/place/PHOTO+TIME+CRESCENT+MALL/data=!4m7!3m6!1s0x31752fb52ae587cb:0x8c803c0fe9d1ebb7!8m2!3d10.7290836!4d106.7188731!16s%2Fg%2F11tnj302c4!19sChIJy4flKrUvdTERt-vR6Q88gIw?authuser=0&hl=vi&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+  "note": "Matched PHOTO TIME CRESCENT MALL (mall address)"
+ },
+ {
+  "idx": 76,
+  "name": "Thương Xanh Film Store – chụp/tráng film",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sz8L0N9JseSDXYBL4M5TvekpAdVkYAJnHo9D5qe5cr2y4aOWzPYZZ8uJFmZG7U_RN2oZZNfMXoZsG2sh-RpZcZaQp2D8JqiQAcABtHN4xhHb7gE30YgGzGsAuiIGl7FvlF7Z3XCw=w447-h298-k-no",
+  "maps_title": "Thuong Xanh Film&Camera Store",
+  "maps_address": "193/8 Nam Kỳ Khởi Nghĩa, Xuân Hòa, Hồ Chí Minh 700000, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Th%C6%B0%C6%A1ng%20Xanh%20Film%20Store%20%E2%80%93%20ch%E1%BB%A5p/tr%C3%A1ng%20film%20193/8%20Nam%20K%E1%BB%B3%20Kh%E1%BB%9Fi%20Ngh%C4%A9a%20%28theo%20ngu%E1%BB%93n%20t%E1%BB%95ng%20h%E1%BB%A3p%29%20TP.HCM",
+  "note": ""
+ },
+ {
+  "idx": 78,
+  "name": "Terrarium Le Jardin",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1cS_BRc2tHnvHBk08qoQ-A0p1gMVhYeo57-8BTHe9D1-dhSYpzS_v3BB7oBuaeOZTK-RuCDVp0q6h4k3DdChE1sIpuCgKjNu9p4v9ghRGpBkrM77llVcrOpUWGJzMOdQDb79fzOLu3i0=w408-h305-k-no",
+  "maps_title": "TIỂU CẢNH LE JARDIN",
+  "maps_address": "37 Hoa Mai, Cầu Kiệu, Hồ Chí Minh 700000, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Terrarium%20Le%20Jardin%2037%20Hoa%20Mai%2C%20Ph%C3%BA%20Nhu%E1%BA%ADn%20TP.HCM",
+  "note": ""
+ },
+ {
+  "idx": 79,
+  "name": "Timeo Tuft Club (tufting len)",
+  "status": "not_found",
+  "image_url": null,
+  "maps_title": null,
+  "maps_address": null,
+  "place_url": null,
+  "note": "Timeo Tufting Studio is at 29/23 Đoàn Thị Điểm, not 10F Nguyễn Thị Minh Khai - different address"
+ },
+ {
+  "idx": 81,
+  "name": "Yoko Cafe (nhạc sống)",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QcP2p6T2ix1RB-8HnM4T4ZDUZsHhFV34IoqNp1dOw2U3hEnlJouYuWf51v2bbYgxaSOEYsjp6UVGxVZR3PJggZu6rXP74jS3n1dpxWsWzudtNO4NKJF_5p-cpLYPmX5fwRNqfrZBJFJlBe=w529-h298-k-no",
+  "maps_title": "Yoko Saigon Bar & Cafe",
+  "maps_address": "22A Nguyễn Thị Diệu, Xuân Hòa, Hồ Chí Minh, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Yoko%20Cafe%2022A%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20Di%E1%BB%87u%2C%20Qu%E1%BA%ADn%203%20TP.HCM",
+  "note": "Maps name \"Yoko Saigon Bar & Cafe\", same address"
+ },
+ {
+  "idx": 82,
+  "name": "Sax n' Art Jazz Club",
+  "status": "not_found",
+  "image_url": null,
+  "maps_title": null,
+  "maps_address": null,
+  "place_url": null,
+  "note": "Saxn'Art Club found at BB4, 188 Nguyễn Văn Hưởng (Thảo Điền), not 28 Lê Lợi Q1 (nearest non-matching place: Saxn'Art Club)"
+ },
+ {
+  "idx": 83,
+  "name": "Acoustic Bar Ngô Thời Nhiệm",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T4Fep1W3zTerpGlhD4DVtR888-dbc-O2u4Nheo5LaLWw3XLv213z1zkTzyz8wkjZhYJ_EuGnmes6muOjUncgLEpBwFZ4MjJF38SrqCjqkKV4CXFUXP1xTgGztHVBtYFbWTHNOY03UkWv4=w529-h298-k-no",
+  "maps_title": "Acoustic Bar",
+  "maps_address": "Ngô Thời Nhiệm/6E Võ Thị Sáu, Xuân Hòa, Hồ Chí Minh 72407, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Acoustic%20Bar%20Ng%C3%B4%20Th%E1%BB%9Di%20Nhi%E1%BB%87m%206E1%20Ng%C3%B4%20Th%E1%BB%9Di%20Nhi%E1%BB%87m%2C%20Qu%E1%BA%ADn%203%20TP.HCM",
+  "note": "Maps address Ngô Thời Nhiệm/6E Võ Thị Sáu (same corner)"
+ },
+ {
+  "idx": 84,
+  "name": "Sân khấu kịch IDECAF",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcDjOfOlmzzEdhMRaXFKphAMjoUB-4ATRoxNwO7YmBqwC6O_uunowmOTJiV_KQssNGqg8KoCWR5nsFYfGXpqAhI_LnRYnj_yCgLYAK7aNHEPdG7ibZNlFHhkNYZWhIpgDsSQkU=w408-h306-k-no",
+  "maps_title": "Nhà hát Kịch IDECAF",
+  "maps_address": "28 Lê Thánh Tôn, Sài Gòn, Hồ Chí Minh, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=S%C3%A2n%20kh%E1%BA%A5u%20k%E1%BB%8Bch%20IDECAF%2028%20L%C3%AA%20Th%C3%A1nh%20T%C3%B4n%2C%20Qu%E1%BA%ADn%201%20TP.HCM",
+  "note": ""
+ },
+ {
+  "idx": 85,
+  "name": "Sân khấu kịch Thiên Đăng",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Quz5G0eqmyrE0Y7JZtENoBmBm_s4gl_y2W9d1TkAaR4cy1SzMSUD5HRyxg0oxL4c5RTCdNW74BgCQFMCDg9f6PNsNvnEYTG5gov4cA8HDtUFIjBWVutC2cCZYUPl09wYSjS3JD=w537-h298-k-no",
+  "maps_title": "Sân khấu Kịch Thiên Đăng",
+  "maps_address": "Sân Khấu Thiên Đăng Toà nhà IMC, 62 Trần Quang Khải, Tân Định, Hồ Chí Minh 70000, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=S%C3%A2n%20kh%E1%BA%A5u%20k%E1%BB%8Bch%20Thi%C3%AAn%20%C4%90%C4%83ng%20T%E1%BA%A7ng%203%20t%C3%B2a%20IMC%2C%2062%20Tr%E1%BA%A7n%20Quang%20Kh%E1%BA%A3i%2C%20Qu%E1%BA%ADn%201%20TP.HCM",
+  "note": ""
+ },
+ {
+  "idx": 86,
+  "name": "Sân khấu kịch Hồng Vân",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdxVvuI3hNdiVTXDNF1_NhxGhynE72f_BzI2PoOMY4GBw-vUf6xTQv2LenxU3XApflyTxexKPLqw1pPy9D20bPIdrfBb2WnO6ffiVf7aiJVS_4u_nUwtg5Dq4eMhI3CKv4YLLeHwL47k0Df=w408-h306-k-no",
+  "maps_title": "Sân khấu kịch Hồng Vân",
+  "maps_address": "643 Điện Biên Phủ, Bàn Cờ, Hồ Chí Minh, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=S%C3%A2n%20kh%E1%BA%A5u%20k%E1%BB%8Bch%20H%E1%BB%93ng%20V%C3%A2n%20643%20%C4%90i%E1%BB%87n%20Bi%C3%AAn%20Ph%E1%BB%A7%2C%20P.1%2C%20Qu%E1%BA%ADn%203%20TP.HCM",
+  "note": ""
+ },
+ {
+  "idx": 87,
+  "name": "CGV L'amour (rạp giường nằm) Hoàng Văn Thụ",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SvyiLxU-FMpXefyzpG7sCcnOwZuP95Ie_ajkHQ_k0MHE3XbElkirJzOrThSB-APMlr7nX3O67r9a2uKRSAikXykrisd9eC4GjfZK0nSjhJlrWCvPDKfhQhfQjbEHjcxA-wC358ew=w529-h298-k-no",
+  "maps_title": "CGV Hoàng Văn Thụ",
+  "maps_address": "415 Đ. Hoàng Văn Thụ, Tân Sơn Hòa, Hồ Chí Minh, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=CGV%20L%27amour%20202%20Ho%C3%A0ng%20V%C4%83n%20Th%E1%BB%A5%20%28CGV%20Ho%C3%A0ng%20V%C4%83n%20Th%E1%BB%A5%29%20TP.HCM",
+  "note": "Source says 202 Hoàng Văn Thụ; Maps CGV Hoàng Văn Thụ is at 415 Hoàng Văn Thụ - doubtful"
+ },
+ {
+  "idx": 88,
+  "name": "CineB Saigon (chiếu phim ngoài trời)",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd5478GAVQR4dU0nQSZv3Ec_Sz59UEVButP8L2uIQMEdhDoB9F-N-E34jGG2qgzBdUMP--wzrqSd9GlaxKbxhV7I3taninPMLN-qlsuFTrEFPZVZMt4bBjWQYAh0dzoTVZxbNKtHvHf_yQ=w426-h240-k-no",
+  "maps_title": "CineB",
+  "maps_address": "3 Lê Công Kiều, Bến Thành, Hồ Chí Minh, Việt Nam",
+  "place_url": "https://www.google.com/maps/place/CineB/data=!4m7!3m6!1s0x31752f40893bf973:0xf5ca23fa9991e9c6!8m2!3d10.7703289!4d106.7008651!16s%2Fg%2F11clwk9kty!19sChIJc_k7iUAvdTERxumRmfojyvU?authuser=0&hl=vi&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+  "note": "Maps place \"CineB\" at 3 Lê Công Kiều (source 01–03); permanently closed per list"
+ },
+ {
+  "idx": 89,
+  "name": "The Factory Contemporary Arts Centre",
+  "status": "not_found",
+  "image_url": null,
+  "maps_title": null,
+  "maps_address": null,
+  "place_url": null,
+  "note": "No results for The Factory at 15 Nguyễn Ư Dĩ"
+ },
+ {
+  "idx": 91,
+  "name": "Sân Pickleball 189/1 Cống Quỳnh",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RamPe9XWS_8X0C9Ku4qDCOwNEwdg_RUH1e0pccZXQQevY-T_wcNb_CuEb_E_Wl6_YIAvqR-MygswYzu-tuk2FkxT7Q0xdhzcDP7lacGIUK314M8ykp-UPvLRKXB6MNG3id6tluYrAZVfg=w529-h298-k-no",
+  "maps_title": "Sân Pickleball Ngọc Lan",
+  "maps_address": "189/1 Đ. Cống Quỳnh, Cầu Ông Lãnh, Hồ Chí Minh 700000, Việt Nam",
+  "place_url": "https://www.google.com/maps/place/S%C3%A2n+Pickleball+Ng%E1%BB%8Dc+Lan/data=!4m7!3m6!1s0x31752f91d1f683a3:0x95f96122aed1ec63!8m2!3d10.7659323!4d106.6866042!16s%2Fg%2F11vwf1s2l5!19sChIJo4P20ZEvdTERY-zRriJh-ZU?authuser=0&hl=vi&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+  "note": "Matched \"Sân Pickleball Ngọc Lan\" 189/1 Cống Quỳnh"
+ },
+ {
+  "idx": 92,
+  "name": "M.O.M Cooking Class",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeRNqs-unO31CpjL9ZA0niBJTSEML-fBvXg47DcopC_uLNjTmxjZSVfcJYOhXYxHWlgTJauscAS6rI9r7Y63nECS0SZQjSy_JSQMQC9pX1WoykYJWQ2k590j7RTEtxZbX9x_dIg=w408-h240-k-no",
+  "maps_title": "M.O.M Cooking Class in Saigon",
+  "maps_address": "119/2 Yersin, Bến Thành, Hồ Chí Minh 700000, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=M.O.M%20Cooking%20Class%20119/2%20Yersin%2C%20Qu%E1%BA%ADn%201%20TP.HCM",
+  "note": ""
+ },
+ {
+  "idx": 94,
+  "name": "Board Game Station",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SybezjxdGGc4RMGx9JGGZnzzw4JuhTRANAFoJ4SCornlgK8mWKWwTFoOoGyPOsoW71HFHgl5uMsg67tUuu6pEMg-KNCQuqa2wohQH_5ZVDgN6_JDI--st9WYXikUIi80ryR06C=w529-h298-k-no",
+  "maps_title": "Board Game Station",
+  "maps_address": "30 Cô Bắc, Cầu Ông Lãnh, Hồ Chí Minh 70000, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Board%20Game%20Station%2030%20C%C3%B4%20B%E1%BA%AFc%2C%20Qu%E1%BA%ADn%201%20TP.HCM",
+  "note": ""
+ },
+ {
+  "idx": 95,
+  "name": "Button Boardgames",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RzG6Rx5K8wS4CnlbkJuJogUpzChezr1Mi8lOXg91L_InyryWFHIZ1A2rxADI7iJUTx9_7Jjv8w7bM-R28TCLRm-XaSX7tpTJHY2uz-Bu6wlO6XSoNY5IVHuC5ZRLEkvu09LTIe=w529-h298-k-no",
+  "maps_title": "Button Boardgames Coffee",
+  "maps_address": "48/60 Đ. Hồ Biểu Chánh, Phường 11, Phú Nhuận, Hồ Chí Minh 700000, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Button%20Boardgames%2048/60%20H%E1%BB%93%20Bi%E1%BB%83u%20Ch%C3%A1nh%2C%20Ph%C3%BA%20Nhu%E1%BA%ADn%20TP.HCM",
+  "note": ""
+ },
+ {
+  "idx": 96,
+  "name": "Méo Meo Cat Cafe",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcMGS7tg4d_wKNEy8BPsvZbnl3AMKF-Y5OF8L90YU4WUUAmpi2P7Pf36QdEP117uzoNWZcYEH-LPqo2W-jSoqeVNFqu727-Dms41kVXuirDysn6PH26K99VvS6OZDqMm721vzP1Gboyz5MM=w408-h272-k-no",
+  "maps_title": "Méo Meo Cat Cafe - Cafe thú cưng Quận 1",
+  "maps_address": "Phan Bội Châu/30 Q1, P, Bến Thành, Hồ Chí Minh 70001, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=M%C3%A9o%20Meo%20Cat%20Cafe%2030%20Phan%20B%E1%BB%99i%20Ch%C3%A2u%2C%20Qu%E1%BA%ADn%201%20TP.HCM",
+  "note": ""
+ },
+ {
+  "idx": 97,
+  "name": "Bibli Library Café",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RCIDFYyVrYCJUWT9KydXHzz2F7Bd8WrNZPcGLnIe0WVxqErkJJSbRmb4SCxsdDj-UHGWZiSsZu7T9uVlaoP9vwY-YejowXzMBKusApHqRopDuM5SQPJs3jtgP6b17GRTM7h25I5t0z2Z7V=w447-h298-k-no",
+  "maps_title": "Bibli Library Café",
+  "maps_address": "42/5 Hồ Hảo Hớn, Cầu Ông Lãnh, Hồ Chí Minh 700000, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Bibli%20Library%20Caf%C3%A9%2042/5%20H%E1%BB%93%20H%E1%BA%A3o%20H%E1%BB%9Bn%2C%20Qu%E1%BA%ADn%201%20TP.HCM",
+  "note": ""
+ },
+ {
+  "idx": 98,
+  "name": "Tiệm Tarot Lý Chính Thắng",
+  "status": "no_photo",
+  "image_url": null,
+  "maps_title": "Tiệm Tarot",
+  "maps_address": "148/9 Lý Chính Thắng, Xuân Hòa, Hồ Chí Minh, Việt Nam",
+  "place_url": "https://www.google.com/maps/place/Ti%E1%BB%87m+Tarot/@10.7864078,106.6842334,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f48a844c15f:0xb941221484845c5e!8m2!3d10.7864078!4d106.6842334!16s%2Fg%2F11yn50wz36?hl=vi&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+  "note": "Maps name \"Tiệm Tarot\""
+ },
+ {
+  "idx": 99,
+  "name": "Wichita Tarot Cafe",
+  "status": "not_found",
+  "image_url": null,
+  "maps_title": null,
+  "maps_address": null,
+  "place_url": null,
+  "note": "Wichita Tarot found at 783 Trần Xuân Soạn Q7, not 41 Hoa Hồng Phú Nhuận"
+ },
+ {
+  "idx": 100,
+  "name": "Tour ẩm thực đêm bằng xe máy",
+  "status": "not_found",
+  "image_url": null,
+  "maps_title": null,
+  "maps_address": null,
+  "place_url": null,
+  "note": "Tour (no fixed venue), no place on Maps"
+ },
+ {
+  "idx": 101,
+  "name": "Tour xe đạp đêm Sài Gòn",
+  "status": "not_found",
+  "image_url": null,
+  "maps_title": null,
+  "maps_address": null,
+  "place_url": null,
+  "note": "Tour (no fixed venue), no matching place"
+ },
+ {
+  "idx": 115,
+  "name": "À Ố Show (xiếc tre – Lune Production)",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R5JyYtp6PDAXjqixv8S-D2iOZ0-XKg2Dj2S3xiNNxOUx7OcaRXZGlvWZlF8EvOiILNfC5miQ0AvGINZzl6Q9ietIpIgv244Usy5GbZrhBTtSl_GczcehZJWuRRV8SIz30-8Zs=w433-h298-k-no",
+  "maps_title": "A O Show - Lune Production",
+  "maps_address": "07 Công trường Lam Sơn, Sài Gòn, Hồ Chí Minh 700000, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=%C3%80%20%E1%BB%90%20Show%20Nh%C3%A0%20h%C3%A1t%20Th%C3%A0nh%20ph%E1%BB%91%2C%2007%20C%C3%B4ng%20Tr%C6%B0%E1%BB%9Dng%20Lam%20S%C6%A1n%2C%20Qu%E1%BA%ADn%201%20TP.HCM",
+  "note": ""
+ },
+ {
+  "idx": 116,
+  "name": "Phố ẩm thực Vĩnh Khánh (phố ốc)",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdfcMx1Y5vNt_4SCH_SuSSeuUrnij2xL21A9qY-QovY3IvZE3BefBR_BjqBmO-MOtKnTWr_2Bcr-dQlsIq97sndLyjW9v6XQhkjguPXxHdZEWjYyH9XWAufmJ4RXIxh14_zBOjU=w408-h306-k-no",
+  "maps_title": "Cổng chính Phố ẩm thực Vĩnh Khánh",
+  "maps_address": "11 Đ. Vĩnh Khánh, Khánh Hội, Hồ Chí Minh, Việt Nam",
+  "place_url": "https://www.google.com/maps/place/C%E1%BB%95ng+ch%C3%ADnh+Ph%E1%BB%91+%E1%BA%A9m+th%E1%BB%B1c+V%C4%A9nh+Kh%C3%A1nh/data=!4m7!3m6!1s0x31752fe559abb3a5:0x1dd8434b1aea7214!8m2!3d10.7615716!4d106.702196!16s%2Fg%2F11stp3rts9!19sChIJpbOrWeUvdTERFHLqGktD2B0?authuser=0&hl=vi&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+  "note": "Matched \"Cổng chính Phố ẩm thực Vĩnh Khánh\" - doubtful (street)"
+ },
+ {
+  "idx": 117,
+  "name": "Phòng trà Không Tên",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QyM-9AfkhbQzWaDRCggq6GN2ra2p14gpi7C_7RF7m_IGkm5WvwC3iUl6A8XzHPdN998ypvbIOmFFAfz_y8kFS-lb_IxQ5oxa3lDfm0DxYtzZBV30Gfk4YnAOqN14kalfkTbaHT=w529-h298-k-no",
+  "maps_title": "Phòng Trà Không Tên",
+  "maps_address": "112 Lê Thánh Tôn, Bến Thành, Hồ Chí Minh 700000, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Ph%C3%B2ng%20tr%C3%A0%20Kh%C3%B4ng%20T%C3%AAn%20112%20L%C3%AA%20Th%C3%A1nh%20T%C3%B4n%2C%20Qu%E1%BA%ADn%201%20TP.HCM",
+  "note": ""
+ },
+ {
+  "idx": 119,
+  "name": "Bảo tàng Thành phố Hồ Chí Minh (Dinh Gia Long)",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf3tzAqC4qkeeHMOOVH7XDVwkY2k1UCX3wfRlsZh8UyuWpe5C1fVKO70XOkLoJxz12OJRhpteJRY7fc2qOkGTGwtE_q_QSgSjP-YKABubYIXXMf_0vW1sUSyte5vhiau831NqkX=w408-h544-k-no",
+  "maps_title": "Bảo tàng Thành phố Hồ Chí Minh",
+  "maps_address": "65 Lý Tự Trọng, Sài Gòn, Hồ Chí Minh, Việt Nam",
+  "place_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=B%E1%BA%A3o%20t%C3%A0ng%20Th%C3%A0nh%20ph%E1%BB%91%20H%E1%BB%93%20Ch%C3%AD%20Minh%2065%20L%C3%BD%20T%E1%BB%B1%20Tr%E1%BB%8Dng%2C%20Qu%E1%BA%ADn%201%20TP.HCM",
+  "note": ""
+ },
+ {
+  "idx": 120,
+  "name": "Chợ Bến Thành – khu ăn uống buổi tối",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QBYdDkm_n1-7DNzkNw8bsZdYrUhp8-0YEaDEs6SHnF2owHUvxo-uuIveLED_5bM9VQqEEK2pqJt-K0hrMPl5VOngz6zsJZUumIjETY7SKFgSHvwWMR6PyoxvBoCKE8LrawJVlqKQ=w529-h298-k-no",
+  "maps_title": "Chợ Bến Thành",
+  "maps_address": "Bến Thành, Hồ Chí Minh, Việt Nam",
+  "place_url": "https://www.google.com/maps/place/Ch%E1%BB%A3+B%E1%BA%BFn+Th%C3%A0nh/data=!4m7!3m6!1s0x31752f3f3129e64d:0x8d6b2d79522c7f30!8m2!3d10.7725168!4d106.6980208!16s%2Fm%2F02q30t6!19sChIJTeYpMT8vdTERMH8sUnkta40?authuser=0&hl=vi&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+  "note": "Matched Chợ Bến Thành"
+ }
+]

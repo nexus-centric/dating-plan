@@ -1,0 +1,16 @@
+from add import *
+g='https://lh3.googleusercontent.com/grass-cs/'
+add(18,'ok',g+'AABkmLfoujMFlwzsC-4QDGO7sfWeTGyvQhn-gssw_BdHseGDCPobUzml2GCASFlBXzGLyw6NFCqX3mq_Hsb3DU9a-bzO2fDtWbA0XVMB6dXo8qLIHxkRNQQN7KACA9zBNEXkuuSLXVod=w408-h544-k-no')
+add(52,'ok',g+'AABkmLfvUuOPQsSsJy5quqBDCpIo2LHpZ3shEIG43lFKJMICBIdAvMOrp6A3TjhTM80s59GpRq1R6FyEpyBcBLSHKHMcsTdLIIzIjSE3FVa9BCXmNP1v1lW3whXuZlOUyp7y3fAbuL2oW-EWmMM=w408-h544-k-no',note='Maps title is "Landmark 81" (cid resolves to the tower, not an ice-rink-specific listing)')
+add(77,'ok',g+'AABkmLeyoCDRJ582m7QNIHaqYIBuITj-bebydjp72kA3s6TPdH9FLh3yZtrycpX-Kw3ld1xjD95Ggprfn9D05hUtLeoPB49rx5556Y7pVZP_NbPBEqRAKBU4v4U7dCA5_5l6rbtJV6CRA-LvHJfD=w408-h306-k-no')
+add(122,'ok',g+'AABkmLct-Eed8vzpZP7HJt0v34LCH_859M8JmiTpSwKqEIqLxHqFYWXk6pRjB_G8gz8raBi1jzlOHP5pU6kghHj149vstvSsVmzK3n2PEsmSvgmDoy29xGvv5nOepWi_L-z536oj_phPDGMRvAE=w408-h543-k-no')
+add(123,'ok',g+'AABkmLcwX00hTGi1dfQ6XSkTnfSVj5HlljL7a4u9OelErw8LrBGUfehIo5nQrcWwXzSgg4YClSrFpo2CUkSIywZo9zhE2pE5jn8PjK0WquTHqLJIud2KjvGUqzn_DPXHxzyN9rrg8QU3GMTJWayf=w408-h544-k-no')
+add(124,'ok',g+'AABkmLcKtFunY9wDs0jvkQmBC3EFQHPPyyXZL_s5Tb0APyH1tvCOhWjHaGvFLIeP-QSSw76d04DyZIBKsjfYQOTu44VL4DdCVIinZ0YD_s9P4XyPc1HhiJdMNF1SGpX-AhrCZRVdc26uBbiOM8Do=w408-h544-k-no')
+add(125,'ok',g+'AABkmLcIjtHAxX3lxdz5_Mq00PQrbeJ_XIjA0X7piQLWG6G5XqW6HNtA3Tv-OtDW506JqVMglxYwCt7Elk5R9MTbnN0xDJx242Qf6ISg1e0IRCaND1afYd6lH5cjOMRzQKo4JnX311_fe77e_8sr=w408-h544-k-no')
+add(126,'ok',g+'AABkmLehcVWx2-MRFb0aB6AfC6j7OP5Gc1evznDvMAs8dWHo0ViPf3D_fs5iuUkOSpWRty_JmfRiPy577HbPnHTUCmS-X9gToGT2lc7ReX7Olg8L1jB8WtaJts4qlCu_XIBWG61EOr9z=w408-h544-k-no')
+add(127,'ok',g+'AABkmLcMul6l-iAAWv2S3efPo1VyaDtN_Z9pyqxGyJgjHA0LyieDgaDefXzEW0dhGovuLp4CCkHkI94KtN2yYDnpFNBOM1AvRc0CZNbRJuw-QsaXXJ77bTnAn9rqaCHcz3uqP-EXn-eB=w408-h306-k-no')
+add(128,'ok',g+'AABkmLfTlGPjRqNp73FXNC2LW_EUIXdDnKM1e_9QOjeNZyF0MGnvmupmg1ukbsxVIOnuKGvvEqWHdJKrjIMoRDzsnVNCQ7X37Lv2S1n2tpHPzS9FthTc6L6Qa5_VSGS-vPPwZxp2d5fJ=w408-h544-k-no')
+add(129,'ok',g+'AABkmLfgE1k3XF3aw3vfwf0rPlMH8TR3nxmO9dk3USMIviH1CFoCNwYqSm2L7S-BQQeJQYRbVvNmeUrM9c_P26NeHzOaK8XNZQXJNxoDi2NvDYo4S1O5kZeia8FOeDH-2wD2GsReEcANLYtTTGGm=w408-h544-k-no')
+add(130,'ok',g+'AABkmLc3oydwPUPZFka-pbVjMzKO-racEhzzNPeybEVqk5aw3jU7xl6q6qnpNPnhdJVOe_Z7jiDYqwWUUoxxxQQyQOdw1bSvfomhTFRhxI2dtgIrlLnuPeeKGe5MP__c0vBQSpx42EbeBA25KaGb=w408-h544-k-no')
+add(131,'ok','https://lh3.googleusercontent.com/grass-proxy/AIM7gW2AuMhZKsb3xahJHwDUcmF8A7moQ_i3_97YQowaIzLGNqWyHQlB2LKWg24Ixlep7PWw-My4aVxqpQBQ5TaiGeCPTQ_MleNM0wRUthHFf1Pg5qcugtHLuSWhotmpANAu9lrz8ZLl2b_IJXAgo1mOyGtuyzXFe5MQlJbI7ynyqfhfloQIGKdE8-3j=w408-h269-k-no')
+save()

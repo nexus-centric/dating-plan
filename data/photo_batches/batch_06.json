@@ -1,0 +1,242 @@
+[
+ {
+  "idx": 13,
+  "name": "Oromia Coffee & Lounge",
+  "address": "193A/D3 Nam Kỳ Khởi Nghĩa, Q.3 (nguồn khác ghi 93A/D3)",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Oromia%20Coffee%20%26%20Lounge%20193A/D3%20Nam%20K%E1%BB%B3%20Kh%E1%BB%9Fi%20Ngh%C4%A9a%2C%20Q.3%20%28ngu%E1%BB%93n%20kh%C3%A1c%20ghi%2093A/D3%29%20TP.HCM"
+ },
+ {
+  "idx": 14,
+  "name": "Lavender",
+  "address": "384/40 Nam Kỳ Khởi Nghĩa, P.8, Q.3",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Lavender%20384/40%20Nam%20K%E1%BB%B3%20Kh%E1%BB%9Fi%20Ngh%C4%A9a%2C%20P.8%2C%20Q.3%20TP.HCM"
+ },
+ {
+  "idx": 15,
+  "name": "Pergola Cafe",
+  "address": "28A Trần Cao Vân, P.12, Phú Nhuận",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Pergola%20Cafe%2028A%20Tr%E1%BA%A7n%20Cao%20V%C3%A2n%2C%20P.12%2C%20Ph%C3%BA%20Nhu%E1%BA%ADn%20TP.HCM"
+ },
+ {
+  "idx": 16,
+  "name": "Nến Cafe",
+  "address": "110A Nguyễn Đình Chính, P.15, Phú Nhuận",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=N%E1%BA%BFn%20Cafe%20110A%20Nguy%E1%BB%85n%20%C4%90%C3%ACnh%20Ch%C3%ADnh%2C%20P.15%2C%20Ph%C3%BA%20Nhu%E1%BA%ADn%20TP.HCM"
+ },
+ {
+  "idx": 17,
+  "name": "The Dome Kaffe",
+  "address": "10/16 Đoàn Thị Điểm, Phú Nhuận",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Dome%20Kaffe%2010/16%20%C4%90o%C3%A0n%20Th%E1%BB%8B%20%C4%90i%E1%BB%83m%2C%20Ph%C3%BA%20Nhu%E1%BA%ADn%20TP.HCM"
+ },
+ {
+  "idx": 19,
+  "name": "Trăng Non Rooftop",
+  "address": "302 Nguyễn Văn Đậu, Bình Thạnh",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Tr%C4%83ng%20Non%20Rooftop%20302%20Nguy%E1%BB%85n%20V%C4%83n%20%C4%90%E1%BA%ADu%2C%20B%C3%ACnh%20Th%E1%BA%A1nh%20TP.HCM"
+ },
+ {
+  "idx": 20,
+  "name": "Chạng Vạng Rooftop Hàng Xanh",
+  "address": "72/6 P.24, Bình Thạnh",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Ch%E1%BA%A1ng%20V%E1%BA%A1ng%20Rooftop%20H%C3%A0ng%20Xanh%2072/6%20P.24%2C%20B%C3%ACnh%20Th%E1%BA%A1nh%20TP.HCM"
+ },
+ {
+  "idx": 21,
+  "name": "Cà phê Thủy Trúc",
+  "address": "197 Đinh Bộ Lĩnh, P.26, Bình Thạnh",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=C%C3%A0%20ph%C3%AA%20Th%E1%BB%A7y%20Tr%C3%BAc%20197%20%C4%90inh%20B%E1%BB%99%20L%C4%A9nh%2C%20P.26%2C%20B%C3%ACnh%20Th%E1%BA%A1nh%20TP.HCM"
+ },
+ {
+  "idx": 22,
+  "name": "The Deck Saigon",
+  "address": "38 Nguyễn Ư Dĩ, Thảo Điền",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Deck%20Saigon%2038%20Nguy%E1%BB%85n%20%C6%AF%20D%C4%A9%2C%20Th%E1%BA%A3o%20%C4%90i%E1%BB%81n%20TP.HCM"
+ },
+ {
+  "idx": 23,
+  "name": "Quán Bụi Garden",
+  "address": "55A Ngô Quang Huy, Thảo Điền",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Qu%C3%A1n%20B%E1%BB%A5i%20Garden%2055A%20Ng%C3%B4%20Quang%20Huy%2C%20Th%E1%BA%A3o%20%C4%90i%E1%BB%81n%20TP.HCM"
+ },
+ {
+  "idx": 24,
+  "name": "The Butcher Shop & Grill",
+  "address": "29 Nguyễn Bá Lân, Thảo Điền",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Butcher%20Shop%20%26%20Grill%2029%20Nguy%E1%BB%85n%20B%C3%A1%20L%C3%A2n%2C%20Th%E1%BA%A3o%20%C4%90i%E1%BB%81n%20TP.HCM"
+ },
+ {
+  "idx": 25,
+  "name": "Vérité Patisserie",
+  "address": "84/1 Trần Đình Xu, Q.1",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=V%C3%A9rit%C3%A9%20Patisserie%2084/1%20Tr%E1%BA%A7n%20%C4%90%C3%ACnh%20Xu%2C%20Q.1%20TP.HCM"
+ },
+ {
+  "idx": 26,
+  "name": "Châteraisé Lê Thánh Tôn",
+  "address": "29A Lê Thánh Tôn, Q.1",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Ch%C3%A2terais%C3%A9%20L%C3%AA%20Th%C3%A1nh%20T%C3%B4n%2029A%20L%C3%AA%20Th%C3%A1nh%20T%C3%B4n%2C%20Q.1%20TP.HCM"
+ },
+ {
+  "idx": 27,
+  "name": "Tarobu Dessert",
+  "address": "204C Điện Biên Phủ, Q.3",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Tarobu%20Dessert%20204C%20%C4%90i%E1%BB%87n%20Bi%C3%AAn%20Ph%E1%BB%A7%2C%20Q.3%20TP.HCM"
+ },
+ {
+  "idx": 28,
+  "name": "Chợ ẩm thực Hồ Thị Kỷ",
+  "address": "Hẻm Hồ Thị Kỷ, Q.10",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Ch%E1%BB%A3%20%E1%BA%A9m%20th%E1%BB%B1c%20H%E1%BB%93%20Th%E1%BB%8B%20K%E1%BB%B7%20H%E1%BA%BBm%20H%E1%BB%93%20Th%E1%BB%8B%20K%E1%BB%B7%2C%20Q.10%20TP.HCM"
+ },
+ {
+  "idx": 29,
+  "name": "Benthanh Princess – du thuyền ăn tối",
+  "address": null,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Benthanh%20Princess%20%E2%80%93%20du%20thuy%E1%BB%81n%20%C4%83n%20t%E1%BB%91i%20Qu%E1%BA%ADn%201%20%28b%E1%BA%BFn%20s%C3%B4ng%20S%C3%A0i%20G%C3%B2n%29%20TP.HCM"
+ },
+ {
+  "idx": 30,
+  "name": "Tròn Kitchen",
+  "address": "262c Đ. Lê Văn Sỹ, Phường 14, Quận 3",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Tr%C3%B2n%20Kitchen%20262c%20%C4%90.%20L%C3%AA%20V%C4%83n%20S%E1%BB%B9%2C%20Ph%C6%B0%E1%BB%9Dng%2014%2C%20Qu%E1%BA%ADn%203%20TP.HCM"
+ },
+ {
+  "idx": 31,
+  "name": "Phố đi bộ Nguyễn Huệ",
+  "address": "Đường Nguyễn Huệ, Q.1",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Ph%E1%BB%91%20%C4%91i%20b%E1%BB%99%20Nguy%E1%BB%85n%20Hu%E1%BB%87%20%C4%90%C6%B0%E1%BB%9Dng%20Nguy%E1%BB%85n%20Hu%E1%BB%87%2C%20Q.1%20TP.HCM"
+ },
+ {
+  "idx": 32,
+  "name": "Đường sách Nguyễn Văn Bình",
+  "address": "Đường Nguyễn Văn Bình, cạnh Nhà thờ Đức Bà, Q.1",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=%C4%90%C6%B0%E1%BB%9Dng%20s%C3%A1ch%20Nguy%E1%BB%85n%20V%C4%83n%20B%C3%ACnh%20%C4%90%C6%B0%E1%BB%9Dng%20Nguy%E1%BB%85n%20V%C4%83n%20B%C3%ACnh%2C%20c%E1%BA%A1nh%20Nh%C3%A0%20th%E1%BB%9D%20%C4%90%E1%BB%A9c%20B%C3%A0%2C%20Q.1%20TP.HCM"
+ },
+ {
+  "idx": 33,
+  "name": "Cà phê bệt Nhà thờ Đức Bà",
+  "address": "Công xã Paris, Q.1",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=C%C3%A0%20ph%C3%AA%20b%E1%BB%87t%20Nh%C3%A0%20th%E1%BB%9D%20%C4%90%E1%BB%A9c%20B%C3%A0%20C%C3%B4ng%20x%C3%A3%20Paris%2C%20Q.1%20TP.HCM"
+ },
+ {
+  "idx": 35,
+  "name": "Nhà hát Thành phố",
+  "address": "7 Công trường Lam Sơn, Q.1",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Nh%C3%A0%20h%C3%A1t%20Th%C3%A0nh%20ph%E1%BB%91%207%20C%C3%B4ng%20tr%C6%B0%E1%BB%9Dng%20Lam%20S%C6%A1n%2C%20Q.1%20TP.HCM"
+ },
+ {
+  "idx": 36,
+  "name": "Phố Tây Bùi Viện",
+  "address": "Phố Bùi Viện, Q.1",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Ph%E1%BB%91%20T%C3%A2y%20B%C3%B9i%20Vi%E1%BB%87n%20Ph%E1%BB%91%20B%C3%B9i%20Vi%E1%BB%87n%2C%20Q.1%20TP.HCM"
+ },
+ {
+  "idx": 37,
+  "name": "Bến Bạch Đằng",
+  "address": "Đường Tôn Đức Thắng, Q.1",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=B%E1%BA%BFn%20B%E1%BA%A1ch%20%C4%90%E1%BA%B1ng%20%C4%90%C6%B0%E1%BB%9Dng%20T%C3%B4n%20%C4%90%E1%BB%A9c%20Th%E1%BA%AFng%2C%20Q.1%20TP.HCM"
+ },
+ {
+  "idx": 38,
+  "name": "Buýt đường sông Sài Gòn (Water Bus)",
+  "address": null,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Bu%C3%BDt%20%C4%91%C6%B0%E1%BB%9Dng%20s%C3%B4ng%20S%C3%A0i%20G%C3%B2n%20Qu%E1%BA%ADn%201%20%28ga%20B%E1%BA%A1ch%20%C4%90%E1%BA%B1ng%29%20TP.HCM"
+ },
+ {
+  "idx": 39,
+  "name": "Saigon Skydeck (Bitexco)",
+  "address": "Bitexco Financial Tower, 2 Hải Triều, Q.1",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Saigon%20Skydeck%20Bitexco%20Financial%20Tower%2C%202%20H%E1%BA%A3i%20Tri%E1%BB%81u%2C%20Q.1%20TP.HCM"
+ },
+ {
+  "idx": 40,
+  "name": "Bảo tàng Mỹ thuật TP.HCM",
+  "address": null,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=B%E1%BA%A3o%20t%C3%A0ng%20M%E1%BB%B9%20thu%E1%BA%ADt%20TP.HCM%20Qu%E1%BA%ADn%201%20TP.HCM"
+ },
+ {
+  "idx": 41,
+  "name": "Bảo tàng Chứng tích Chiến tranh",
+  "address": null,
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=B%E1%BA%A3o%20t%C3%A0ng%20Ch%E1%BB%A9ng%20t%C3%ADch%20Chi%E1%BA%BFn%20tranh%20Qu%E1%BA%ADn%203%20TP.HCM"
+ },
+ {
+  "idx": 42,
+  "name": "CGV Liberty Citypoint – Sweetbox",
+  "address": "59–61 Pasteur, Q.1",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=CGV%20Liberty%20Citypoint%20%E2%80%93%20Sweetbox%2059%E2%80%9361%20Pasteur%2C%20Q.1%20TP.HCM"
+ },
+ {
+  "idx": 43,
+  "name": "Gốm Sài Gòn",
+  "address": "26 Lý Tự Trọng Q.1; 42 Nguyễn Huệ Q.1; 6C Tú Xương Q.3",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=G%E1%BB%91m%20S%C3%A0i%20G%C3%B2n%2026%20L%C3%BD%20T%E1%BB%B1%20Tr%E1%BB%8Dng%20Q.1%3B%2042%20Nguy%E1%BB%85n%20Hu%E1%BB%87%20Q.1%3B%206C%20T%C3%BA%20X%C6%B0%C6%A1ng%20Q.3%20TP.HCM"
+ },
+ {
+  "idx": 44,
+  "name": "Tipsy Art",
+  "address": "6B Nguyễn Cảnh Chân, P. Nguyễn Cư Trinh, Q.1",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Tipsy%20Art%206B%20Nguy%E1%BB%85n%20C%E1%BA%A3nh%20Ch%C3%A2n%2C%20P.%20Nguy%E1%BB%85n%20C%C6%B0%20Trinh%2C%20Q.1%20TP.HCM"
+ },
+ {
+  "idx": 46,
+  "name": "Haru Craft Ceramic Studio",
+  "address": "15/10 Nguyễn Huy Tưởng, Bình Thạnh",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Haru%20Craft%20Ceramic%20Studio%2015/10%20Nguy%E1%BB%85n%20Huy%20T%C6%B0%E1%BB%9Fng%2C%20B%C3%ACnh%20Th%E1%BA%A1nh%20TP.HCM"
+ },
+ {
+  "idx": 47,
+  "name": "Clover Pottery Studio & Cafe",
+  "address": "193 Lê Quang Định, Bình Thạnh",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Clover%20Pottery%20Studio%20%26%20Cafe%20193%20L%C3%AA%20Quang%20%C4%90%E1%BB%8Bnh%2C%20B%C3%ACnh%20Th%E1%BA%A1nh%20TP.HCM"
+ },
+ {
+  "idx": 48,
+  "name": "Bibouyo",
+  "address": "191B Nguyễn Văn Hưởng, Thảo Điền",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Bibouyo%20191B%20Nguy%E1%BB%85n%20V%C4%83n%20H%C6%B0%E1%BB%9Fng%2C%20Th%E1%BA%A3o%20%C4%90i%E1%BB%81n%20TP.HCM"
+ },
+ {
+  "idx": 49,
+  "name": "Master Escape Room",
+  "address": "268 Tô Hiến Thành Q.10; Tầng 4, 240 Nguyễn Đình Chính, Phú Nhuận",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Master%20Escape%20Room%20268%20T%C3%B4%20Hi%E1%BA%BFn%20Th%C3%A0nh%20Q.10%3B%20T%E1%BA%A7ng%204%2C%20240%20Nguy%E1%BB%85n%20%C4%90%C3%ACnh%20Ch%C3%ADnh%2C%20Ph%C3%BA%20Nhu%E1%BA%ADn%20TP.HCM"
+ },
+ {
+  "idx": 50,
+  "name": "Karaoke ICOOL Thành Thái",
+  "address": "120 Thành Thái, Q.10",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Karaoke%20ICOOL%20Th%C3%A0nh%20Th%C3%A1i%20120%20Th%C3%A0nh%20Th%C3%A1i%2C%20Q.10%20TP.HCM"
+ },
+ {
+  "idx": 51,
+  "name": "Bowling Vạn Hạnh Mall",
+  "address": "Tầng 5, 11 Sư Vạn Hạnh, Q.10",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Bowling%20V%E1%BA%A1n%20H%E1%BA%A1nh%20Mall%20T%E1%BA%A7ng%205%2C%2011%20S%C6%B0%20V%E1%BA%A1n%20H%E1%BA%A1nh%2C%20Q.10%20TP.HCM"
+ },
+ {
+  "idx": 53,
+  "name": "Bắn cung ở Cung Văn hóa Lao động",
+  "address": "Cung Văn hóa Lao động, Q.1",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=B%E1%BA%AFn%20cung%20%E1%BB%9F%20Cung%20V%C4%83n%20h%C3%B3a%20Lao%20%C4%91%E1%BB%99ng%20Cung%20V%C4%83n%20h%C3%B3a%20Lao%20%C4%91%E1%BB%99ng%2C%20Q.1%20TP.HCM"
+ },
+ {
+  "idx": 60,
+  "name": "HARUFILM Nguyễn Thái Học",
+  "address": "165 Nguyễn Thái Học, P. Phạm Ngũ Lão, Quận 1",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=HARUFILM%20Nguy%E1%BB%85n%20Th%C3%A1i%20H%E1%BB%8Dc%20165%20Nguy%E1%BB%85n%20Th%C3%A1i%20H%E1%BB%8Dc%2C%20P.%20Ph%E1%BA%A1m%20Ng%C5%A9%20L%C3%A3o%2C%20Qu%E1%BA%ADn%201%20TP.HCM"
+ },
+ {
+  "idx": 61,
+  "name": "PHOTOBY Nguyễn Bỉnh Khiêm",
+  "address": "113 Nguyễn Bỉnh Khiêm, P. Đa Kao, Quận 1",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=PHOTOBY%20Nguy%E1%BB%85n%20B%E1%BB%89nh%20Khi%C3%AAm%20113%20Nguy%E1%BB%85n%20B%E1%BB%89nh%20Khi%C3%AAm%2C%20P.%20%C4%90a%20Kao%2C%20Qu%E1%BA%ADn%201%20TP.HCM"
+ },
+ {
+  "idx": 62,
+  "name": "PHOTOBY Nguyễn Khắc Nhu",
+  "address": "210 Nguyễn Khắc Nhu, P. Cô Giang, Quận 1",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=PHOTOBY%20Nguy%E1%BB%85n%20Kh%E1%BA%AFc%20Nhu%20210%20Nguy%E1%BB%85n%20Kh%E1%BA%AFc%20Nhu%2C%20P.%20C%C3%B4%20Giang%2C%20Qu%E1%BA%ADn%201%20TP.HCM"
+ }
+]

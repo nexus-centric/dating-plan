@@ -1,0 +1,2384 @@
+{
+ "0": {
+  "image": "/images/the-park-rooftop-bar-lounge.webp",
+  "image_kind": "photo",
+  "image_credit": "Ảnh: theparksaigon.com",
+  "image_source_url": "https://theparksaigon.com/"
+ },
+ "1": {
+  "image": "/images/propeller-rooftop-bar-bay-hotel.webp",
+  "image_kind": "photo",
+  "image_credit": "Ảnh: bayhotelhcm.com",
+  "image_source_url": "https://www.bayhotelhcm.com/propeller-rooftop-bar-in-district-1/"
+ },
+ "2": {
+  "image": "/images/zion-sky-lounge-dining.webp",
+  "image_kind": "photo",
+  "image_credit": "Ảnh: zionskyloungesaigon.com",
+  "image_source_url": "https://zionskyloungesaigon.com/en/menu"
+ },
+ "3": {
+  "image": "/images/gm-momento-rooftop-tr-c-y-cocoon-rooftop-3.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Momento%20Rooftop%20T%E1%BA%A7ng%208%2C%20105%20C%C3%B4%20Giang%2C%20Q.1%20TP.HCM"
+ },
+ "4": {
+  "image": "/images/gm-chill-skybar-ab-tower-4.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Chill%20Skybar%20T%E1%BA%A7ng%2076%2C%20AB%20Tower%2C%202%20H%E1%BA%A3i%20Tri%E1%BB%81u%2C%20Q.1%20%28theo%20ngu%E1%BB%93n%29%20TP.HCM"
+ },
+ "5": {
+  "image": "/images/gm-rooftop-grand-lounge-hotel-grand-saigon-5.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Rooftop%20Grand%20Lounge%208%20%C4%90%E1%BB%93ng%20Kh%E1%BB%9Fi%2C%20Q.1%20TP.HCM"
+ },
+ "6": {
+  "image": "/images/gm-bar57-6.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Bar57%2057%20Nguy%E1%BB%85n%20Du%2C%20Q.1%20TP.HCM"
+ },
+ "7": {
+  "image": "/images/the-refinery.webp",
+  "image_kind": "photo",
+  "image_credit": "Ảnh: therefinerysaigon.com",
+  "image_source_url": "https://therefinerysaigon.com/"
+ },
+ "8": {
+  "image": "/images/gm-cork-and-bottle-8.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Cork%20and%20Bottle%207%20Th%C3%A1i%20V%C4%83n%20Lung%2C%20Q.1%20TP.HCM"
+ },
+ "9": {
+  "image": "/images/gm-c-i-9.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=C%E1%BB%98I%2077%E2%80%9379%20L%C3%BD%20T%E1%BB%B1%20Tr%E1%BB%8Dng%2C%20Q.1%20TP.HCM"
+ },
+ "10": {
+  "image": "/images/gm-tr-n-t-ng-th-ng-10.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Tr%C3%AAn%20T%E1%BA%A7ng%20Th%C6%B0%E1%BB%A3ng%20540/19%20C%C3%A1ch%20M%E1%BA%A1ng%20Th%C3%A1ng%20T%C3%A1m%2C%20P.11%2C%20Q.3%20TP.HCM"
+ },
+ "11": {
+  "image": "/images/gm-3-chill-cafe-11.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/3%C4%90+Chill+Cafe/@10.785348,106.6838366,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f694bbdf291:0xb41097432ae6b971!8m2!3d10.785348!4d106.6838366!16s%2Fg%2F11v6c2m5w2?hl=vi&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+ },
+ "12": {
+  "image": "/images/gm-oz-coffee-house-12.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=OZ%20Coffee%20House%20CS%3A%20207/31%20L%C3%AA%20V%C4%83n%20S%E1%BB%B9%20Q.3%3B%2030%20Hu%E1%BB%B3nh%20T%E1%BB%8Bnh%20C%E1%BB%A7a%20Q.3%3B%20273/46%20Nguy%E1%BB%85n%20V%C4%83n%20%C4%90%E1%BA%ADu%20B%C3%ACnh%20Th%E1%BA%A1nh%20TP.HCM"
+ },
+ "13": {
+  "image": "/images/gm-oromia-coffee-lounge-13.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/Oromia+Coffee+%26+Lounge/@10.7906677,106.6983617,17z/data=!3m1!4b1!4m6!3m5!1s0x317529d17a01d24f:0xba30a4f3588755bf!8m2!3d10.7906677!4d106.6983617!16s%2Fg%2F11rylp49k3"
+ },
+ "15": {
+  "image": "/images/gm-pergola-cafe-15.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Pergola%20Cafe%2028A%20Tr%E1%BA%A7n%20Cao%20V%C3%A2n%2C%20P.12%2C%20Ph%C3%BA%20Nhu%E1%BA%ADn%20TP.HCM"
+ },
+ "16": {
+  "image": "/images/gm-n-n-cafe-16.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=N%E1%BA%BFn%20Cafe%20110A%20Nguy%E1%BB%85n%20%C4%90%C3%ACnh%20Ch%C3%ADnh%2C%20P.15%2C%20Ph%C3%BA%20Nhu%E1%BA%ADn%20TP.HCM"
+ },
+ "17": {
+  "image": "/images/gm-the-dome-kaffe-17.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=The%20Dome%20Kaffe%2010/16%20%C4%90o%C3%A0n%20Th%E1%BB%8B%20%C4%90i%E1%BB%83m%2C%20Ph%C3%BA%20Nhu%E1%BA%ADn%20TP.HCM"
+ },
+ "18": {
+  "image": "/images/gm-r-ng-chi-u-rooftop.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=1346462130994968363"
+ },
+ "19": {
+  "image": "/images/gm-tr-ng-non-rooftop-19.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Tr%C4%83ng%20Non%20Rooftop%20302%20Nguy%E1%BB%85n%20V%C4%83n%20%C4%90%E1%BA%ADu%2C%20B%C3%ACnh%20Th%E1%BA%A1nh%20TP.HCM"
+ },
+ "20": {
+  "image": "/images/gm-ch-ng-v-ng-rooftop-h-ng-xanh-20.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Ch%E1%BA%A1ng%20V%E1%BA%A1ng%20Rooftop%20H%C3%A0ng%20Xanh%2072/6%20P.24%2C%20B%C3%ACnh%20Th%E1%BA%A1nh%20TP.HCM"
+ },
+ "21": {
+  "image": "/images/gm-c-ph-th-y-tr-c-21.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=C%C3%A0%20ph%C3%AA%20Th%E1%BB%A7y%20Tr%C3%BAc%20197%20%C4%90inh%20B%E1%BB%99%20L%C4%A9nh%2C%20P.26%2C%20B%C3%ACnh%20Th%E1%BA%A1nh%20TP.HCM"
+ },
+ "22": {
+  "image": "/images/gm-the-deck-saigon-22.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=The%20Deck%20Saigon%2038%20Nguy%E1%BB%85n%20%C6%AF%20D%C4%A9%2C%20Th%E1%BA%A3o%20%C4%90i%E1%BB%81n%20TP.HCM"
+ },
+ "23": {
+  "image": "/images/gm-qu-n-b-i-garden-23.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Qu%C3%A1n%20B%E1%BB%A5i%20Garden%2055A%20Ng%C3%B4%20Quang%20Huy%2C%20Th%E1%BA%A3o%20%C4%90i%E1%BB%81n%20TP.HCM"
+ },
+ "24": {
+  "image": "/images/gm-the-butcher-shop-grill-24.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/The+Butcher+Shop+%26+Grill/@10.8038924,106.73606,17z/data=!3m1!4b1!4m6!3m5!1s0x317526174e148e79:0x5d4bcb45252e1d84!8m2!3d10.8038924!4d106.73606!16s%2Fg%2F11h414hqzw"
+ },
+ "25": {
+  "image": "/images/gm-v-rit-patisserie-25.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=V%C3%A9rit%C3%A9%20Patisserie%2084/1%20Tr%E1%BA%A7n%20%C4%90%C3%ACnh%20Xu%2C%20Q.1%20TP.HCM"
+ },
+ "26": {
+  "image": "/images/gm-ch-terais-l-th-nh-t-n-26.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Ch%C3%A2terais%C3%A9%20L%C3%AA%20Th%C3%A1nh%20T%C3%B4n%2029A%20L%C3%AA%20Th%C3%A1nh%20T%C3%B4n%2C%20Q.1%20TP.HCM"
+ },
+ "27": {
+  "image": "/images/gm-tarobu-dessert-27.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Tarobu%20Dessert%20204C%20%C4%90i%E1%BB%87n%20Bi%C3%AAn%20Ph%E1%BB%A7%2C%20Q.3%20TP.HCM"
+ },
+ "28": {
+  "image": "/images/gm-ch-m-th-c-h-th-k-28.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Ch%E1%BB%A3%20%E1%BA%A9m%20th%E1%BB%B1c%20H%E1%BB%93%20Th%E1%BB%8B%20K%E1%BB%B7%20H%E1%BA%BBm%20H%E1%BB%93%20Th%E1%BB%8B%20K%E1%BB%B7%2C%20Q.10%20TP.HCM"
+ },
+ "29": {
+  "image": "/images/gm-benthanh-princess-du-thuy-n-n-t-i-29.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/Du+thuy%E1%BB%81n+Nh%C3%A0+h%C3%A0ng+Benthanh+Princess/data=!4m7!3m6!1s0x31752f2fa6aadc8b:0x6b2d89160bd65c95!8m2!3d10.7664721!4d106.7084621!16s%2Fg%2F11l6qwsbfm!19sChIJi9yqpi8vdTERlVzWCxaJLWs?authuser=0&hl=vi&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1"
+ },
+ "30": {
+  "image": "/images/gm-tr-n-kitchen-30.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Tr%C3%B2n%20Kitchen%20262c%20%C4%90.%20L%C3%AA%20V%C4%83n%20S%E1%BB%B9%2C%20Ph%C6%B0%E1%BB%9Dng%2014%2C%20Qu%E1%BA%ADn%203%20TP.HCM"
+ },
+ "31": {
+  "image": "/images/gm-ph-i-b-nguy-n-hu-31.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/Ph%E1%BB%91+%C4%90i+B%E1%BB%99+Nguy%E1%BB%85n+Hu%E1%BB%87+-+86Bis+L%C3%AA+Th%C3%A1nh+T%C3%B4n/data=!4m7!3m6!1s0x31752f477f1e3df1:0xde5d3f156a390032!8m2!3d10.775402!4d106.7001084!16s%2Fg%2F11c30zyhby!19sChIJ8T0ef0cvdTERMgA5ahU_Xd4?authuser=0&hl=vi&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1"
+ },
+ "32": {
+  "image": "/images/gm-ng-s-ch-nguy-n-v-n-b-nh-32.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/%C4%90%C6%B0%E1%BB%9Dng+s%C3%A1ch+Nguy%E1%BB%85n+V%C4%83n+B%C3%ACnh/data=!4m7!3m6!1s0x31752f005120feb3:0xc554a352449a2334!8m2!3d10.7805644!4d106.6998246!16s%2Fg%2F11y59yx5kg!19sChIJs_4gUQAvdTERNCOaRFKjVMU?authuser=0&hl=vi&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1"
+ },
+ "33": {
+  "image": "/images/gm-c-ph-b-t-nh-th-c-b-33.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=C%C3%A0%20ph%C3%AA%20b%E1%BB%87t%20Nh%C3%A0%20th%E1%BB%9D%20%C4%90%E1%BB%A9c%20B%C3%A0%20C%C3%B4ng%20x%C3%A3%20Paris%2C%20Q.1%20TP.HCM"
+ },
+ "34": {
+  "image": "/images/thao-cam-vien.webp",
+  "image_kind": "photo",
+  "image_credit": "Ảnh: saigonzoo.net",
+  "image_source_url": "https://saigonzoo.net/"
+ },
+ "35": {
+  "image": "/images/gm-nh-h-t-th-nh-ph-35.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Nh%C3%A0%20h%C3%A1t%20Th%C3%A0nh%20ph%E1%BB%91%207%20C%C3%B4ng%20tr%C6%B0%E1%BB%9Dng%20Lam%20S%C6%A1n%2C%20Q.1%20TP.HCM"
+ },
+ "36": {
+  "image": "/images/gm-ph-t-y-b-i-vi-n-36.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/Ph%E1%BB%91+%C4%91i+b%E1%BB%99+B%C3%B9i+Vi%E1%BB%87n/data=!4m7!3m6!1s0x31752f1605cbdc09:0xf1c00d273532c3a6!8m2!3d10.767351!4d106.6938836!16s%2Fg%2F11fz_hbt2k!19sChIJCdzLBRYvdTERpsMyNScNwPE?authuser=0&hl=vi&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1"
+ },
+ "37": {
+  "image": "/images/gm-b-n-b-ch-ng-37.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/B%E1%BA%BFn+t%C3%A0u+cao+t%E1%BB%91c+B%E1%BA%A1ch+%C4%90%E1%BA%B1ng/data=!4m7!3m6!1s0x31752f443d0ef3d5:0xf523468511ec54f!8m2!3d10.7708643!4d106.7067698!16s%2Fg%2F11gh35k1h8!19sChIJ1fMOPUQvdTERT8UeUWg0Ug8?authuser=0&hl=vi&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1"
+ },
+ "38": {
+  "image": "/images/gm-bu-t-ng-s-ng-s-i-g-n-water-bus-38.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/Saigon+Waterbus+B%E1%BA%A1ch+%C4%90%E1%BA%B1ng/data=!4m7!3m6!1s0x4d9ad0733d560d6d:0x4357fe3160479c5f!8m2!3d10.7752626!4d106.7068754!16s%2Fg%2F11mysc7gfn!19sChIJbQ1WPXPQmk0RX5xHYDH-V0M?authuser=0&hl=vi&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1"
+ },
+ "39": {
+  "image": "/images/gm-saigon-skydeck-bitexco-39.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/Saigon+Skydeck/data=!4m7!3m6!1s0x31752f413f829255:0x898ec607e8ec7b7c!8m2!3d10.7715673!4d106.7042465!16s%2Fg%2F12qh2ltf6!19sChIJVZKCP0EvdTERfHvs6AfGjok?authuser=0&hl=vi&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1"
+ },
+ "40": {
+  "image": "/images/gm-b-o-t-ng-m-thu-t-tp-hcm-40.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=B%E1%BA%A3o%20t%C3%A0ng%20M%E1%BB%B9%20thu%E1%BA%ADt%20TP.HCM%20Qu%E1%BA%ADn%201%20TP.HCM"
+ },
+ "41": {
+  "image": "/images/gm-b-o-t-ng-ch-ng-t-ch-chi-n-tranh-41.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=B%E1%BA%A3o%20t%C3%A0ng%20Ch%E1%BB%A9ng%20t%C3%ADch%20Chi%E1%BA%BFn%20tranh%20Qu%E1%BA%ADn%203%20TP.HCM"
+ },
+ "42": {
+  "image": "/images/gm-cgv-liberty-citypoint-sweetbox-42.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=CGV%20Liberty%20Citypoint%20%E2%80%93%20Sweetbox%2059%E2%80%9361%20Pasteur%2C%20Q.1%20TP.HCM"
+ },
+ "43": {
+  "image": "/images/gm-g-m-s-i-g-n-43.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/G%E1%BB%91m+S%C3%A0i+G%C3%B2n/data=!4m7!3m6!1s0x31752930394c3da5:0x6e56420d91edc20e!8m2!3d10.7782314!4d106.7010998!16s%2Fg%2F11kkl53wfg!19sChIJpT1MOTApdTERDsLtkQ1CVm4?authuser=0&hl=vi&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1"
+ },
+ "44": {
+  "image": "/images/gm-tipsy-art-44.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Tipsy%20Art%206B%20Nguy%E1%BB%85n%20C%E1%BA%A3nh%20Ch%C3%A2n%2C%20P.%20Nguy%E1%BB%85n%20C%C6%B0%20Trinh%2C%20Q.1%20TP.HCM"
+ },
+ "45": {
+  "image": "/images/coming-home-candle.webp",
+  "image_kind": "photo",
+  "image_credit": "Ảnh: cominghomecandle.com",
+  "image_source_url": "https://cominghomecandle.com/"
+ },
+ "46": {
+  "image": "/images/gm-haru-craft-ceramic-studio-46.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Haru%20Craft%20Ceramic%20Studio%2015/10%20Nguy%E1%BB%85n%20Huy%20T%C6%B0%E1%BB%9Fng%2C%20B%C3%ACnh%20Th%E1%BA%A1nh%20TP.HCM"
+ },
+ "47": {
+  "image": "/images/gm-clover-pottery-studio-cafe-47.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Clover%20Pottery%20Studio%20%26%20Cafe%20193%20L%C3%AA%20Quang%20%C4%90%E1%BB%8Bnh%2C%20B%C3%ACnh%20Th%E1%BA%A1nh%20TP.HCM"
+ },
+ "48": {
+  "image": "/images/gm-bibouyo-48.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Bibouyo%20191B%20Nguy%E1%BB%85n%20V%C4%83n%20H%C6%B0%E1%BB%9Fng%2C%20Th%E1%BA%A3o%20%C4%90i%E1%BB%81n%20TP.HCM"
+ },
+ "49": {
+  "image": "/images/gm-master-escape-room-49.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/Master+Escape+Go!+Mi%E1%BB%81n+%C4%90%C3%B4ng/data=!4m7!3m6!1s0x31752f0044b6c465:0x66660e4b2a303457!8m2!3d10.7781608!4d106.6654189!16s%2Fg%2F11ywmt_ft3!19sChIJZcS2RAAvdTERVzQwKksOZmY?authuser=0&hl=vi&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1"
+ },
+ "50": {
+  "image": "/images/gm-karaoke-icool-th-nh-th-i-50.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Karaoke%20ICOOL%20Th%C3%A0nh%20Th%C3%A1i%20120%20Th%C3%A0nh%20Th%C3%A1i%2C%20Q.10%20TP.HCM"
+ },
+ "51": {
+  "image": "/images/gm-bowling-v-n-h-nh-mall-51.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Bowling%20V%E1%BA%A1n%20H%E1%BA%A1nh%20Mall%20T%E1%BA%A7ng%205%2C%2011%20S%C6%B0%20V%E1%BA%A1n%20H%E1%BA%A1nh%2C%20Q.10%20TP.HCM"
+ },
+ "52": {
+  "image": "/images/gm-tr-t-b-ng-vincom-landmark-81.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=3939612233067731661"
+ },
+ "53": {
+  "image": "/images/gm-b-n-cung-cung-v-n-h-a-lao-ng-53.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/Cung+V%C4%83n+h%C3%B3a+Lao+%C4%91%E1%BB%99ng+TP.HCM/data=!4m7!3m6!1s0x31752fbdcdacd7c5:0x107857fd26472fad!8m2!3d10.7763541!4d106.693126!16s%2Fg%2F11rq3vdvmp!19sChIJxdeszb0vdTERrS9HJv1XeBA?authuser=0&hl=vi&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1"
+ },
+ "60": {
+  "image": "/images/gm-harufilm-nguy-n-th-i-h-c-60.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=HARUFILM%20Nguy%E1%BB%85n%20Th%C3%A1i%20H%E1%BB%8Dc%20165%20Nguy%E1%BB%85n%20Th%C3%A1i%20H%E1%BB%8Dc%2C%20P.%20Ph%E1%BA%A1m%20Ng%C5%A9%20L%C3%A3o%2C%20Qu%E1%BA%ADn%201%20TP.HCM"
+ },
+ "61": {
+  "image": "/images/gm-photoby-nguy-n-b-nh-khi-m-61.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=PHOTOBY%20Nguy%E1%BB%85n%20B%E1%BB%89nh%20Khi%C3%AAm%20113%20Nguy%E1%BB%85n%20B%E1%BB%89nh%20Khi%C3%AAm%2C%20P.%20%C4%90a%20Kao%2C%20Qu%E1%BA%ADn%201%20TP.HCM"
+ },
+ "62": {
+  "image": "/images/gm-photoby-nguy-n-kh-c-nhu-62.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/PHOTOBY+VIETNAM/@10.7638063,106.6930541,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f000874d7c7:0xf0a77140b5e520a5!8m2!3d10.7638063!4d106.6930541!16s%2Fg%2F11wnpb0fhq?hl=vi&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+ },
+ "64": {
+  "image": "/images/gm-photo-time-nguy-n-gia-tr-64.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=PHOTO%20TIME%20Nguy%E1%BB%85n%20Gia%20Tr%C3%AD%2039%20Nguy%E1%BB%85n%20Gia%20Tr%C3%AD%20%28D2%20c%C5%A9%29%2C%20P.25%2C%20B%C3%ACnh%20Th%E1%BA%A1nh%20TP.HCM"
+ },
+ "65": {
+  "image": "/images/gm-photo-time-ph-nhu-n-65.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=PHOTO%20TIME%20Ph%C3%BA%20Nhu%E1%BA%ADn%20234%20Phan%20X%C3%ADch%20Long%2C%20Ph%C3%BA%20Nhu%E1%BA%ADn%20TP.HCM"
+ },
+ "66": {
+  "image": "/images/gm-photo-time-s-v-n-h-nh-66.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=PHOTO%20TIME%20S%C6%B0%20V%E1%BA%A1n%20H%E1%BA%A1nh%2011%20S%C6%B0%20V%E1%BA%A1n%20H%E1%BA%A1nh%2C%20P.12%2C%20Qu%E1%BA%ADn%2010%20TP.HCM"
+ },
+ "67": {
+  "image": "/images/gm-photoyoyo-67.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/PhotoYoyo/@10.777666,106.6658674,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f64dff817e3:0xac0a3635f829cb44!8m2!3d10.777666!4d106.6658674!16s%2Fg%2F11x27m_d6m"
+ },
+ "68": {
+  "image": "/images/gm-fun-studio-i-n-bi-n-ph-68.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Fun%20Studio%20%C4%90i%E1%BB%87n%20Bi%C3%AAn%20Ph%E1%BB%A7%20482%20%C4%90i%E1%BB%87n%20Bi%C3%AAn%20Ph%E1%BB%A7%20%28ng%C3%A3%20t%C6%B0%20Cao%20Th%E1%BA%AFng%29%2C%20Qu%E1%BA%ADn%2010%20TP.HCM"
+ },
+ "69": {
+  "image": "/images/gm-photo-story-c-u-long-69.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Photo%20Story%20C%E1%BB%ADu%20Long%2057%20C%E1%BB%ADu%20Long%2C%20P.15%2C%20Qu%E1%BA%ADn%2010%20TP.HCM"
+ },
+ "70": {
+  "image": "/images/gm-flash-box-photobooth-70.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Flash%20Box%20Photobooth%2090%20L%C3%AA%20V%C4%83n%20Duy%E1%BB%87t%2C%20P.1%2C%20B%C3%ACnh%20Th%E1%BA%A1nh%20TP.HCM"
+ },
+ "71": {
+  "image": "/images/gm-printaphy-photobooth-71.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Printaphy%20Photobooth%201%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20Hu%E1%BB%B3nh%2C%20P.8%2C%20Ph%C3%BA%20Nhu%E1%BA%ADn%20TP.HCM"
+ },
+ "72": {
+  "image": "/images/gm-hachi-saigon-nh-th-l-y-li-n-72.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Hachi%20Saigon%20%E2%80%93%20%E1%BA%A3nh%20th%E1%BA%BB%20l%E1%BA%A5y%20li%E1%BB%81n%20L%E1%BA%A7u%201%2C%20chung%20c%C6%B0%2088%20L%C3%AA%20L%E1%BB%A3i%2C%20Qu%E1%BA%ADn%201%20TP.HCM"
+ },
+ "73": {
+  "image": "/images/gm-g-o-n-u-profile-nh-th-profile-h-n-73.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/G%E1%BA%A1o+N%C3%A2u+Ch%E1%BB%A5p+%E1%BA%A2nh+-+S%C3%A0i+G%C3%B2n/data=!4m7!3m6!1s0x31752f0337315895:0xd5961e663d379cca!8m2!3d10.7864268!4d106.6767379!16s%2Fg%2F11sjhj70p0!19sChIJlVgxNwMvdTERypw3PWYeltU?authuser=0&hl=vi&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1"
+ },
+ "74": {
+  "image": "/images/gm-fotopop-selfie-studio-74.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/Fotopop+Photo+Booth+%26+Selfie+Studio/@10.765924,106.7047441,17z/data=!3m1!4b1!4m6!3m5!1s0x31752fa518d3c35d:0x8f800745ec7aa1!8m2!3d10.765924!4d106.7047441!16s%2Fg%2F11qb882fvd"
+ },
+ "75": {
+  "image": "/images/gm-photo-time-crescent-mall-75.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/PHOTO+TIME+CRESCENT+MALL/data=!4m7!3m6!1s0x31752fb52ae587cb:0x8c803c0fe9d1ebb7!8m2!3d10.7290836!4d106.7188731!16s%2Fg%2F11tnj302c4!19sChIJy4flKrUvdTERt-vR6Q88gIw?authuser=0&hl=vi&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1"
+ },
+ "76": {
+  "image": "/images/gm-th-ng-xanh-film-store-ch-p-tr-ng-film-76.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Th%C6%B0%C6%A1ng%20Xanh%20Film%20Store%20%E2%80%93%20ch%E1%BB%A5p/tr%C3%A1ng%20film%20193/8%20Nam%20K%E1%BB%B3%20Kh%E1%BB%9Fi%20Ngh%C4%A9a%20%28theo%20ngu%E1%BB%93n%20t%E1%BB%95ng%20h%E1%BB%A3p%29%20TP.HCM"
+ },
+ "77": {
+  "image": "/images/gm-note-the-scent-lab-workshop-n-c-hoa-c-p-i.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=5730994502623970728"
+ },
+ "78": {
+  "image": "/images/gm-terrarium-le-jardin-78.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Terrarium%20Le%20Jardin%2037%20Hoa%20Mai%2C%20Ph%C3%BA%20Nhu%E1%BA%ADn%20TP.HCM"
+ },
+ "80": {
+  "image": "/images/ddreamer-lam-nhan-bac.webp",
+  "image_kind": "photo",
+  "image_credit": "Ảnh: ddreamerjewelry.com",
+  "image_source_url": "https://ddreamerjewelry.com/"
+ },
+ "81": {
+  "image": "/images/gm-yoko-cafe-nh-c-s-ng-81.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Yoko%20Cafe%2022A%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20Di%E1%BB%87u%2C%20Qu%E1%BA%ADn%203%20TP.HCM"
+ },
+ "82": {
+  "image": "/images/gm-sax-n-art-jazz-club-82.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/Saxn'Art+Club/@10.8163193,106.7297275,17z/data=!3m1!4b1!4m6!3m5!1s0x31752725630b16a3:0x44b57b321c71c31!8m2!3d10.8163193!4d106.7297275!16s%2Fg%2F11y1_2g035"
+ },
+ "83": {
+  "image": "/images/gm-acoustic-bar-ng-th-i-nhi-m-83.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Acoustic%20Bar%20Ng%C3%B4%20Th%E1%BB%9Di%20Nhi%E1%BB%87m%206E1%20Ng%C3%B4%20Th%E1%BB%9Di%20Nhi%E1%BB%87m%2C%20Qu%E1%BA%ADn%203%20TP.HCM"
+ },
+ "84": {
+  "image": "/images/gm-s-n-kh-u-k-ch-idecaf-84.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=S%C3%A2n%20kh%E1%BA%A5u%20k%E1%BB%8Bch%20IDECAF%2028%20L%C3%AA%20Th%C3%A1nh%20T%C3%B4n%2C%20Qu%E1%BA%ADn%201%20TP.HCM"
+ },
+ "85": {
+  "image": "/images/gm-s-n-kh-u-k-ch-thi-n-ng-85.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=S%C3%A2n%20kh%E1%BA%A5u%20k%E1%BB%8Bch%20Thi%C3%AAn%20%C4%90%C4%83ng%20T%E1%BA%A7ng%203%20t%C3%B2a%20IMC%2C%2062%20Tr%E1%BA%A7n%20Quang%20Kh%E1%BA%A3i%2C%20Qu%E1%BA%ADn%201%20TP.HCM"
+ },
+ "86": {
+  "image": "/images/gm-s-n-kh-u-k-ch-h-ng-v-n-86.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=S%C3%A2n%20kh%E1%BA%A5u%20k%E1%BB%8Bch%20H%E1%BB%93ng%20V%C3%A2n%20643%20%C4%90i%E1%BB%87n%20Bi%C3%AAn%20Ph%E1%BB%A7%2C%20P.1%2C%20Qu%E1%BA%ADn%203%20TP.HCM"
+ },
+ "87": {
+  "image": "/images/gm-cgv-l-amour-r-p-gi-ng-n-m-ho-ng-v-n-th-87.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=CGV%20L%27amour%20202%20Ho%C3%A0ng%20V%C4%83n%20Th%E1%BB%A5%20%28CGV%20Ho%C3%A0ng%20V%C4%83n%20Th%E1%BB%A5%29%20TP.HCM"
+ },
+ "88": {
+  "image": "/images/gm-cineb-saigon-chi-u-phim-ngo-i-tr-i-88.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/CineB/data=!4m7!3m6!1s0x31752f40893bf973:0xf5ca23fa9991e9c6!8m2!3d10.7703289!4d106.7008651!16s%2Fg%2F11clwk9kty!19sChIJc_k7iUAvdTERxumRmfojyvU?authuser=0&hl=vi&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1"
+ },
+ "90": {
+  "image": "/images/saigon-outcast-leo-nui-nhan-tao.webp",
+  "image_kind": "photo",
+  "image_credit": "Ảnh: saigonoutcast.com",
+  "image_source_url": "https://saigonoutcast.com/"
+ },
+ "91": {
+  "image": "/images/gm-s-n-pickleball-189-1-c-ng-qu-nh-91.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/S%C3%A2n+Pickleball+Ng%E1%BB%8Dc+Lan/data=!4m7!3m6!1s0x31752f91d1f683a3:0x95f96122aed1ec63!8m2!3d10.7659323!4d106.6866042!16s%2Fg%2F11vwf1s2l5!19sChIJo4P20ZEvdTERY-zRriJh-ZU?authuser=0&hl=vi&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1"
+ },
+ "92": {
+  "image": "/images/gm-m-o-m-cooking-class-92.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=M.O.M%20Cooking%20Class%20119/2%20Yersin%2C%20Qu%E1%BA%ADn%201%20TP.HCM"
+ },
+ "93": {
+  "image": "/images/hoa-tuc-lop-nau-an.webp",
+  "image_kind": "photo",
+  "image_credit": "Ảnh: hoatuc.com",
+  "image_source_url": "https://www.hoatuc.com/"
+ },
+ "94": {
+  "image": "/images/gm-board-game-station-94.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Board%20Game%20Station%2030%20C%C3%B4%20B%E1%BA%AFc%2C%20Qu%E1%BA%ADn%201%20TP.HCM"
+ },
+ "95": {
+  "image": "/images/gm-button-boardgames-95.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Button%20Boardgames%2048/60%20H%E1%BB%93%20Bi%E1%BB%83u%20Ch%C3%A1nh%2C%20Ph%C3%BA%20Nhu%E1%BA%ADn%20TP.HCM"
+ },
+ "96": {
+  "image": "/images/gm-m-o-meo-cat-cafe-96.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=M%C3%A9o%20Meo%20Cat%20Cafe%2030%20Phan%20B%E1%BB%99i%20Ch%C3%A2u%2C%20Qu%E1%BA%ADn%201%20TP.HCM"
+ },
+ "97": {
+  "image": "/images/gm-bibli-library-caf-97.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Bibli%20Library%20Caf%C3%A9%2042/5%20H%E1%BB%93%20H%E1%BA%A3o%20H%E1%BB%9Bn%2C%20Qu%E1%BA%ADn%201%20TP.HCM"
+ },
+ "98": {
+  "image": "/images/gm-ti-m-tarot-l-ch-nh-th-ng-98.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/Ti%E1%BB%87m+Tarot/@10.7864078,106.6842334,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f48a844c15f:0xb941221484845c5e!8m2!3d10.7864078!4d106.6842334!16s%2Fg%2F11yn50wz36"
+ },
+ "99": {
+  "image": "/images/wichita-tarot-cafe.webp",
+  "image_kind": "logo",
+  "image_credit": "Ảnh: wichita-tarot.com",
+  "image_source_url": "https://wichita-tarot.com/bieu-phi/"
+ },
+ "115": {
+  "image": "/images/gm-show-xi-c-tre-lune-production-115.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=%C3%80%20%E1%BB%90%20Show%20Nh%C3%A0%20h%C3%A1t%20Th%C3%A0nh%20ph%E1%BB%91%2C%2007%20C%C3%B4ng%20Tr%C6%B0%E1%BB%9Dng%20Lam%20S%C6%A1n%2C%20Qu%E1%BA%ADn%201%20TP.HCM"
+ },
+ "116": {
+  "image": "/images/gm-ph-m-th-c-v-nh-kh-nh-ph-c-116.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/C%E1%BB%95ng+ch%C3%ADnh+Ph%E1%BB%91+%E1%BA%A9m+th%E1%BB%B1c+V%C4%A9nh+Kh%C3%A1nh/data=!4m7!3m6!1s0x31752fe559abb3a5:0x1dd8434b1aea7214!8m2!3d10.7615716!4d106.702196!16s%2Fg%2F11stp3rts9!19sChIJpbOrWeUvdTERFHLqGktD2B0?authuser=0&hl=vi&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1"
+ },
+ "117": {
+  "image": "/images/gm-ph-ng-tr-kh-ng-t-n-117.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Ph%C3%B2ng%20tr%C3%A0%20Kh%C3%B4ng%20T%C3%AAn%20112%20L%C3%AA%20Th%C3%A1nh%20T%C3%B4n%2C%20Qu%E1%BA%ADn%201%20TP.HCM"
+ },
+ "118": {
+  "image": "/images/dinh-doc-lap.webp",
+  "image_kind": "photo",
+  "image_credit": "Ảnh: dinhdoclap.gov.vn",
+  "image_source_url": "https://dinhdoclap.gov.vn/"
+ },
+ "119": {
+  "image": "/images/gm-b-o-t-ng-th-nh-ph-h-ch-minh-dinh-gia-long-119.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=B%E1%BA%A3o%20t%C3%A0ng%20Th%C3%A0nh%20ph%E1%BB%91%20H%E1%BB%93%20Ch%C3%AD%20Minh%2065%20L%C3%BD%20T%E1%BB%B1%20Tr%E1%BB%8Dng%2C%20Qu%E1%BA%ADn%201%20TP.HCM"
+ },
+ "120": {
+  "image": "/images/gm-ch-b-n-th-nh-khu-n-u-ng-bu-i-t-i-120.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/Ch%E1%BB%A3+B%E1%BA%BFn+Th%C3%A0nh/data=!4m7!3m6!1s0x31752f3f3129e64d:0x8d6b2d79522c7f30!8m2!3d10.7725168!4d106.6980208!16s%2Fm%2F02q30t6!19sChIJTeYpMT8vdTERMH8sUnkta40?authuser=0&hl=vi&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1"
+ },
+ "121": {
+  "image": "/images/gm-du-thuy-n-saigon-princess-n-t-i-tr-n-s-ng-121.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/Du+thuy%E1%BB%81n+Saigon+Princess/data=!4m7!3m6!1s0x31752f427023efbf:0xee16a22d0729fa93!8m2!3d10.7675291!4d106.7080128!16s%2Fg%2F11gd4hcr2q!19sChIJv-8jcEIvdTERk_opBy2iFu4?authuser=0&hl=vi&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1"
+ },
+ "122": {
+  "image": "/images/gm-bliss-homestay-b-nh-th-nh.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=1404526353910630669"
+ },
+ "123": {
+  "image": "/images/gm-bliss-homestay-g-v-p.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=12150920198957095984"
+ },
+ "124": {
+  "image": "/images/gm-bliss-homestay-qu-n-10.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=9218002822789821591"
+ },
+ "125": {
+  "image": "/images/gm-bliss-homestay-qu-n-5.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=17243105484553392369"
+ },
+ "126": {
+  "image": "/images/gm-bliss-homestay-t-n-b-nh.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=16729755792662501900"
+ },
+ "127": {
+  "image": "/images/gm-sense-homestay-qu-n-t-n-b-nh.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=136705494547422614"
+ },
+ "128": {
+  "image": "/images/gm-85b-homestay.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=14352301735233657810"
+ },
+ "129": {
+  "image": "/images/gm-vibrate-stay.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=2141449886411608914"
+ },
+ "130": {
+  "image": "/images/gm-alma-homestay.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=3896149488977254169"
+ },
+ "131": {
+  "image": "/images/gm-space-home-3-hu-nh-kh-ng-ninh.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=5754268891745393595"
+ },
+ "132": {
+  "image": "/images/gm-l-home-stay-cozy-stay-home.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=3763055738025943963"
+ },
+ "133": {
+  "image": "/images/gm-oh-hi-home.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=14062372306760803145"
+ },
+ "134": {
+  "image": "/images/gm-peanut-homestay-homestay-s-i-g-n.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=4945526614432068278"
+ },
+ "135": {
+  "image": "/images/gm-dey-home-hoa-lan.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=8034502397547044348"
+ },
+ "136": {
+  "image": "/images/gm-q-home-th-ch-qu-ng-c.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=9534950571703165232"
+ },
+ "137": {
+  "image": "/images/gm-h-me-n-o-staycation-cn-1.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=4409305750199860324"
+ },
+ "138": {
+  "image": "/images/gm-sense-homes-an-d-ng-v-ng.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=13599282176632793785"
+ },
+ "139": {
+  "image": "/images/gm-bliss-home-signature.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=7189855427630750324"
+ },
+ "140": {
+  "image": "/images/gm-co-bar-cafe.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=6888952389162678302"
+ },
+ "141": {
+  "image": "/images/gm-nyna-coffee-24h-nguy-n-tr-i.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=3508625293187776593"
+ },
+ "142": {
+  "image": "/images/gm-room44-caffe-b-n-th-nh.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=5955672775720780000"
+ },
+ "143": {
+  "image": "/images/gm-cason-coffee.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=8953692919798337428"
+ },
+ "144": {
+  "image": "/images/gm-80plus-coffee-roastery-tr-n-nh-t-du-t.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=13467883168915102200"
+ },
+ "145": {
+  "image": "/images/gm-samm-coffee.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=14595759955575932194"
+ },
+ "146": {
+  "image": "/images/gm-trap-space.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=9310037484767216969"
+ },
+ "147": {
+  "image": "/images/gm-mi-casa-coffee-kitchen.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=15476004909751200536"
+ },
+ "148": {
+  "image": "/images/gm-the-workshop-coffee.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=8864834756804505306"
+ },
+ "149": {
+  "image": "/images/gm-americano-coffee-ph-m-v-n-chi-u.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=4792361536768732892"
+ },
+ "150": {
+  "image": "/images/gm-do-corner-study-working-space.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=2649205844382421212"
+ },
+ "151": {
+  "image": "/images/gm-c-fleur-cafe.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=8908968461101262243"
+ },
+ "152": {
+  "image": "/images/gm-geek-hub-huynh-van-banh.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=17632845677911537994"
+ },
+ "153": {
+  "image": "/images/gm-workflow-th-o-i-n-working-space-cafe.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=7018606771125604301"
+ },
+ "154": {
+  "image": "/images/gm-workflow-g-v-p-working-space-caf.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=13408514662032123432"
+ },
+ "155": {
+  "image": "/images/gm-workflow-qu-n-3-working-space-caf.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=1011267597805569721"
+ },
+ "156": {
+  "image": "/images/gm-ollin-caf.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=4850021757179681708"
+ },
+ "157": {
+  "image": "/images/gm-soo-coffee-bakery-pkb.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=8591587535430742606"
+ },
+ "158": {
+  "image": "/images/gm-sua-coffee-cakes.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=15588559947824135655"
+ },
+ "159": {
+  "image": "/images/gm-m-t-n-i-cafe-159.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=9970348794724847424"
+ },
+ "160": {
+  "image": "/images/gm-ch-n-ri-ng-caf-t-n-b-nh-160.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=17795717067524057695"
+ },
+ "161": {
+  "image": "/images/gm-thiba-space-161.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=15872001628029850134"
+ },
+ "162": {
+  "image": "/images/gm-ch-n-ri-ng-caf-g-v-p-162.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=10780782171492512432"
+ },
+ "163": {
+  "image": "/images/gm-beanie-home-163.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=3419092579805800088"
+ },
+ "164": {
+  "image": "/images/gm-j-welm-jewelry-workshop-164.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=12265031348468278189"
+ },
+ "165": {
+  "image": "/images/gm-lamor-studio-165.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=16774902850924552168"
+ },
+ "166": {
+  "image": "/images/gm-himitsu-no-kichi-166.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=14842897961994117104"
+ },
+ "167": {
+  "image": "/images/gm-viechie-jewelry-accessories-167.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=676589599239748303"
+ },
+ "168": {
+  "image": "/images/gm-the-box-concept-168.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=420780228301293356"
+ },
+ "169": {
+  "image": "/images/gm-wardrobe-arc-169.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=624290264225086239"
+ },
+ "170": {
+  "image": "/images/gm-saigon-eco-craft-170.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=5457231979084855076"
+ },
+ "171": {
+  "image": "/images/gm-konbini-xin-ch-o-171.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=1081040055078307574"
+ },
+ "172": {
+  "image": "/images/gm-vesta-lifestyle-gifts-flagship-store-172.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=428940482737489109"
+ },
+ "173": {
+  "image": "/images/gm-the-new-playground-173.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=14617869431819714735&hl=en"
+ },
+ "174": {
+  "image": "/images/gm-peachiful-vintage-room-174.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=15696233883747337348"
+ },
+ "175": {
+  "image": "/images/gm-whenever-atelier-175.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=16367085753719469"
+ },
+ "176": {
+  "image": "/images/gm-noi-space-176.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=5702974256788396509"
+ },
+ "177": {
+  "image": "/images/gm-miniso-d2-nguy-n-gia-tr-177.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=16011789210216850442"
+ },
+ "178": {
+  "image": "/images/gm-miniso-phan-v-n-tr-178.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=14620873576062821983"
+ },
+ "179": {
+  "image": "/images/gm-miniso-vi-t-nam-179.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=5229691887156099649"
+ },
+ "180": {
+  "image": "/images/gm-c-a-h-ng-miniso-252-l-v-n-s-180.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=7440894462511890376"
+ },
+ "181": {
+  "image": "/images/gm-shimmer-silver-jewelry-181.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=922558702801092192"
+ },
+ "182": {
+  "image": "/images/gm-11-garmentory-182.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=3788899834928155411"
+ },
+ "183": {
+  "image": "/images/gm-daspace-1-183.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=5073149321443279402"
+ },
+ "184": {
+  "image": "/images/gm-l-c-y-n-healing-spa-g-i-u-d-ng-sinh-massage-qu-n-t-n-ph-184.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=13715515683636650885"
+ },
+ "185": {
+  "image": "/images/gm-ti-m-g-i-nh-x-n-185.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=10175697172108494245"
+ },
+ "186": {
+  "image": "/images/tiem-goi-dau-meo-xu-nguyen-gia-tri.webp",
+  "image_kind": "photo",
+  "image_credit": "Ảnh: tiemgoidaumeoxu.vn",
+  "image_source_url": "https://tiemgoidaumeoxu.vn/"
+ },
+ "187": {
+  "image": "/images/tiem-goi-dau-meo-xu-le-van-sy.webp",
+  "image_kind": "photo",
+  "image_credit": "Ảnh: tiemgoidaumeoxu.vn",
+  "image_source_url": "https://tiemgoidaumeoxu.vn/"
+ },
+ "188": {
+  "image": "/images/gm-today-g-i-u-d-ng-sinh-massage-188.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=10409623717973740626"
+ },
+ "189": {
+  "image": "/images/gm-doojin-beauty-center-189.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=13901405000249940668&hl=en"
+ },
+ "190": {
+  "image": "/images/gm-massage-h-spa-t-n-b-nh-190.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=3221533844087150420"
+ },
+ "191": {
+  "image": "/images/golden-lotus.webp",
+  "image_kind": "photo",
+  "image_credit": "Ảnh: saigonwellness.vn",
+  "image_source_url": "https://saigonwellness.vn/"
+ },
+ "192": {
+  "image": "/images/gm-golden-lotus-healing-world-192.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=8252293311421268445"
+ },
+ "193": {
+  "image": "/images/gm-phaya-thai-spa-44-ng-dung-q1-193.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=3822936032156333261"
+ },
+ "194": {
+  "image": "/images/gm-phaya-thai-spa-qu-n-1-194.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=16049268996911298541"
+ },
+ "195": {
+  "image": "/images/gm-phaya-thai-spa-b-nh-th-nh-195.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=12229197827163273963"
+ },
+ "196": {
+  "image": "/images/gm-phaya-thai-spa-him-lam-qu-n-7-196.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=13039841604488647067&hl=en"
+ },
+ "197": {
+  "image": "/images/gm-phaya-thai-spa-220b-l-v-n-l-ng-qu-n-7-197.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=16676387518619457128"
+ },
+ "198": {
+  "image": "/images/gm-phaya-thai-spa-g-v-p-198.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=17971940292097138559"
+ },
+ "199": {
+  "image": "/images/gm-phaya-thai-spa-th-o-i-n-an-kh-nh-qu-n-2-199.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=2522435348940115107&hl=en"
+ },
+ "200": {
+  "image": "/images/massage-co-phong-q3-goi-dau-duong-sinh.webp",
+  "image_kind": "photo",
+  "image_credit": "Ảnh: massagecophong.com",
+  "image_source_url": "https://massagecophong.com/"
+ },
+ "201": {
+  "image": "/images/gm-an-nh-t-wellness-onsen-jjimjilbang-spa-201.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=6253163019142028380"
+ },
+ "202": {
+  "image": "/images/gm-mayli-nail-scalp-hair-body-massage-202.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=10432917187498658969"
+ },
+ "203": {
+  "image": "/images/gm-timezone-vincom-ng-kh-i-203.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=12809848465957405356"
+ },
+ "204": {
+  "image": "/images/gm-s-n-patin-vietnam-roller-rink-academy-204.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=2492479145514788847"
+ },
+ "205": {
+  "image": "/images/gm-mia-town-khu-vui-ch-i-bida-gaming-nh-cao-qu-n-10-205.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=10109708966126167996"
+ },
+ "206": {
+  "image": "/images/gm-jump-arena-himlam-206.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=3301413834141065856&hl=en"
+ },
+ "207": {
+  "image": "/images/gm-jump-arena-starmart-g-v-p-207.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=16180972330119379753"
+ },
+ "208": {
+  "image": "/images/gm-funifun-thiso-mall-tr-ng-chinh-phan-huy-ch-208.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=8329875965913569249&hl=en"
+ },
+ "209": {
+  "image": "/images/infinity-racing-vincom-thao-dien.webp",
+  "image_kind": "photo",
+  "image_credit": "Ảnh: infinity.racing",
+  "image_source_url": "https://infinity.racing/vi/"
+ },
+ "210": {
+  "image": "/images/gm-jp-bowling-game-center-210.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=1825064607697273508"
+ },
+ "211": {
+  "image": "/images/gm-real-escape-s-i-g-n-211.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=13785600685243034728"
+ },
+ "212": {
+  "image": "/images/gm-khu-c-ng-vi-n-gi-i-tr-d-joy-212.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=9372760170466884556"
+ },
+ "213": {
+  "image": "/images/gm-joy-station-213.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=11368184884382456040"
+ },
+ "214": {
+  "image": "/images/gm-c-ng-vi-n-b-s-ng-s-i-g-n-tp-th-c-214.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=14403115314444078259"
+ },
+ "215": {
+  "image": "/images/gm-c-ng-vi-n-vui-ch-i-th-tr-ng-215.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=5930225062417399997"
+ },
+ "216": {
+  "image": "/images/gm-gigamall-216.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=14694893905148757919&hl=en"
+ },
+ "217": {
+  "image": "/images/lava-planet-vincom-thao-dien.webp",
+  "image_kind": "photo",
+  "image_credit": "Ảnh: lavaplanet.vn",
+  "image_source_url": "https://lavaplanet.vn/"
+ },
+ "218": {
+  "image": "/images/city-park-the-global-city.webp",
+  "image_kind": "photo",
+  "image_credit": "Ảnh: Facebook của quán",
+  "image_source_url": "https://www.facebook.com/TGCCityPark"
+ },
+ "219": {
+  "image": "/images/gm-c-ng-vi-n-sala-219.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=12053030144348651279"
+ },
+ "220": {
+  "image": "/images/gm-c-ng-vi-n-v-n-h-a-g-v-p-220.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=14048954194267339834"
+ },
+ "221": {
+  "image": "/images/gm-miche-ous-caf-221.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=3505259968296172757"
+ },
+ "222": {
+  "image": "/images/gm-casa-l-qu-n-222.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=3332505133230535526"
+ },
+ "223": {
+  "image": "/images/gm-crea-coffee-studio-223.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=546659148449467651"
+ },
+ "224": {
+  "image": "/images/gm-every-half-coffee-roasters-v-th-s-u-224.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=4177453590773664397"
+ },
+ "225": {
+  "image": "/images/gm-faro-cafe-nguy-n-tr-i-corner-225.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=6480012022645005596"
+ },
+ "226": {
+  "image": "/images/gm-mood-space-coffee-concept-226.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=13057851614802950265"
+ },
+ "227": {
+  "image": "/images/gm-ther-th-n-cafe-t-n-b-nh-227.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=11724220158705020164"
+ },
+ "228": {
+  "image": "/images/gm-sterik-caf-228.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=11255975189326046504"
+ },
+ "229": {
+  "image": "/images/nha-hang-cafe-casa-notre-dame-nguyen-du.webp",
+  "image_kind": "photo",
+  "image_credit": "Ảnh: Facebook của quán",
+  "image_source_url": "https://www.facebook.com/nhahangcafecasa/"
+ },
+ "230": {
+  "image": "/images/gm-highlands-coffee-213-ho-ng-v-n-th-230.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=2772342092573092296"
+ },
+ "231": {
+  "image": "/images/gm-fivex-house-231.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=14147065269279204718"
+ },
+ "232": {
+  "image": "/images/gm-cafe-forest-232.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=3757931527441845780"
+ },
+ "233": {
+  "image": "/images/gm-dangdo-cafe-th-o-i-n-233.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=4168420532603884259"
+ },
+ "234": {
+  "image": "/images/gm-kkaen-da-kuffee-234.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=15590980122355734237"
+ },
+ "235": {
+  "image": "/images/gm-bodega-saigon-235.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=15718210318543222584&hl=en"
+ },
+ "236": {
+  "image": "/images/gm-c-ng-vi-n-g-m-c-u-ba-son-236.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=545411202916805766"
+ },
+ "237": {
+  "image": "/images/gm-maison-de-artisan-237.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=4115402109681198853"
+ },
+ "238": {
+  "image": "/images/gm-maycaighe-space-238.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=15088039400768500256"
+ },
+ "239": {
+  "image": "/images/gm-hoko-fragrances-239.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=3575795070306875810"
+ },
+ "240": {
+  "image": "/images/gm-fiction-cafe-bar-240.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=3012763473786137934"
+ },
+ "241": {
+  "image": "/images/gm-bliss-photobooth-241.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=17825365554666882654"
+ },
+ "242": {
+  "image": "/images/gm-m-o-m-c-photobooth-qu-n-5-ph-ng-ch-l-n-242.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=3005543593449753832"
+ },
+ "243": {
+  "image": "/images/gm-paris-booth-243.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=7558716747605130672"
+ },
+ "244": {
+  "image": "/images/gm-twinkle-booth-244.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=1290325520960581584&hl=en&google_abuse=GOOGLE_ABUSE_EXEMPTION%3DID%3Da592b00c3ec4d91e:TM%3D1792998139:C%3D%3E:IP%3D2a04:4e41:88:4274::3ae0:4274-:S%3DVrx5-meELapoIcnb5LKaoA%3B+path%3D/%3B+domain%3Dgoogle.com%3B+expires%3DMon,+26-Oct-2026+10:02:19+GMT"
+ },
+ "245": {
+  "image": "/images/gm-ng-i-photobooth-nguy-n-tri-ph-ng-245.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=5399841572448172335"
+ },
+ "246": {
+  "image": "/images/gm-mothaiba-vivid-qu-n-3-246.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=10532084900028986352"
+ },
+ "247": {
+  "image": "/images/gm-photoism-hu-nh-th-c-kh-ng-247.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=11339683690479081854"
+ },
+ "248": {
+  "image": "/images/gm-monobooth-248.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=2436969112656734194"
+ },
+ "249": {
+  "image": "/images/gm-foto-hunter-july-ulike-249.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=16990269700721188070"
+ },
+ "250": {
+  "image": "/images/gm-foto-flicker-photobooth-saigon-250.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=4331812101798570882"
+ },
+ "251": {
+  "image": "/images/gm-photo-palette-qu-n-7-251.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=13564465742973453634"
+ },
+ "252": {
+  "image": "/images/gm-photo-palette-b-nh-th-nh-252.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=13860427242249073509"
+ },
+ "253": {
+  "image": "/images/gm-photo-palette-t-n-ph-253.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=6812549644405563340"
+ },
+ "254": {
+  "image": "/images/gm-photo-palette-qu-n-1-254.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=11845655354934577042"
+ },
+ "255": {
+  "image": "/images/gm-photo-palette-qu-n-10-255.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=619868388722498004"
+ },
+ "256": {
+  "image": "/images/gm-qan-photobooth-256.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=9664685120369988877"
+ },
+ "257": {
+  "image": "/images/gm-life4cuts-photobooth-tp-th-c-th-c-c-257.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=13021835153874956294"
+ },
+ "258": {
+  "image": "/images/gm-life4cuts-photobooth-t-n-ph-258.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=17666310573480102495&hl=en"
+ },
+ "259": {
+  "image": "/images/gm-life4cuts-photobooth-qu-n-7-259.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=15336115002245107186"
+ },
+ "260": {
+  "image": "/images/gm-life4cuts-photobooth-g-v-p-260.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=11739511226195411116"
+ },
+ "261": {
+  "image": "/images/gm-life4cuts-261.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=2926528670349064094&hl=en"
+ },
+ "262": {
+  "image": "/images/gm-life-four-cut-262.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=12018387478435852432&hl=en"
+ },
+ "263": {
+  "image": "/images/gm-life4cuts-photobooth-qu-n-1-263.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=16908056550518072440&hl=en"
+ },
+ "264": {
+  "image": "/images/gm-life-four-cuts-photobooth-264.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=12662174903771791778"
+ },
+ "265": {
+  "image": "/images/gm-life4cuts-photobooth-thiso-sala-265.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=16573336938765858049"
+ },
+ "266": {
+  "image": "/images/gm-photo-objet-quang-trung-266.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=2447195865547793418"
+ },
+ "267": {
+  "image": "/images/gm-photo-objet-v-n-h-nh-mall-267.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=10731385431044702751"
+ },
+ "268": {
+  "image": "/images/gm-photo-objet-nowzone-268.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=1649272468030145634"
+ },
+ "269": {
+  "image": "/images/gm-photo-objet-saigon-centre-hcm-269.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=1747428491214547094"
+ },
+ "270": {
+  "image": "/images/gm-photo-objet-th-o-i-n-270.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=10637974342495107350"
+ },
+ "271": {
+  "image": "/images/gm-photo-objet-aeon-t-n-ph-271.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=7695425993317257208"
+ },
+ "272": {
+  "image": "/images/gm-mirafilm-photobooth-cn-inh-ti-n-ho-ng-272.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=9646801485504317118"
+ },
+ "273": {
+  "image": "/images/gm-pixelb-vintage-photobooth-273.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=17235848034969743102"
+ },
+ "274": {
+  "image": "/images/gm-pixelb-photobooth-274.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=9284838276646274161"
+ },
+ "275": {
+  "image": "/images/gm-vesou-cocktail-bar-275.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=1771794986646845958"
+ },
+ "276": {
+  "image": "/images/gm-lib-hidden-bar-276.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=8608419706204620034"
+ },
+ "277": {
+  "image": "/images/gm-votri-cabinet-of-curiosities-277.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=11858968469320147873"
+ },
+ "278": {
+  "image": "/images/gm-umatcha-se-omakase-matcha-hvb-278.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=9946886543773912922"
+ },
+ "279": {
+  "image": "/images/gm-loop-1-cocktail-bar-kitchen-279.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=9807722277538374805"
+ },
+ "280": {
+  "image": "/images/gm-rrr-just-a-bar-280.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=2143039510866093635"
+ },
+ "281": {
+  "image": "/images/gm-angels-share-281.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=15921504766416689438"
+ },
+ "282": {
+  "image": "/images/gm-aex-cocktail-bar-282.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/AEX+Cocktail+Bar/@10.7955118,106.6772422,17z/data=!3m1!4b1!4m6!3m5!1s0x317529375dcd64bf:0xfd7cc0521e6e1683!8m2!3d10.7955118!4d106.6772422!16s%2Fg%2F11t8bthxx0?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+ },
+ "283": {
+  "image": "/images/gm-88-rooftop-bar-283.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=10370607450170386005"
+ },
+ "284": {
+  "image": "/images/gm-lulu-bar-eatery-284.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=14390044012207103371"
+ },
+ "285": {
+  "image": "/images/gm-t-bar-285.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=14514001035970999372"
+ },
+ "286": {
+  "image": "/images/gm-sweet-sour-bar-286.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=11884449569449953704"
+ },
+ "287": {
+  "image": "/images/gm-dear-bar-287.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=2378759223162286272"
+ },
+ "288": {
+  "image": "/images/gm-b-m-kitchen-wine-bar-288.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=836618591257411385"
+ },
+ "289": {
+  "image": "/images/gm-n-d-u-th-o-i-n-289.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=10014747013754599250"
+ },
+ "290": {
+  "image": "/images/gm-mr-saigon-m-salad-s-i-g-n-l-lai-290.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=18345390020191431127"
+ },
+ "291": {
+  "image": "/images/gm-fenice-cuisine-bar-291.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=15586756056140073011"
+ },
+ "292": {
+  "image": "/images/gm-m-ch-saigon-292.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=14959707225316052550"
+ },
+ "293": {
+  "image": "/images/gm-matsuri-japanese-restaurant-vincom-center-landmark-81-293.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=12687578907184847249"
+ },
+ "294": {
+  "image": "/images/gm-apero-bistro-bar-294.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=15395378955149592825"
+ },
+ "295": {
+  "image": "/images/gm-n-s-kitchen-italian-cuisine-more-295.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=9296704098185562656"
+ },
+ "296": {
+  "image": "/images/smith-s-kitchen-bar.webp",
+  "image_kind": "photo",
+  "image_credit": "Ảnh: silverlandhotels.com",
+  "image_source_url": "https://silverlandhotels.com/smiths-kitchen-bar"
+ },
+ "297": {
+  "image": "/images/gm-noire-dining-cafe-ph-m-ng-c-th-ch-297.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=15399171321270558361"
+ },
+ "298": {
+  "image": "/images/gm-glamisque-fusion-dining-298.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=17170652856801171958"
+ },
+ "299": {
+  "image": "/images/gm-tr-m-h-m-qu-n-3-299.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=17233405473500960878"
+ },
+ "300": {
+  "image": "/images/gm-chiik-steak-pasta-th-o-i-n-300.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=15826299511284551122"
+ },
+ "301": {
+  "image": "/images/gm-le-monde-steak-nguy-n-th-minh-khai-301.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=698686859458746675"
+ },
+ "302": {
+  "image": "/images/gm-cal-re-coffee-eatery-302.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=2602636969669274400"
+ },
+ "303": {
+  "image": "/images/gm-livannah-sips-bites-th-o-i-n-303.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=11212778547773392000"
+ },
+ "304": {
+  "image": "/images/gm-chamie-steak-304.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=4428804828236072666"
+ },
+ "305": {
+  "image": "/images/the-lang-kinh.webp",
+  "image_kind": "photo",
+  "image_credit": "Ảnh: thelangkinh.com",
+  "image_source_url": "https://thelangkinh.com/"
+ },
+ "306": {
+  "image": "/images/gm-yeshi-taiwanese-fusion-306.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=7720365190874347052"
+ },
+ "307": {
+  "image": "/images/gm-gabi-s-corner-307.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=16067774961846500752"
+ },
+ "308": {
+  "image": "/images/gm-workshop-hub-308.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=1891703473409843252"
+ },
+ "309": {
+  "image": "/images/gm-the-joy-workshop-309.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=15307891693303714970"
+ },
+ "310": {
+  "image": "/images/gm-another-saigon-by-lg-310.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=11632347301854382662"
+ },
+ "311": {
+  "image": "/images/gm-v-ry-nice-bracelet-311.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=13629466097535387659"
+ },
+ "312": {
+  "image": "/images/gm-hi-n-concept-312.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=9201637827315729830"
+ },
+ "313": {
+  "image": "/images/gm-workshop-l-m-b-nh-idim-diy-bakery-ph-m-h-ng-313.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=14532866850236077185"
+ },
+ "314": {
+  "image": "/images/gm-myu-memories-trang-s-c-ph-ki-n-italy-314.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=3589678750324716460"
+ },
+ "315": {
+  "image": "/images/gm-ti-m-tranh-b-p-v-workshop-th-gi-n-t-i-sunsetview-coffee-315.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=4843187519958327835"
+ },
+ "316": {
+  "image": "/images/gm-xoxo-saigon-workshop-accessories-custom-316.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=14534545580668960162"
+ },
+ "317": {
+  "image": "/images/gm-t-a-t-artbook-317.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=3428837490935868958"
+ },
+ "318": {
+  "image": "/images/gm-chucky-beetle-industry-318.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=6204892324642994380"
+ },
+ "319": {
+  "image": "/images/toong-teng-mosaic-workshop-cafe-412-10-no-trang-long.webp",
+  "image_kind": "photo",
+  "image_credit": "Ảnh: Facebook của quán",
+  "image_source_url": "https://www.facebook.com/ToongTengMosaic/"
+ },
+ "320": {
+  "image": "/images/gm-art-vendors-studio-320.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=11109671393023194084"
+ },
+ "321": {
+  "image": "/images/gm-bebop-saigon-wine-bar-live-jazz-321.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Bebop%20Saigon%2038%20L%C3%BD%20T%E1%BB%B1%20Tr%E1%BB%8Dng%2C%20P.%20S%C3%A0i%20G%C3%B2n%20%28Q.1%20c%C5%A9%29%20TP.HCM"
+ },
+ "322": {
+  "image": "/images/gm-om-eatery-chay-cao-c-p-322.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=OM%20Eatery%2080%20%C4%90inh%20C%C3%B4ng%20Tr%C3%A1ng%2C%20P.%20T%C3%A2n%20%C4%90%E1%BB%8Bnh%20%28Q.1%20c%C5%A9%29%20TP.HCM"
+ },
+ "323": {
+  "image": "/images/gm-blooms-and-brews-by-ellum-cafe-robot-pha-ch-hoa-323.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Blooms%20and%20Brews%20by%20Ellum%20632%20%C4%90i%E1%BB%87n%20Bi%C3%AAn%20Ph%E1%BB%A7%2C%20P.%20Th%E1%BA%A1nh%20M%E1%BB%B9%20T%C3%A2y%20%28B%C3%ACnh%20Th%E1%BA%A1nh%20c%C5%A9%29%20TP.HCM"
+ },
+ "324": {
+  "image": "/images/gm-ng-m-cafe-retro-24h-324.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&hl=vi&query=Ng%C3%A2m%20Cafe%20193/19%20Nam%20K%E1%BB%B3%20Kh%E1%BB%9Fi%20Ngh%C4%A9a%2C%20Q.3%20%28c%C5%A9%29%20TP.HCM"
+ },
+ "325": {
+  "image": "/images/gm-the-box-market-ch-phi-n-s-ng-t-o-325.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/The+Box+Market+-+125+Hai+B%C3%A0+Tr%C6%B0ng/@10.7806254,106.7000138,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f8ae7d79f17:0xd74bb577420ad85d!8m2!3d10.7806254!4d106.7000138!16s%2Fg%2F11x_p4__8r"
+ },
+ "326": {
+  "image": "/images/gm-genz-cinema-t-n-b-nh-ph-ng-chi-u-phim-ri-ng-326.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/GenZ+Cinema+Nguy%E1%BB%85n+Th%C3%A1i+B%C3%ACnh/@10.7949765,106.6504034,17z/data=!3m1!4b1!4m6!3m5!1s0x317529f70c53c083:0x347386c8f82194be!8m2!3d10.7949765!4d106.6504034!16s%2Fg%2F11xflxj726"
+ },
+ "327": {
+  "image": "/images/gm-r-p-xi-c-c-ng-vi-n-gia-nh-327.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/R%E1%BA%A1p+Xi%E1%BA%BFc+C%C3%B4ng+vi%C3%AAn+Gia+%C4%91%E1%BB%8Bnh/@10.8138657,106.6771921,17z/data=!3m1!4b1!4m6!3m5!1s0x317528e04718c247:0x835a35fcfbd40569!8m2!3d10.8138657!4d106.6771921!16s%2Fg%2F1hm2hnwm7"
+ },
+ "328": {
+  "image": "/images/gm-c-ng-vi-n-s-ng-t-o-th-thi-m-creative-park-328.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/C%C3%B4ng+vi%C3%AAn+s%C3%A1ng+t%E1%BA%A1o/@10.780052,106.712611,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f0006cf265f:0xae5e3bc6273b5f44!8m2!3d10.780052!4d106.712611!16s%2Fg%2F11wn10h_ym"
+ },
+ "329": {
+  "image": "/images/gm-x-ooo-nh-t-t-o-pizza-pasta-329.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/X%C3%A9ooo+Nhattao+-+Pizza+%26+Pasta/@10.7645853,106.6675345,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f46720ca3cd:0x8cb52ca3ca93de1f!8m2!3d10.7645853!4d106.6675345!16s%2Fg%2F11mdp4jyk5"
+ },
+ "330": {
+  "image": "/images/gm-siem-bar-cocktail-ki-u-hang-ng-330.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/Siem/@10.7634732,106.6906607,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f0015c00881:0x4f3d1224176594ea!8m2!3d10.7634732!4d106.6906607!16s%2Fg%2F11w9_hybgk"
+ },
+ "331": {
+  "image": "/images/gm-no-n-eatery-no-n-bistro-331.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/non%C3%AA+pasta/@10.7897376,106.6874268,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f4bd1e5e3a1:0xa7372d9fcc67133b!8m2!3d10.7897376!4d106.6874268!16s%2Fg%2F11s2phxfnd"
+ },
+ "332": {
+  "image": "/images/gm-kyo-watami-grill-sushi-332.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/KYO+WATAMI+Grill+%26+Sushi/@10.781349,106.6892575,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f710ac86d77:0xa6b02258f892eb57!8m2!3d10.781349!4d106.6892575!16s%2Fg%2F11fkrz3gnh"
+ },
+ "333": {
+  "image": "/images/gm-elsol-meat-wine-steakhouse-333.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/ELSOL+Meat%26Wine+I+Steakhouse+V%C3%B5+Th%E1%BB%8B+S%C3%A1u/@10.7876598,106.6912818,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f48a6319217:0x78d712b02e40b61a!8m2!3d10.7876598!4d106.6912818!16s%2Fg%2F11bccm1nql"
+ },
+ "334": {
+  "image": "/images/gm-luna-co-rooftop-bar-334.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/Luna+%26+Co.+-+Rooftop+Bar/@10.8030506,106.7295036,17z/data=!3m1!4b1!4m6!3m5!1s0x317527001cd4cf55:0x6f0e8f4501177c3f!8m2!3d10.8030506!4d106.7295036!16s%2Fg%2F11w__d8yfg"
+ },
+ "336": {
+  "image": "/images/gm-c-s-n-shop-workshop-charm-handmade-336.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/%E1%BB%90c+S%C3%AAn+Shop/@10.7896359,106.6749217,17z/data=!3m1!4b1!4m6!3m5!1s0x31752ff47e72b90b:0xa9441d4060824d19!8m2!3d10.7896359!4d106.6749217!16s%2Fg%2F11r0wm4t_1"
+ },
+ "337": {
+  "image": "/images/gm-daydreamer-workshop-hcm-337.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/Daydreamer+Workshop+VN+(C%C6%A1+s%E1%BB%9F+H%E1%BB%93+Ch%C3%AD+Minh)/@10.7678692,106.6836574,17z/data=!3m1!4b1!4m6!3m5!1s0x3175297daa25b983:0xa953d978e88e5a57!8m2!3d10.7678692!4d106.6836574!16s%2Fg%2F11z6v4jnp7"
+ },
+ "338": {
+  "image": "/images/gm-kani-workshop-338.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/Kani+workshop/@10.7921412,106.7142773,17z/data=!3m1!4b1!4m6!3m5!1s0x3175290018621265:0x7836c1a83232fe78!8m2!3d10.7921412!4d106.7142773!16s%2Fg%2F11myy2kwrf"
+ },
+ "340": {
+  "image": "/images/gm-ward-coffee-workshop-c-p-i-340.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/Ward+Coffee/@10.7799558,106.664056,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f003564035d:0xdd27c13d727266c3!8m2!3d10.7799558!4d106.664056!16s%2Fg%2F11x2w6qz4j"
+ },
+ "341": {
+  "image": "/images/gm-vi-decord-workshop-hoa-th-y-tinh-341.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/VI+DECORD+AND+COFFEE/data=!4m7!3m6!1s0x317529006f50b145:0x1b0023387edaa5dd!8m2!3d10.8455943!4d106.7129433!16s%2Fg%2F11zwtzpkqk"
+ },
+ "342": {
+  "image": "/images/gm-t-m-ng-c-coffee-workshop-342.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/T%C3%A2m+Ng%E1%BB%8Dc+Coffee+%26+Workshop/@10.789821,106.719398,17z/data=!3m1!4b1!4m6!3m5!1s0x317529006cbd0ab7:0x261443cadba7105f!8m2!3d10.789821!4d106.719398!16s%2Fg%2F11ytg1mzhb"
+ },
+ "343": {
+  "image": "/images/gm-kula-3065-art-space-cafe-343.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/KULA+-+ART+SPACE+%26+CAFETERIA/@10.8170495,106.7327028,17z/data=!3m1!4b1!4m6!3m5!1s0x317527fec93d53b9:0x981b6fe9dbb7000d!8m2!3d10.8170495!4d106.7327028!16s%2Fg%2F11rhxkydgp"
+ },
+ "344": {
+  "image": "/images/gm-g-c-c-ph-344.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/G%C3%B3c+c%C3%A0+ph%C3%AA/@10.7727167,106.7025306,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f5321c2c3fd:0xfcceae783fc2fbdc!8m2!3d10.7727167!4d106.7025306!16s%2Fg%2F11q4c93mzg"
+ },
+ "345": {
+  "image": "/images/gm-jellykiss-caf-in-bed-345.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/JellyKiss/@10.7695495,106.7041731,17z/data=!3m1!4b1!4m6!3m5!1s0x31752fa67f4697b9:0x69fcbb4ab5a7cf1d!8m2!3d10.7695495!4d106.7041731!16s%2Fg%2F11yd8rlvmb"
+ },
+ "346": {
+  "image": "/images/gm-press-play-c-ph-board-game-346.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/press+%26+play+-+C%C3%A0+ph%C3%AA+Board+Game+B%C3%ACnh+Th%E1%BA%A1nh/@10.8066631,106.7114131,17z/data=!3m1!4b1!4m6!3m5!1s0x317529ebeff02f4b:0x784d4a23cce87c53!8m2!3d10.8066631!4d106.7114131!16s%2Fg%2F11zgrftwmr"
+ },
+ "347": {
+  "image": "/images/gm-fight-station-ps5-pes-cinema-nintendo-347.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/FIGHT+STATION+-+PS5+PES+Cinema+Nintendo+X%C3%B4+Vi%E1%BA%BFt+Ngh%E1%BB%87+T%C4%A9nh/@10.7981328,106.7110377,17z/data=!3m1!4b1!4m6!3m5!1s0x317529680ba833ab:0x64f122fb98a13d21!8m2!3d10.7981328!4d106.7110377!16s%2Fg%2F11xnm_zy29"
+ },
+ "348": {
+  "image": "/images/gm-lumi-photobooth-saigon-garden-348.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/Lumi+Booth+Daspace+99+Nguy%E1%BB%85n+Hu%E1%BB%87+-+By+Fun+Studio/@10.7729788,106.703829,17z/data=!3m1!4b1!4m6!3m5!1s0x31752fddf30b19ff:0x60991ada8e8b2910!8m2!3d10.7729788!4d106.703829!16s%2Fg%2F11zfrbycjp"
+ },
+ "349": {
+  "image": "/images/gm-menya-ichiban-plus-diamond-plaza-349.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/MENYA+ICHIBAN+PLUS/@10.780987,106.6984947,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f9b2f48095d:0xbec378f65144b6bc!8m2!3d10.780987!4d106.6984947!16s%2Fg%2F11w1cqq_b1"
+ },
+ "350": {
+  "image": "/images/gm-jw-marriott-saigon-tr-chi-u-le-jeu-trang-tr-b-nh-350.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/JW+Marriott+Hotel+%26+Suites+Saigon/@10.7809413,106.7005678,17z/data=!3m1!4b1!4m9!3m8!1s0x31752f1ec86d8a65:0xe7ba8ef8a67451c8!5m2!4m1!1i2!8m2!3d10.7809413!4d106.7005678!16s%2Fg%2F11sp92f3n0"
+ },
+ "351": {
+  "image": "/images/gm-tri-u-coffee-tea-c-m-hoa-351.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/Tri%E1%BB%87u+Coffee+%26+Tea/@10.8256146,106.6938766,17z/data=!3m1!4b1!4m6!3m5!1s0x317529004d07d763:0x244be7fc62b0ac45!8m2!3d10.8256146!4d106.6938766!16s%2Fg%2F11vr9tpf68"
+ },
+ "352": {
+  "image": "/images/gm-midas-hotel-3-staycation-352.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/Midas+Hotel+3/@10.7947212,106.7098625,17z/data=!4m9!3m8!1s0x317529005516bbcd:0xeb9c32bcf88daa49!5m2!4m1!1i2!8m2!3d10.7947212!4d106.7098625!16s%2Fg%2F11x85p685d"
+ },
+ "353": {
+  "image": "/images/gm-c-m-t-m-ba-ghi-n-353.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=7366964197470061140"
+ },
+ "354": {
+  "image": "/images/gm-ph-h-a-pasteur-354.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=15021671463455039530"
+ },
+ "355": {
+  "image": "/images/gm-ph-l-nguy-n-tr-i-355.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=6788466980726782215"
+ },
+ "356": {
+  "image": "/images/gm-nh-n-qu-n-h-ti-u-nam-vang-356.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=1416523878894445603"
+ },
+ "357": {
+  "image": "/images/gm-h-ti-u-h-ng-ph-t-v-v-n-t-n-357.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=12606895230718277577"
+ },
+ "358": {
+  "image": "/images/gm-b-nh-m-hu-nh-hoa-358.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=7665333571196675420"
+ },
+ "359": {
+  "image": "/images/gm-b-nh-x-o-46a-359.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=5260223407053297133"
+ },
+ "360": {
+  "image": "/images/gm-c-oanh-v-nh-kh-nh-360.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=11136826151233228285"
+ },
+ "361": {
+  "image": "/images/gm-b-n-ch-h-n-i-26-361.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=7231646042671377037"
+ },
+ "362": {
+  "image": "/images/gm-b-n-ri-u-g-nh-ch-b-n-th-nh-362.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=12273404362367153299"
+ },
+ "363": {
+  "image": "/images/gm-l-u-d-tri-k-363.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=6099795133529830111"
+ },
+ "364": {
+  "image": "/images/gm-b-nh-canh-cua-t-l-364.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=16763405835247655915"
+ },
+ "365": {
+  "image": "/images/gm-b-t-chi-n-t-th-nh-365.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=4007122361359196412"
+ },
+ "366": {
+  "image": "/images/gm-b-n-3-ngon-inh-ti-n-ho-ng-366.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=2612661489299852067"
+ },
+ "368": {
+  "image": "/images/gm-ph-qu-nh-368.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&query=Ph%E1%BB%9F%20Qu%E1%BB%B3nh%20323%20Ph%E1%BA%A1m%20Ng%C5%A9%20L%C3%A3o%2C%20Q.1%20TP.HCM&hl=vi"
+ },
+ "372": {
+  "image": "/images/gm-b-n-b-g-nh-nguy-n-tr-i-372.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/B%C3%BAn+B%C3%B2+G%C3%A1nh/@10.7738675,106.6924612,18z/data=!4m10!1m2!2m1!1zQsO6biBCw7IgR8OhbmggKE5ndXnhu4VuIFRyw6NpKSAxMTAgTmd1eeG7hW4gVHLDo2ksIFEuMSBUUC5IQ00!3m6!1s0x31752f00331f6afb:0xf4cdb55ebb7ec295!8m2!3d10.7738675!4d106.6947143!15sCj5Cw7puIELDsiBHw6FuaCAoTmd1eeG7hW4gVHLDo2kpIDExMCBOZ3V54buFbiBUcsOjaSwgUS4xIFRQLkhDTVo9Ijtiw7puIGLDsiBnw6FuaCBuZ3V54buFbiB0csOjaSAxMTAgbmd1eeG7hW4gdHLDo2kgcSAxIHRwIGhjbZIBFXZpZXRuYW1lc2VfcmVzdGF1cmFudJoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQyczFibUpZWkcxVFJUbFpaVVU0ZDJOWVpFOVdWMW8yWlVWNGFHSXpZeEFC4AEA-gEECGoQRQ!16s%2Fg%2F11yqkq_4vg?hl=vi&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+ },
+ "373": {
+  "image": "/images/gm-b-nh-x-o-n-l-ghi-n-373.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&query=B%C3%A1nh%20X%C3%A8o%20%C4%82n%20L%C3%A0%20Ghi%E1%BB%81n%2074%20S%C6%B0%C6%A1ng%20Nguy%E1%BB%87t%20%C3%81nh%2C%20Q.1%20TP.HCM&hl=vi"
+ },
+ "374": {
+  "image": "/images/gm-b-p-m-n-l-th-nh-t-n-374.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=4999984471408903447"
+ },
+ "375": {
+  "image": "/images/gm-secret-garden-158-pasteur-375.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=8659254940731870913"
+ },
+ "376": {
+  "image": "/images/gm-c-c-g-ch-qu-n-376.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=10022954861294462091"
+ },
+ "377": {
+  "image": "/images/gm-qu-n-n-ngon-138-377.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=229433844224448966"
+ },
+ "378": {
+  "image": "/images/gm-pizza-4p-s-l-th-nh-t-n-378.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=10978371161374556473"
+ },
+ "379": {
+  "image": "/images/gm-gogi-house-vincom-ng-kh-i-379.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=7395193509460567733"
+ },
+ "380": {
+  "image": "/images/gm-ch-hi-n-kh-nh-380.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=13333512154686631696"
+ },
+ "381": {
+  "image": "/images/gm-kem-b-ch-ng-l-l-i-381.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=14842215803928299106"
+ },
+ "382": {
+  "image": "/images/gm-c-ng-c-ph-h-con-r-a-382.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=2277305761132638404"
+ },
+ "383": {
+  "image": "/images/gm-c-ph-s-i-g-n-i-42-nguy-n-hu-383.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=5042880248186458663"
+ },
+ "384": {
+  "image": "/images/gm-social-club-rooftop-h-tel-des-arts-384.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=14342053608653436246"
+ },
+ "385": {
+  "image": "/images/gm-saigon-saigon-rooftop-bar-caravelle-385.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps?cid=15187712320163135816"
+ },
+ "386": {
+  "image": "/images/gm-galaxy-cinema-nguy-n-du-386.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=7959510044504727677"
+ },
+ "387": {
+  "image": "/images/gm-cgv-vincom-center-ng-kh-i-387.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=11214787039782498171"
+ },
+ "388": {
+  "image": "/images/gm-cinestar-qu-c-thanh-388.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=15331409235007030248"
+ },
+ "389": {
+  "image": "/images/gm-galaxy-cinema-t-n-b-nh-389.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=6691927068786462294"
+ },
+ "391": {
+  "image": "/images/gm-asap-billiards-th-ch-qu-ng-c-391.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=8810281396084059393"
+ },
+ "392": {
+  "image": "/images/gm-clb-bida-right-now-t-n-nh-392.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&query=CLB%20Bida%20Right%20Now%20%28T%C3%A2n%20%C4%90%E1%BB%8Bnh%29%20Qu%E1%BA%ADn%201%20TP.HCM&hl=vi"
+ },
+ "393": {
+  "image": "/images/gm-spirit-escape-b-nh-th-nh-393.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&query=Spirit%20Escape%20%28B%C3%ACnh%20Th%E1%BA%A1nh%29%2071D%20Nguy%E1%BB%85n%20Th%C6%B0%E1%BB%A3ng%20Hi%E1%BB%81n%2C%20P.5%2C%20B%C3%ACnh%20Th%E1%BA%A1nh%20TP.HCM&hl=vi"
+ },
+ "394": {
+  "image": "/images/gm-skywalk-climbing-leo-n-i-nh-n-t-o-394.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=12170630464326243450"
+ },
+ "395": {
+  "image": "/images/gm-clb-b-n-cung-nh-v-n-h-a-thanh-ni-n-395.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=17121410567903622592"
+ },
+ "396": {
+  "image": "/images/gm-karaoke-icool-phan-x-ch-long-396.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=13143947893713978227"
+ },
+ "397": {
+  "image": "/images/gm-landmark-81-skyview-i-quan-s-t-397.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=3939612233067731661"
+ },
+ "398": {
+  "image": "/images/gm-miu-miu-spa-1-chu-m-nh-trinh-398.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=14331328539476577400"
+ },
+ "399": {
+  "image": "/images/gm-ceramic-club-q3-399.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&query=Ceramic%20Club%20%28Q3%29%2059%20H%E1%BA%BBm%207%20Tr%E1%BA%A7n%20Quang%20Di%E1%BB%87u%2C%20P.14%2C%20Q.3%20TP.HCM&hl=vi"
+ },
+ "400": {
+  "image": "/images/gm-v-n-nh-g-m-400.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/place/Cafe+V%C6%B0%E1%BB%9Dn+G%E1%BB%91m/@10.8107806,106.6917466,17z/data=!3m1!4b1!4m6!3m5!1s0x317529ca1fac69cb:0x7a5dde1b2917cd21!8m2!3d10.8107806!4d106.6917466!16s%2Fg%2F11kjn78c92"
+ },
+ "401": {
+  "image": "/images/gm-heny-garden-workshop-n-n-th-m-401.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&query=Heny%20Garden%20%28workshop%20n%E1%BA%BFn%20th%C6%A1m%29%20370/24%20Ho%C3%A0%20H%E1%BA%A3o%2C%20P.5%2C%20Q.10%20TP.HCM&hl=vi"
+ },
+ "403": {
+  "image": "/images/gm-first-sight-message-candle-403.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&query=First%20Sight%20%28Message%20Candle%29%2023%20Hoa%20Hu%E1%BB%87%2C%20P.7%2C%20Ph%C3%BA%20Nhu%E1%BA%ADn%20TP.HCM&hl=vi"
+ },
+ "404": {
+  "image": "/images/gm-n-n-th-m-t-m-an-404.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://www.google.com/maps/search/?api=1&query=N%E1%BA%BFn%20Th%C6%A1m%20T%C3%A2m%20An%20L%E1%BA%A7u%202%2C%20101%20Tr%E1%BA%A7n%20H%C6%B0ng%20%C4%90%E1%BA%A1o%2C%20Q.1%20TP.HCM&hl=vi"
+ },
+ "405": {
+  "image": "/images/gm-h-con-r-a-405.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=3340651953480855379"
+ },
+ "406": {
+  "image": "/images/gm-c-ng-vi-n-tao-n-406.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=4535741078771275632"
+ },
+ "407": {
+  "image": "/images/gm-c-ng-vi-n-l-v-n-t-m-407.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=7666491876929007457"
+ },
+ "408": {
+  "image": "/images/gm-nh-th-t-n-nh-nh-th-m-u-h-ng-408.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=8699547463492745602"
+ },
+ "409": {
+  "image": "/images/gm-ch-a-ng-c-ho-ng-ph-c-h-i-t-409.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=4102120846024444045"
+ },
+ "410": {
+  "image": "/images/gm-ch-hoa-h-th-k-410.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=9847044473358350069"
+ },
+ "411": {
+  "image": "/images/gm-c-u-nh-sao-ph-m-h-ng-411.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=17123664406864648589"
+ },
+ "412": {
+  "image": "/images/gm-h-b-n-nguy-t-412.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=6827587011548868897"
+ },
+ "413": {
+  "image": "/images/gm-b-o-t-ng-ph-n-nam-b-413.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=10664808254492389854"
+ },
+ "414": {
+  "image": "/images/gm-b-o-t-ng-l-ch-s-tp-hcm-414.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=2673741245472634261"
+ },
+ "415": {
+  "image": "/images/gm-purrfect-coffee-cafe-m-o-415.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=5257777217362948592"
+ },
+ "416": {
+  "image": "/images/gm-tea-pets-cafe-th-c-ng-416.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=15984262136885403624"
+ },
+ "417": {
+  "image": "/images/gm-tokyo-pet-center-cafe-th-c-ng-417.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=14367367080193219194"
+ },
+ "418": {
+  "image": "/images/gm-cherry-pet-coffee-ch-m-o-capybara-418.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=17368666052008058405"
+ },
+ "420": {
+  "image": "/images/gm-s-n-kh-u-k-ch-ho-ng-th-i-thanh-420.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=17674016079964076276"
+ },
+ "421": {
+  "image": "/images/gm-s-n-kh-u-k-ch-nh-5b-v-v-n-t-n-421.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=2362737722039431614"
+ },
+ "422": {
+  "image": "/images/gm-s-n-kh-u-th-gi-i-tr-422.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=1739078388487188839"
+ },
+ "423": {
+  "image": "/images/gm-s-n-kh-u-tr-ng-ng-423.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=1230174661021352573"
+ },
+ "424": {
+  "image": "/images/gm-ph-ng-tr-ng-dao-424.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=5779696564201179010"
+ },
+ "425": {
+  "image": "/images/gm-ph-ng-tr-b-n-th-nh-425.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=3985692939557611505"
+ },
+ "426": {
+  "image": "/images/gm-carmen-bar-nh-c-latin-s-ng-426.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=1361001600621143086"
+ },
+ "427": {
+  "image": "/images/gm-vrena-h-centrosa-vr-427.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=9212826290794087008"
+ },
+ "428": {
+  "image": "/images/gm-b-o-t-ng-h-ch-minh-b-n-nh-r-ng-428.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=5579796624018008206"
+ },
+ "429": {
+  "image": "/images/gm-b-o-t-ng-t-n-c-th-ng-429.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=5966514671023814338"
+ },
+ "430": {
+  "image": "/images/gm-saigon-cooking-class-430.webp",
+  "image_kind": "photo",
+  "image_credit": "Google Maps",
+  "image_source_url": "https://maps.google.com/?cid=10571304853118776399"
+ }
+}

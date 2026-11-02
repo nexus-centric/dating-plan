@@ -1,0 +1,18 @@
+{
+ "generated": "2026-10-26",
+ "unresolved": [
+  {
+   "name": "42 Đ. Tôn Thất Thiệp",
+   "list": "Shopping date",
+   "reason": "Chỉ là một địa chỉ/điểm ghim, không phải địa điểm có tên"
+  },
+  {
+   "name": "Cầu Ba Son",
+   "lists": [
+    "Picnic date"
+   ],
+   "reason": "Không lấy được địa chỉ từ trang Google Maps công khai",
+   "maps_url": "https://maps.google.com/?cid=7334009350884049280"
+  }
+ ]
+}

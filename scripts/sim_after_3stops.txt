@@ -1,0 +1,54 @@
+combo	budget	plans/run	sure(Σmax≤B)	maybe(Σmin≤B)	unknown	over	emptyRuns	minSure	[3 stops]
+cafe	200k	3.0	0%	0%	97%	3%	0	338k
+cafe	300k	3.0	0%	100%	0%	0%	0	338k
+cafe	500k	3.0	100%	0%	0%	0%	0	
+cafe	1000k	3.0	100%	0%	0%	0%	0	
+cafe	2000k	3.0	100%	0%	0%	0%	0	
+choi	200k	3.0	0%	0%	96%	4%	0	328k
+choi	300k	3.0	0%	100%	0%	0%	0	328k
+choi	500k	3.0	100%	0%	0%	0%	0	
+choi	1000k	3.0	100%	0%	0%	0%	0	
+choi	2000k	3.0	100%	0%	0%	0%	0	
+photobooth	200k	3.0	0%	0%	97%	3%	0	338k
+photobooth	300k	3.0	0%	99%	1%	0%	0	338k
+photobooth	500k	3.0	100%	0%	0%	0%	0	
+photobooth	1000k	3.0	100%	0%	0%	0%	0	
+photobooth	2000k	3.0	100%	0%	0%	0%	0	
+game	200k	3.0	0%	0%	98%	2%	0	468k
+game	300k	3.0	0%	67%	33%	0%	0	468k
+game	500k	3.0	100%	0%	0%	0%	0	
+game	1000k	3.0	100%	0%	0%	0%	0	
+game	2000k	3.0	100%	0%	0%	0%	0	
+spa	200k	3.0	0%	0%	99%	1%	0	566k
+spa	300k	3.0	0%	0%	100%	0%	0	566k
+spa	500k	3.0	0%	100%	0%	0%	0	566k
+spa	1000k	3.0	100%	0%	0%	0%	0	
+spa	2000k	3.0	100%	0%	0%	0%	0	
+workshop	200k	3.0	0%	0%	100%	0%	0	328k
+workshop	300k	3.0	0%	100%	0%	0%	0	328k
+workshop	500k	3.0	33%	67%	0%	0%	0	
+workshop	1000k	3.0	100%	0%	0%	0%	0	
+workshop	2000k	3.0	100%	0%	0%	0%	0	
+checkin	200k	3.0	0%	0%	90%	10%	0	308k
+checkin	300k	3.0	0%	100%	0%	0%	0	308k
+checkin	500k	3.0	100%	0%	0%	0%	0	
+checkin	1000k	3.0	100%	0%	0%	0%	0	
+checkin	2000k	3.0	100%	0%	0%	0%	0	
+finedining	200k	3.0	0%	0%	66%	34%	0	800k
+finedining	300k	3.0	0%	33%	67%	0%	0	800k
+finedining	500k	3.0	0%	100%	0%	0%	0	800k
+finedining	1000k	3.0	100%	0%	0%	0%	0	
+finedining	2000k	3.0	100%	0%	0%	0%	0	
+deeptalk	200k	3.0	0%	0%	100%	0%	0	328k
+deeptalk	300k	3.0	0%	100%	0%	0%	0	328k
+deeptalk	500k	3.0	100%	0%	0%	0%	0	
+deeptalk	1000k	3.0	100%	0%	0%	0%	0	
+deeptalk	2000k	3.0	100%	0%	0%	0%	0	
+random	200k	3.0	0%	0%	100%	0%	0	308k
+random	300k	3.0	0%	100%	0%	0%	0	308k
+random	500k	3.0	100%	0%	0%	0%	0	
+random	1000k	3.0	100%	0%	0%	0%	0	
+random	2000k	3.0	100%	0%	0%	0%	0	
+[ 'Quận 4' ] 3 Quận 4>Quận 1 | Quận 4>Quận 7 | Quận 4>Quận 1 
+[ 'Quận 5' ] 0  {"district":["Quận 5"],"count":0,"slot":"Ăn tối","neighbours":["Quận 5","Quận 1","Quận 6","Quận 8","Quận 10","Quận 11"],"neighbourCount":18}
+[ 'Gò Vấp' ] 3 Gò Vấp>Bình Thạnh | Gò Vấp>Bình Thạnh | Gò Vấp>Phú Nhuận 

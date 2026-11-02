@@ -1,0 +1,146 @@
+[
+ {
+  "idx": 416,
+  "name": "Tea & Pets (cafe thú cưng)",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfP4XQieA-ECeNxwnIrLTSKBLgbK3E14YvdyH_JPJbEysUHa45igjhQ8oa6OfduLG9ldCGKGQftEQT5wnb5xJewgOx5lbGqgf_0jhnAn8_kdOXcPHkWnoifSV3fBAL2ckvk0CqqTw=w426-h240-k-no",
+  "contributor": null,
+  "place_url": "https://maps.google.com/?cid=15984262136885403624",
+  "note": "maps h1: Tea & Pet"
+ },
+ {
+  "idx": 417,
+  "name": "Tokyo Pet Center (cafe thú cưng)",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcIEXpXPJ0QBU_H79kOKYnOY_5B6MEdX3cV1hCdAg9fdNUu0P6q4WHsFD4CbqHFtq6kJFbpllFM29c1aMbuQ4YIpcyEKBwbQlFFs0pKDn7OWZ5qwj-P08GgRzknA82_2qOVPRlhRg=w32-h32-p-k-no",
+  "contributor": null,
+  "place_url": "https://maps.google.com/?cid=14367367080193219194",
+  "note": "maps h1: TOKYO PET CENTER"
+ },
+ {
+  "idx": 415,
+  "name": "Purrfect Coffee (cafe mèo)",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLff4o7DN9RQx2V5nvtF-4WKPB4kgwwMIbL-FUzOSICBwIqaz5nfCGm9w378VDmukNlW6PMfWAUATLTkiQLdmIawRterUNfVdoakRjuT2rRESSLw2K8rvEoHAkxHKB-2t4aVe3w4YA=w408-h306-k-no",
+  "contributor": null,
+  "place_url": "https://maps.google.com/?cid=5257777217362948592",
+  "note": "maps h1: Purrfect Coffee"
+ },
+ {
+  "idx": 419,
+  "name": "Yuna Alaska Coffee (cafe chó)",
+  "status": "mismatch",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfukYDbrvUGSWqgt96Zjvlw7IldM1wXVoJgd-faj60V96n5vj9V69GdYryxBj0ZnpJR9aAKDIy2oL0QJevaklyXX93nbcpuRCMk6T3TdpOMrWucWKZ9tlDWLHrDmrYyZaZEGdIH=w32-h32-p-k-no",
+  "contributor": null,
+  "place_url": "https://www.google.com/maps/search/?api=1&query=Yuna%20Alaska%20Coffee%20%28cafe%20ch%C3%B3%29%2058%20Nguy%E1%BB%85n%20Gia%20Tr%C3%AD%2C%20B%C3%ACnh%20Th%E1%BA%A1nh%20TP.HCM&hl=vi",
+  "note": "maps h1: Cafe Thú Cưng"
+ },
+ {
+  "idx": 418,
+  "name": "Cherry Pet Coffee (chó, mèo, capybara)",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd_8EtmfC9imoQA0DU5bmzFpC37j0jp4tKMzem3iJWRp33lSdlKeW2iGBQ6dLZIUvMJR7hTz76D3_9WRDVD2ZHXkIuUXUt47nt1QqKpJgnr77wTafGWxZX8D03HcnWlN1H0C8MooA=w408-h544-k-no",
+  "contributor": null,
+  "place_url": "https://maps.google.com/?cid=17368666052008058405",
+  "note": "maps h1: Cherry pet coffee"
+ },
+ {
+  "idx": 420,
+  "name": "Sân khấu kịch Hoàng Thái Thanh",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf9b7itLuWTnvGw7WhzDKhppMNvngEBWBbduraZamo_s3iV743La1qe0WZaStdDfh8uctNyoYmenb23EvEtoyZTFgd-2y1OGmgTD32cxVDyjmXjTQtB0457dPqFMz9TdSI2Xk7o=w32-h32-p-k-no",
+  "contributor": null,
+  "place_url": "https://maps.google.com/?cid=17674016079964076276",
+  "note": "maps h1: Sân Khấu Kịch Hoàng Thái Thanh"
+ },
+ {
+  "idx": 421,
+  "name": "Sân khấu kịch Nhỏ 5B Võ Văn Tần",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf3MRq995uvMAisLAcVbLBqjBa-eTcLi1WlBJ8xvcqF4XUqVvmJor4GFkOJI09ThzWIaA1vRtp4JTIFhLKcRZmYO1vWuKdePfUKLtgmnW_Nd28qDH_md26lfBv2Ss2iFvv0peo=w32-h32-p-k-no",
+  "contributor": null,
+  "place_url": "https://maps.google.com/?cid=2362737722039431614",
+  "note": "maps h1: Nhà hát Kịch Sân khấu Nhỏ"
+ },
+ {
+  "idx": 422,
+  "name": "Sân khấu Thế Giới Trẻ",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLedymjDwrkSFLWV_ws0UD4jS9KPxoP9yt1HP-lDDzB8vjZk6qDxQTHs2gNousyBYAB4cmtLvl-geoBhCsjqefcJlTRc6dy_dUIEV7eHAHmHrJ-WUuISE7Ksn7dSclwFgf47j6j34L4VYZ5I=w408-h408-k-no",
+  "contributor": null,
+  "place_url": "https://maps.google.com/?cid=1739078388487188839",
+  "note": "maps h1: Sân Khấu Thế Giới Trẻ"
+ },
+ {
+  "idx": 423,
+  "name": "Sân khấu Trống Đồng",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLekf8n3Q4wKaGe0hHS-J1bMltNlm54qloUYQneEXGnFDjBy_3frhg8tdWJIfvhJtIr_FUr6t0UnbBMTorWFl13oQrRPKAQkSsya7OjaYoej96ECdOo2LJrGVA78JF_sOfRMFKMmsQ=w408-h306-k-no",
+  "contributor": null,
+  "place_url": "https://maps.google.com/?cid=1230174661021352573",
+  "note": "maps h1: Sân Khấu Trống Đồng"
+ },
+ {
+  "idx": 425,
+  "name": "Phòng trà Bến Thành",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcYDo8uqSrMzxptNGtTSi21U7J8ophotd4TYkUY4z5S8uGkIBOb_3AdRjY4wEhyv33ve5iPVTCfu0He4yG6402WRtCzXnQZKJTAhZejzkDj1y2EECQnKTSk1u0cU40TFkqwbEdi=w32-h32-p-k-no",
+  "contributor": null,
+  "place_url": "https://maps.google.com/?cid=3985692939557611505",
+  "note": "maps h1: Phòng trà Bến Thành"
+ },
+ {
+  "idx": 424,
+  "name": "Phòng trà Đồng Dao",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcTnra9IbhiBffY5onWZx8pzbZAsUQuG3SBxXQueS-9EZTzjMuBR0iheUnz0JZofVq_-jcw0lyhKyq9M4Fap1AMzgFzg1QKwcuu9Je1yXBOmADZOC66VnCz9qt9br3m664N6oY=w32-h32-p-k-no",
+  "contributor": null,
+  "place_url": "https://maps.google.com/?cid=5779696564201179010",
+  "note": "maps h1: Phòng Trà Đồng Dao"
+ },
+ {
+  "idx": 426,
+  "name": "Carmen Bar (nhạc Latin sống)",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeCSgsvrv-AQMEfh8DF0PN2Q2HAKPwp5YonJR_TKz8JDWGZxBZA5SH_gPVnXtxpPQh2bV3PscN1xw3ZXdX03hR5y-HKPxzuLV14XtbBa5ljDBjf7vB46xW-2oQjuGeUI9649wxO3w=w450-h240-k-no",
+  "contributor": null,
+  "place_url": "https://maps.google.com/?cid=1361001600621143086",
+  "note": "maps h1: Carmen Bar"
+ },
+ {
+  "idx": 427,
+  "name": "VRena Hà Đô Centrosa (VR)",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeAe_t6tRX4_eN09_rxstZiLXLzB8-uAx2CQ-lSxPnasb6rxcvYlMd2BTXz4g5nsVjyGUntAAIo5T07Q2NXhdUkgXqg1tEPim9jRcYc_YMGDJ_modZxVj_GWHZfzKzAf8UREc8B_L-w4FgY=w408-h612-k-no",
+  "contributor": null,
+  "place_url": "https://maps.google.com/?cid=9212826290794087008",
+  "note": "maps h1: VRena Hà Đô Centrosa"
+ },
+ {
+  "idx": 428,
+  "name": "Bảo tàng Hồ Chí Minh – Bến Nhà Rồng",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLenPb3nbil5gcUi4n7Ax3XLFqXFdRbsyMfctvE5EQqbMM2u9lLSPhpfitFzcrYSaKdUHuMoR-v8-dKFiCw-S3WVGZG0zvCRsOKv_-pe4hTE3dJdrLVWgQmeGpzqnTLkCAe6Sl_QU8g7yd8K=w32-h32-p-k-no",
+  "contributor": null,
+  "place_url": "https://maps.google.com/?cid=5579796624018008206",
+  "note": "maps h1: Bến Nhà Rồng - Bảo tàng Hồ Chí Minh"
+ },
+ {
+  "idx": 429,
+  "name": "Bảo tàng Tôn Đức Thắng",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfMHJc4mtvg3O6m-Xv2fV2pmGlsofdOMiYSMsIeWSzy2PjVnJutAHmAtCR-JMIPKKguT06fHwj5a1G0eq2NwwG6FcfqD-iOzbZvjzy9RXnXo-vIZMPb0rYvVuqufeLNRdc9ZdtRbcWvUco=w531-h240-k-no",
+  "contributor": null,
+  "place_url": "https://maps.google.com/?cid=5966514671023814338",
+  "note": "maps h1: Bảo tàng Tôn Đức Thắng"
+ },
+ {
+  "idx": 430,
+  "name": "Saigon Cooking Class",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLex4MAq2bbFtYXqqH7PqESsBKV8KoRH4PP-xNzoixCjKbzsl_H9pWUNt8QQQKHYeCef6K0nwTKO-JET5NEc_fY_X0OJ8pkd4VpPCgORMZUrP2OeO8hVhzGB9RHTaRGmIT18Jnkv=w408-h306-k-no",
+  "contributor": null,
+  "place_url": "https://maps.google.com/?cid=10571304853118776399",
+  "note": "maps h1: Saigon Cooking Class"
+ }
+]

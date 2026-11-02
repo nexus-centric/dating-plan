@@ -1,0 +1,97 @@
+{
+ "generated": "2026-10-26",
+ "located_items": 307,
+ "price_any": 270,
+ "price_couple_estimate": 265,
+ "by_confidence": {
+  "high": 34,
+  "medium": 191,
+  "low": 49,
+  "none": 33
+ },
+ "by_type": {
+  "food": {
+   "total": 114,
+   "priced": 108
+  },
+  "activity": {
+   "total": 193,
+   "priced": 157
+  }
+ },
+ "by_source": {
+  "user": {
+   "total": 3,
+   "priced": 3
+  },
+  "web": {
+   "total": 105,
+   "priced": 95
+  },
+  "bliss_home": {
+   "total": 199,
+   "priced": 167
+  }
+ },
+ "by_method": {
+  "web_research_2026-10-26": 129,
+  "earlier_research_structured": 56,
+  "free_entry": 29,
+  "none": 33,
+  "google_maps_price_range (Bliss Home scrape)": 60
+ },
+ "maps": {
+  "search": 105,
+  "direct": 202
+ },
+ "images": {
+  "photo": 21,
+  "none": 258,
+  "logo": 28
+ },
+ "new_items": 5,
+ "unpriced": [
+  "OZ Coffee House",
+  "Pergola Cafe",
+  "Châteraisé Lê Thánh Tôn",
+  "Printaphy Photobooth",
+  "Terrarium Le Jardin",
+  "Button Boardgames",
+  "Tiệm Tarot Lý Chính Thắng",
+  "Phòng trà Không Tên",
+  "Vibrate Stay",
+  "Alma Homestay",
+  "Space Home 3 - Huỳnh Khương Ninh",
+  "Là Home - Stay Cozy , Stay Home",
+  "Oh-hi Home",
+  "Peanut Homestay - Homestay Sài Gòn",
+  "DEY HOME - Hoa Lan",
+  "Q Home Thích Quảng Đức",
+  "HÔME nào staycation - CN 1",
+  "Do.Corner - Study & Working Space",
+  "JèwElm Jewelry Workshop",
+  "Tiệm Gội Nhà Xưn",
+  "Today - Gội đầu dưỡng sinh & Massage",
+  "Doojin Beauty Center",
+  "MayLi Nail - Scalp&Hair - Body Massage",
+  "MIA TOWN - Khu Vui Chơi, Bida, Gaming Đỉnh Cao Quận 10",
+  "Joy Station",
+  "Lava Planet Vincom Thảo Điền",
+  "FIVEX HOUSE",
+  "Hoko_fragrances",
+  "Bliss Photobooth",
+  "MonoBooth",
+  "Foto Hunter/ JULY ULIKE",
+  "QAN Photobooth",
+  "MIRAFILM PHOTOBOOTH - CN ĐINH TIÊN HOÀNG",
+  "Workshop Hub",
+  "The Joy Workshop",
+  "Véry Nice Bracelet",
+  "MYU MEMORIES - Trang Sức Phụ Kiện Italy",
+  "Tiệm Tranh Bắp Vẽ Workshop Thư Giãn tại Sunsetview Coffee",
+  "XOXO SAIGON - Workshop, Accessories, Custom",
+  "Art Vendors Studio",
+  "Bebop Saigon (wine bar + live jazz)",
+  "OM Eatery (chay cao cấp)"
+ ]
+}

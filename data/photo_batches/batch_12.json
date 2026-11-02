@@ -1,0 +1,32 @@
+[
+ {
+  "idx": 385,
+  "name": "Saigon Saigon Rooftop Bar (Caravelle)",
+  "address": "19-23 Lam Son Square, Sài Gòn, Hồ Chí Minh, Việt Nam",
+  "maps_url": "https://maps.google.com/?cid=15187712320163135816"
+ },
+ {
+  "idx": 390,
+  "name": "Superbowl Tân Sơn Nhất (bowling)",
+  "address": "A43 Trường Sơn, P.4, Tân Bình",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Superbowl%20T%C3%A2n%20S%C6%A1n%20Nh%E1%BA%A5t%20%28bowling%29%20A43%20Tr%C6%B0%E1%BB%9Dng%20S%C6%A1n%2C%20P.4%2C%20T%C3%A2n%20B%C3%ACnh%20TP.HCM"
+ },
+ {
+  "idx": 400,
+  "name": "Vườn Nhà Gốm",
+  "address": "301 Lê Quang Định, P.7, Bình Thạnh",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=V%C6%B0%E1%BB%9Dn%20Nh%C3%A0%20G%E1%BB%91m%20301%20L%C3%AA%20Quang%20%C4%90%E1%BB%8Bnh%2C%20P.7%2C%20B%C3%ACnh%20Th%E1%BA%A1nh%20TP.HCM"
+ },
+ {
+  "idx": 402,
+  "name": "The Candle Holic",
+  "address": "14 Đặng Dung, P. Tân Định, Q.1",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Candle%20Holic%2014%20%C4%90%E1%BA%B7ng%20Dung%2C%20P.%20T%C3%A2n%20%C4%90%E1%BB%8Bnh%2C%20Q.1%20TP.HCM"
+ },
+ {
+  "idx": 419,
+  "name": "Yuna Alaska Coffee (cafe chó)",
+  "address": "58 Nguyễn Gia Trí, Bình Thạnh",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Yuna%20Alaska%20Coffee%20%28cafe%20ch%C3%B3%29%2058%20Nguy%E1%BB%85n%20Gia%20Tr%C3%AD%2C%20B%C3%ACnh%20Th%E1%BA%A1nh%20TP.HCM"
+ }
+]

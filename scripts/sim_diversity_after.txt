@@ -1,0 +1,8 @@
+cafe 400-500k all        unique 64/120 (53%)  overlap-with-previous-press 0%  full-plan repeats within 10 presses: 0
+cafe 200-300k Q1         unique 22/120 (18%)  overlap-with-previous-press 40%  full-plan repeats within 10 presses: 0
+photobooth 400-500k PN   unique 26/120 (22%)  overlap-with-previous-press 9%  full-plan repeats within 10 presses: 0
+choi 600-700k TB         unique 28/120 (23%)  overlap-with-previous-press 25%  full-plan repeats within 10 presses: 0
+random 800-900k          unique 82/120 (68%)  overlap-with-previous-press 0%  full-plan repeats within 10 presses: 0
+deeptalk 400-500k Q3     unique 48/120 (40%)  overlap-with-previous-press 36%  full-plan repeats within 10 presses: 0
+cafe 400-500k Tân Phú    unique 36/120 (30%)  overlap-with-previous-press 36%  full-plan repeats within 10 presses: 0
+TOTAL unique ratio 36%  avg consecutive overlap 21%  repeats 0

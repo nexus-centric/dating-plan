@@ -1,0 +1,1256 @@
+[
+ {
+  "name": "HARUFILM Nguyễn Thái Học",
+  "type": "activity",
+  "category": "Photobooth date",
+  "district": "Quận 1",
+  "address": "165 Nguyễn Thái Học, P. Phạm Ngũ Lão, Quận 1",
+  "price_per_couple_vnd": 150000,
+  "price_note": "80.000–150.000đ/bộ 4 ảnh (theo nguồn, 1 lượt dùng chung 2 người; lấy mức cao)",
+  "opening_hours": null,
+  "mood_tags": [
+   "rẻ mà vui",
+   "kỷ niệm",
+   "năng động"
+  ],
+  "description_vi": "Photobooth thương hiệu Hàn, nổi bật buồng chụp Aquarium tông xanh. Chi nhánh khác: Gigamall Thủ Đức.",
+  "source_urls": [
+   "https://simpletech.vn/blogs/photobooth/7-dia-diem-chup-anh-photobooth-tai-sai-gon",
+   "https://1phutsaigon.vn/top-8-photobooth-chup-hinh-dep-o-sai-gon/"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "PHOTOBY Nguyễn Bỉnh Khiêm",
+  "type": "activity",
+  "category": "Photobooth date",
+  "district": "Quận 1",
+  "address": "113 Nguyễn Bỉnh Khiêm, P. Đa Kao, Quận 1",
+  "price_per_couple_vnd": 100000,
+  "price_note": "70.000–100.000đ/bộ (theo nguồn; 1 lượt cho 2 người)",
+  "opening_hours": "09:00–22:00",
+  "mood_tags": [
+   "rẻ mà vui",
+   "kỷ niệm",
+   "ngày mưa"
+  ],
+  "description_vi": "Photobooth kiểu Hàn kết hợp cafe, 4 phòng chụp, có bàn trang trí ảnh bằng sticker. Chi nhánh 2: 210 Nguyễn Khắc Nhu, Q1.",
+  "source_urls": [
+   "https://simpletech.vn/blogs/photobooth/7-dia-diem-chup-anh-photobooth-tai-sai-gon",
+   "https://kenh14.com/chup-photo-booth-cap-doi/"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "PHOTOBY Nguyễn Khắc Nhu",
+  "type": "activity",
+  "category": "Photobooth date",
+  "district": "Quận 1",
+  "address": "210 Nguyễn Khắc Nhu, P. Cô Giang, Quận 1",
+  "price_per_couple_vnd": 100000,
+  "price_note": "70.000–100.000đ/bộ (theo nguồn)",
+  "opening_hours": null,
+  "mood_tags": [
+   "rẻ mà vui",
+   "kỷ niệm"
+  ],
+  "description_vi": "Chi nhánh thứ hai của PHOTOBY, photobooth tự chụp phong cách Hàn.",
+  "source_urls": [
+   "https://simpletech.vn/blogs/photobooth/7-dia-diem-chup-anh-photobooth-tai-sai-gon"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "SAY CHEESE Nguyễn Trãi",
+  "type": "activity",
+  "category": "Photobooth date",
+  "district": "Quận 1",
+  "address": "38 Nguyễn Trãi, P. Bến Thành, Quận 1",
+  "price_per_couple_vnd": 100000,
+  "price_note": "Từ 60.000đ (2 ảnh nhỏ) đến 100.000đ (special) theo nguồn",
+  "opening_hours": "10:00–22:00",
+  "mood_tags": [
+   "rẻ mà vui",
+   "kỷ niệm",
+   "ngày mưa"
+  ],
+  "description_vi": "Studio selfie Hàn Quốc, cập nhật khung/phông hằng tháng, có QR tải ảnh. (Chi nhánh Tô Hiến Thành Q10 đã đóng.)",
+  "source_urls": [
+   "https://tripi.vn/blog/vi/xep-hang/4-studio-tu-chup-anh-dat-gia-nhat-sai-thanh-diem-check-in-khong-the-bo-qua-tripi",
+   "https://kenh14.com/chup-photo-booth-cap-doi/"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "PHOTO TIME Nguyễn Gia Trí",
+  "type": "activity",
+  "category": "Photobooth date",
+  "district": "Bình Thạnh",
+  "address": "39 Nguyễn Gia Trí (D2 cũ), P.25, Bình Thạnh",
+  "price_per_couple_vnd": 70000,
+  "price_note": "Phòng basic 70.000đ/2 tấm; high angle/VIP 80.000–110.000đ",
+  "opening_hours": "10:00–22:00",
+  "mood_tags": [
+   "rẻ mà vui",
+   "kỷ niệm"
+  ],
+  "description_vi": "Photobooth tông vintage, có Color Room và VIP Room với Hanbok, đồ thú. Chi nhánh khác: 234 Phan Xích Long (PN), 11 Sư Vạn Hạnh (Q10), Crescent Mall (Q7).",
+  "source_urls": [
+   "https://hcm.inhat.vn/photobooth-tphcm/",
+   "https://kenh14.com/photo-booth-binh-thanh/"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "PHOTO TIME Phú Nhuận",
+  "type": "activity",
+  "category": "Photobooth date",
+  "district": "Phú Nhuận",
+  "address": "234 Phan Xích Long, Phú Nhuận",
+  "price_per_couple_vnd": null,
+  "price_note": "Cùng chuỗi PHOTO TIME (basic từ 70.000đ/2 tấm ở chi nhánh D2); chưa có giá riêng chi nhánh",
+  "opening_hours": "09:00–23:00",
+  "mood_tags": [
+   "rẻ mà vui",
+   "kỷ niệm",
+   "đêm muộn"
+  ],
+  "description_vi": "Chi nhánh Phú Nhuận của PHOTO TIME, mở tới 23h.",
+  "source_urls": [
+   "https://exa.ai/library/places?q=f379c78b73814765"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "PHOTO TIME Sư Vạn Hạnh",
+  "type": "activity",
+  "category": "Photobooth date",
+  "district": "Quận 10",
+  "address": "11 Sư Vạn Hạnh, P.12, Quận 10",
+  "price_per_couple_vnd": 130000,
+  "price_note": "75.000–130.000đ cho 4–8 tấm (theo nguồn)",
+  "opening_hours": "10:00–22:00",
+  "mood_tags": [
+   "rẻ mà vui",
+   "kỷ niệm"
+  ],
+  "description_vi": "Nhiều phòng chụp riêng, hơn 10 bối cảnh từ vintage tới hiện đại.",
+  "source_urls": [
+   "https://hcm.inhat.vn/photobooth-quan-10/"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "PhotoYoyo",
+  "type": "activity",
+  "category": "Photobooth date",
+  "district": "Quận 10",
+  "address": "856 Sư Vạn Hạnh, P.13, Quận 10",
+  "price_per_couple_vnd": 110000,
+  "price_note": "65.000–110.000đ cho 4–6 tấm (theo nguồn)",
+  "opening_hours": "09:30–23:00",
+  "mood_tags": [
+   "rẻ mà vui",
+   "kỷ niệm",
+   "đêm muộn"
+  ],
+  "description_vi": "Photobooth phong cách Hàn tối giản, hơn 50 đạo cụ.",
+  "source_urls": [
+   "https://hcm.inhat.vn/photobooth-quan-10/"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Fun Studio Điện Biên Phủ",
+  "type": "activity",
+  "category": "Photobooth date",
+  "district": "Quận 10",
+  "address": "482 Điện Biên Phủ (ngã tư Cao Thắng), Quận 10",
+  "price_per_couple_vnd": 100000,
+  "price_note": "Gói cơ bản 100.000đ/2 ảnh; 130.000–200.000đ các gói khác (theo nguồn)",
+  "opening_hours": "10:00–22:00",
+  "mood_tags": [
+   "rẻ mà vui",
+   "kỷ niệm"
+  ],
+  "description_vi": "Photobooth phong cách industrial, có bối cảnh 3D.",
+  "source_urls": [
+   "https://hcm.inhat.vn/photobooth-quan-10/",
+   "https://funstudio.com.vn/"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Photo Story Cửu Long",
+  "type": "activity",
+  "category": "Photobooth date",
+  "district": "Quận 10",
+  "address": "57 Cửu Long, P.15, Quận 10",
+  "price_per_couple_vnd": 100000,
+  "price_note": "60.000–100.000đ cho 4–6 tấm (theo nguồn)",
+  "opening_hours": "09:00–22:00",
+  "mood_tags": [
+   "rẻ mà vui"
+  ],
+  "description_vi": "Photobooth concept minimalist, giá mềm.",
+  "source_urls": [
+   "https://hcm.inhat.vn/photobooth-quan-10/"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Flash Box Photobooth",
+  "type": "activity",
+  "category": "Photobooth date",
+  "district": "Bình Thạnh",
+  "address": "90 Lê Văn Duyệt, P.1, Bình Thạnh",
+  "price_per_couple_vnd": 70000,
+  "price_note": "Khoảng 70.000đ (theo nguồn)",
+  "opening_hours": "09:00–23:00",
+  "mood_tags": [
+   "rẻ mà vui",
+   "đêm muộn"
+  ],
+  "description_vi": "Photobooth tối giản, có khung 1 ảnh, 4 ảnh và polaroid.",
+  "source_urls": [
+   "https://kenh14.com/photo-booth-binh-thanh/"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Printaphy Photobooth",
+  "type": "activity",
+  "category": "Photobooth date",
+  "district": "Phú Nhuận",
+  "address": "1 Nguyễn Thị Huỳnh, P.8, Phú Nhuận",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "rẻ mà vui"
+  ],
+  "description_vi": "Photobooth in ảnh lấy liền (cũng cho thuê booth sự kiện).",
+  "source_urls": [
+   "https://hcm.inhat.vn/photobooth-tphcm/",
+   "http://www.printaphy.com/"
+  ],
+  "status": "uncertain",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Hachi Saigon – ảnh thẻ lấy liền",
+  "type": "activity",
+  "category": "Photobooth date",
+  "district": "Quận 1",
+  "address": "Lầu 1, chung cư 88 Lê Lợi, Quận 1",
+  "price_per_couple_vnd": null,
+  "price_note": "80.000đ/4 ảnh 4x6 + file mềm (mỗi người, theo review)",
+  "opening_hours": "T2–T6 09:00–18:00, T7 09:00–17:00, CN nghỉ",
+  "mood_tags": [
+   "rẻ mà vui",
+   "kỷ niệm"
+  ],
+  "description_vi": "Tiệm chụp ảnh thẻ chỉnh màu đẹp kiểu Hàn – vui để đôi bạn cùng 'nâng cấp' ảnh thẻ. Chỉ mở ban ngày.",
+  "source_urls": [
+   "https://exa.ai/library/places?q=07a3457680f81662"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Gạo Nâu Profile – ảnh thẻ/profile Hàn",
+  "type": "activity",
+  "category": "Photobooth date",
+  "district": "Quận 3",
+  "address": "351/45 Lê Văn Sỹ, Quận 3 (CN2: 436A/71 Đường 3/2, Quận 10)",
+  "price_per_couple_vnd": null,
+  "price_note": "Ảnh thẻ cơ bản từ 550.000đ, cao cấp 890.000đ (mỗi người, có makeup)",
+  "opening_hours": "08:00–20:00",
+  "mood_tags": [
+   "kỷ niệm",
+   "sang chảnh"
+  ],
+  "description_vi": "Studio ảnh thẻ/profile có trang điểm, lấy trong 60 phút.",
+  "source_urls": [
+   "https://gaonauprofile.com/chup-anh-the-tphcm/"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Fotopop Selfie Studio",
+  "type": "activity",
+  "category": "Photobooth date",
+  "district": "Quận 7",
+  "address": "Tầng 2, block C, Panorama, 212 Trần Văn Trà, Phú Mỹ Hưng, Quận 7",
+  "price_per_couple_vnd": 300000,
+  "price_note": "Khoảng 300.000đ cho 20 phút tự chụp + in ảnh (theo Thanh Niên)",
+  "opening_hours": null,
+  "mood_tags": [
+   "kỷ niệm",
+   "lãng mạn"
+  ],
+  "description_vi": "Self studio đầu tiên ở TP.HCM: tự bấm remote, chụp 20 phút, in ảnh mang về.",
+  "source_urls": [
+   "https://saigon-scene.com/vi/doi-tac/fotopop/",
+   "https://thanhnien.vn/selfie-studio-la-gi-ma-ai-cung-tim-den-de-song-ao-1851525620.htm"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "PHOTO TIME Crescent Mall",
+  "type": "activity",
+  "category": "Photobooth date",
+  "district": "Quận 7",
+  "address": "Tầng 5, 5F-18 Crescent Mall, Quận 7",
+  "price_per_couple_vnd": null,
+  "price_note": "Chuỗi PHOTO TIME, basic từ 70.000đ/2 tấm (chi nhánh D2)",
+  "opening_hours": null,
+  "mood_tags": [
+   "rẻ mà vui",
+   "ngày mưa"
+  ],
+  "description_vi": "Chi nhánh PHOTO TIME trong Crescent Mall – tiện kết hợp ăn tối, xem phim.",
+  "source_urls": [
+   "https://tripi.vn/blog/vi/xep-hang/4-studio-tu-chup-anh-dat-gia-nhat-sai-thanh-diem-check-in-khong-the-bo-qua-tripi"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Thương Xanh Film Store – chụp/tráng film",
+  "type": "activity",
+  "category": "chụp ảnh film",
+  "district": "Quận 1",
+  "address": "193/8 Nam Kỳ Khởi Nghĩa (theo nguồn tổng hợp)",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "kỷ niệm",
+   "chill"
+  ],
+  "description_vi": "Mua/thuê máy film, tráng scan film – mua cuộn film đi chụp cho nhau cả buổi hẹn.",
+  "source_urls": [
+   "https://exa.ai/library/places?q=e695a5e891e9a764"
+  ],
+  "status": "uncertain",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "NOTE – The Scent Lab (workshop nước hoa cặp đôi)",
+  "type": "activity",
+  "category": "workshop nước hoa",
+  "district": "Thảo Điền (TP Thủ Đức)",
+  "address": "34 Nguyễn Duy Hiệu, Thảo Điền",
+  "price_per_couple_vnd": 1100000,
+  "price_note": "Từ 550.000đ/người (theo nguồn) → từ 1.100.000đ/2 người; cần đặt lịch",
+  "opening_hours": null,
+  "mood_tags": [
+   "lãng mạn",
+   "kỷ niệm",
+   "ngày mưa"
+  ],
+  "description_vi": "Tự pha chế mùi hương riêng cho hai người.",
+  "source_urls": [
+   "https://workshops.thescentnote.com/workshop-nuoc-hoa-cap-doi/",
+   "https://www.saigontown.com/workshop-sai-gon-top-5-noi-trai-nghiem/"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Terrarium Le Jardin",
+  "type": "activity",
+  "category": "workshop terrarium",
+  "district": "Phú Nhuận",
+  "address": "37 Hoa Mai, Phú Nhuận",
+  "price_per_couple_vnd": null,
+  "price_note": "Giá không công bố; workshop khoảng 2 giờ",
+  "opening_hours": null,
+  "mood_tags": [
+   "chill",
+   "ngày mưa",
+   "kỷ niệm"
+  ],
+  "description_vi": "Workshop làm tiểu cảnh terrarium trong bình thuỷ tinh.",
+  "source_urls": [
+   "https://terrariumlejardin.com/workshop-cua-hang",
+   "https://www.elle.vn/trai-nghiem/workshop-handmade-danh-cho-cap-doi-ngay-cuoi-tuan/amp/"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Timeo Tuft Club (tufting len)",
+  "type": "activity",
+  "category": "workshop len",
+  "district": "Quận 1",
+  "address": "10F Nguyễn Thị Minh Khai, Quận 1",
+  "price_per_couple_vnd": 998000,
+  "price_note": "499.000–1.999.000đ/người (theo nguồn) → từ 998.000đ/2 người",
+  "opening_hours": null,
+  "mood_tags": [
+   "ngày mưa",
+   "năng động",
+   "kỷ niệm"
+  ],
+  "description_vi": "Tự bắn len (tufting) làm thảm/gương trang trí.",
+  "source_urls": [
+   "https://tripi.vn/blog/vi/kinh-nghiem-hay/kham-pha-nhung-workshop-tuyet-voi-tai-sai-gon-danh-cho-cac-cap-doi-trong-mua-valentine-tripi"
+  ],
+  "status": "uncertain",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Ddreamer (làm nhẫn bạc)",
+  "type": "activity",
+  "category": "workshop bạc",
+  "district": "Quận 3",
+  "address": "26/4 Đường số 3, Cư xá Đô Thành, Quận 3",
+  "price_per_couple_vnd": null,
+  "price_note": "Giá không công bố",
+  "opening_hours": null,
+  "mood_tags": [
+   "lãng mạn",
+   "kỷ niệm"
+  ],
+  "description_vi": "Tự làm nhẫn bạc đôi.",
+  "source_urls": [
+   "https://www.elle.vn/trai-nghiem/workshop-handmade-danh-cho-cap-doi-ngay-cuoi-tuan/amp/"
+  ],
+  "status": "uncertain",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Yoko Cafe (nhạc sống)",
+  "type": "food",
+  "category": "nhạc sống",
+  "district": "Quận 3",
+  "address": "22A Nguyễn Thị Diệu, Quận 3",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": "T3–T7 08:00–24:00, CN 16:00–24:00; nhạc sống khoảng 20:45, CN jazz",
+  "mood_tags": [
+   "chill",
+   "đêm muộn",
+   "lãng mạn"
+  ],
+  "description_vi": "Quán cafe/bar nhạc sống lâu đời, rock/pop/jazz.",
+  "source_urls": [
+   "https://diadiem247.com/tp-ho-chi-minh/yoko-cafe-ho-chi-minh-l367850.html"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Sax n' Art Jazz Club",
+  "type": "food",
+  "category": "nhạc sống",
+  "district": "Quận 1",
+  "address": "28 Lê Lợi, Quận 1",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": "18:00–24:00",
+  "mood_tags": [
+   "lãng mạn",
+   "sang chảnh",
+   "đêm muộn"
+  ],
+  "description_vi": "Jazz club nhỏ trên Lê Lợi, biểu diễn saxophone live.",
+  "source_urls": [
+   "https://1phutsaigon.vn/diem-ten-cac-quan-bar-acoustic-sai-gon-cuc-lang-man/"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Acoustic Bar Ngô Thời Nhiệm",
+  "type": "food",
+  "category": "nhạc sống",
+  "district": "Quận 3",
+  "address": "6E1 Ngô Thời Nhiệm, Quận 3",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": "19:00–24:00, nhạc từ khoảng 21:00",
+  "mood_tags": [
+   "chill",
+   "đêm muộn",
+   "năng động"
+  ],
+  "description_vi": "Bar nhạc acoustic/band live quen thuộc.",
+  "source_urls": [
+   "https://chillvietnam.com/acoustic-bar-ngo-thoi-nhiem-3/"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Sân khấu kịch IDECAF",
+  "type": "activity",
+  "category": "xem kịch",
+  "district": "Quận 1",
+  "address": "28 Lê Thánh Tôn, Quận 1",
+  "price_per_couple_vnd": 500000,
+  "price_note": "250.000–450.000đ/vé (tham khảo) → từ 500.000đ/2 người",
+  "opening_hours": "Theo lịch diễn (thường tối cuối tuần)",
+  "mood_tags": [
+   "kỷ niệm",
+   "ngày mưa",
+   "lãng mạn"
+  ],
+  "description_vi": "Sân khấu kịch nổi tiếng, nên đặt vé trước.",
+  "source_urls": [
+   "https://sankhauthiendang.vn/san-khau/idecaf/"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Sân khấu kịch Thiên Đăng",
+  "type": "activity",
+  "category": "xem kịch",
+  "district": "Quận 1",
+  "address": "Tầng 3 tòa IMC, 62 Trần Quang Khải, Quận 1",
+  "price_per_couple_vnd": 500000,
+  "price_note": "250.000–500.000đ/vé (tham khảo) → từ 500.000đ/2 người",
+  "opening_hours": "Theo lịch diễn",
+  "mood_tags": [
+   "kỷ niệm",
+   "ngày mưa"
+  ],
+  "description_vi": "Sân khấu kịch Thiên Đăng – kịch chính kịch/hài.",
+  "source_urls": [
+   "https://sankhauthiendang.vn/san-khau/thien-dang/"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Sân khấu kịch Hồng Vân",
+  "type": "activity",
+  "category": "xem kịch",
+  "district": "Quận 3",
+  "address": "643 Điện Biên Phủ, P.1, Quận 3",
+  "price_per_couple_vnd": null,
+  "price_note": "Giá vé chưa rõ, xem lịch diễn",
+  "opening_hours": "Theo lịch diễn",
+  "mood_tags": [
+   "kỷ niệm",
+   "ngày mưa"
+  ],
+  "description_vi": "Sân khấu kịch của NSND Hồng Vân.",
+  "source_urls": [
+   "https://kichhongvan.vn/lienhe.html"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "CGV L'amour (rạp giường nằm) Hoàng Văn Thụ",
+  "type": "activity",
+  "category": "rạp chiếu phim",
+  "district": "Tân Bình",
+  "address": "202 Hoàng Văn Thụ (CGV Hoàng Văn Thụ)",
+  "price_per_couple_vnd": null,
+  "price_note": "Khoảng 300.000–400.000đ (giá ưu đãi theo nguồn; tuỳ suất)",
+  "opening_hours": null,
+  "mood_tags": [
+   "lãng mạn",
+   "ngày mưa",
+   "sang chảnh"
+  ],
+  "description_vi": "Phòng chiếu giường nằm L'amour cho cặp đôi. Chi nhánh khác: CGV Crescent Mall Q7.",
+  "source_urls": [
+   "https://viettelstore.vn/tin-tuc/rap-lamour",
+   "https://www.cgv.vn/en/theaters-special"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "CineB Saigon (chiếu phim ngoài trời)",
+  "type": "activity",
+  "category": "rạp chiếu phim",
+  "district": "Quận 1",
+  "address": "01–03 Lê Công Kiều, Quận 1",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": "18:00–23:00 cuối tuần (theo nguồn)",
+  "mood_tags": [
+   "lãng mạn",
+   "chill",
+   "đêm muộn"
+  ],
+  "description_vi": "Chiếu phim không gian mở ở phố đồ cổ Lê Công Kiều.",
+  "source_urls": [
+   "https://www.cinemas10.com/VN/Ho-Chi-Minh-City/1160195834006324/CineB-Saigon"
+  ],
+  "status": "uncertain",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "The Factory Contemporary Arts Centre",
+  "type": "activity",
+  "category": "triển lãm nghệ thuật",
+  "district": "Thảo Điền (TP Thủ Đức)",
+  "address": "15 Nguyễn Ư Dĩ, Thảo Điền",
+  "price_per_couple_vnd": 160000,
+  "price_note": "80.000đ/người lớn (40.000đ SV) → 160.000đ/2 người",
+  "opening_hours": "T4–CN 10:00–19:00",
+  "mood_tags": [
+   "chill",
+   "ngày mưa",
+   "kỷ niệm"
+  ],
+  "description_vi": "Trung tâm nghệ thuật đương đại, triển lãm thay đổi theo mùa.",
+  "source_urls": [
+   "https://factoryartscentre.com/lien-he/"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Saigon Outcast (leo núi nhân tạo)",
+  "type": "activity",
+  "category": "leo núi",
+  "district": "Thảo Điền (TP Thủ Đức)",
+  "address": "188/1 Nguyễn Văn Hưởng, Thảo Điền",
+  "price_per_couple_vnd": 300000,
+  "price_note": "Leo núi 150.000–250.000đ/người/ngày → từ 300.000đ/2 người",
+  "opening_hours": null,
+  "mood_tags": [
+   "năng động",
+   "chill"
+  ],
+  "description_vi": "Tổ hợp vui chơi ngoài trời có tường leo núi nhân tạo, chợ phiên, sự kiện.",
+  "source_urls": [
+   "https://dibui.vn/saigon-outcast-khu-to-hop-vui-choi-o-sai-gon",
+   "https://digiticket.vn/blog/leo-nui-nhan-tao-quan-2/"
+  ],
+  "status": "uncertain",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Sân Pickleball 189/1 Cống Quỳnh",
+  "type": "activity",
+  "category": "pickleball",
+  "district": "Quận 1",
+  "address": "189/1 Cống Quỳnh, Quận 1",
+  "price_per_couple_vnd": 300000,
+  "price_note": "Thuê sân T2–T6 16–22h 300.000đ/giờ; 6–16h 150.000đ/giờ (theo nguồn)",
+  "opening_hours": "06:00–22:00",
+  "mood_tags": [
+   "năng động"
+  ],
+  "description_vi": "Thuê sân pickleball, có thể chơi đôi buổi tối.",
+  "source_urls": [
+   "https://pickleballplus.vn/san-tap/275"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "M.O.M Cooking Class",
+  "type": "activity",
+  "category": "lớp nấu ăn",
+  "district": "Quận 1",
+  "address": "119/2 Yersin, Quận 1",
+  "price_per_couple_vnd": null,
+  "price_note": "Khoảng 43,5 USD/người (theo byFood), gồm đi chợ + nấu 4 món, ~4 giờ",
+  "opening_hours": null,
+  "mood_tags": [
+   "kỷ niệm",
+   "năng động"
+  ],
+  "description_vi": "Lớp nấu món Việt kèm đi chợ.",
+  "source_urls": [
+   "https://www.byfood.com/experiences/m-o-m-cooking-class-in-saigon-with-local-market-22290"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Hoa Túc – lớp nấu ăn",
+  "type": "activity",
+  "category": "lớp nấu ăn",
+  "district": "Quận 1",
+  "address": "74/7 Hai Bà Trưng, Quận 1",
+  "price_per_couple_vnd": 700000,
+  "price_note": "350.000–990.000đ/người (theo nguồn) → từ 700.000đ/2 người",
+  "opening_hours": null,
+  "mood_tags": [
+   "kỷ niệm",
+   "lãng mạn"
+  ],
+  "description_vi": "Nhà hàng món Việt đương đại có lớp nấu ăn.",
+  "source_urls": [
+   "https://vnguide.vn/restaurant/hoa-tuc"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Board Game Station",
+  "type": "activity",
+  "category": "boardgame",
+  "district": "Quận 1",
+  "address": "30 Cô Bắc, Quận 1",
+  "price_per_couple_vnd": 100000,
+  "price_note": "50.000đ/người/5 giờ; 70.000đ/người kèm nước",
+  "opening_hours": null,
+  "mood_tags": [
+   "rẻ mà vui",
+   "ngày mưa",
+   "năng động"
+  ],
+  "description_vi": "Cafe boardgame nhiều trò, có nhân viên hướng dẫn.",
+  "source_urls": [
+   "https://boardgamecf.com/gia-ve-dich-vu-board-game-station-30-co-bac"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Button Boardgames",
+  "type": "activity",
+  "category": "boardgame",
+  "district": "Phú Nhuận",
+  "address": "48/60 Hồ Biểu Chánh, Phú Nhuận",
+  "price_per_couple_vnd": null,
+  "price_note": "Khoảng 100.000đ (theo nguồn, chưa rõ/người hay/bàn)",
+  "opening_hours": null,
+  "mood_tags": [
+   "rẻ mà vui",
+   "ngày mưa"
+  ],
+  "description_vi": "Quán boardgame yên tĩnh trong hẻm.",
+  "source_urls": [
+   "https://www.greensm.com/vn-vi/news/quan-cafe-board-game-tphcm"
+  ],
+  "status": "uncertain",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Méo Meo Cat Cafe",
+  "type": "activity",
+  "category": "cafe thú cưng",
+  "district": "Quận 1",
+  "address": "30 Phan Bội Châu, Quận 1",
+  "price_per_couple_vnd": 210000,
+  "price_note": "105.000đ/người T2–T5, 115.000đ T6–T7 (4 giờ, có đồ uống/snack)",
+  "opening_hours": null,
+  "mood_tags": [
+   "chill",
+   "ngày mưa",
+   "rẻ mà vui"
+  ],
+  "description_vi": "Cafe mèo: chơi với mèo, đồ uống không giới hạn trong 4 giờ.",
+  "source_urls": [
+   "https://www.meomeocafe.com.vn/our-services"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Bibli Library Café",
+  "type": "food",
+  "category": "cafe sách",
+  "district": "Quận 1",
+  "address": "42/5 Hồ Hảo Hớn, Quận 1",
+  "price_per_couple_vnd": null,
+  "price_note": "Đồ uống 40.000–65.000đ, món ăn 49.000–85.000đ/món",
+  "opening_hours": null,
+  "mood_tags": [
+   "chill",
+   "ngày mưa",
+   "lãng mạn"
+  ],
+  "description_vi": "Cafe thư viện phong cách Harry Potter, có Butter Beer.",
+  "source_urls": [
+   "https://919vn.com/column/experience-the-world-of-harry-potter-in-ho-chi-minh-city-introducing-bibli-library-cafe/"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Tiệm Tarot Lý Chính Thắng",
+  "type": "activity",
+  "category": "tarot",
+  "district": "Quận 3",
+  "address": "148/9 Lý Chính Thắng, Quận 3",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "chill",
+   "kỷ niệm"
+  ],
+  "description_vi": "Xem tarot vui cho hai người – giải trí là chính.",
+  "source_urls": [
+   "https://foodhunter.vn/quan-cafe-xem-tarot-o-sai-gon/"
+  ],
+  "status": "uncertain",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Wichita Tarot Cafe",
+  "type": "activity",
+  "category": "tarot",
+  "district": "Phú Nhuận",
+  "address": "41 Hoa Hồng, Phú Nhuận",
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "chill",
+   "ngày mưa"
+  ],
+  "description_vi": "Cafe có dịch vụ xem tarot.",
+  "source_urls": [
+   "https://foodhunter.vn/quan-cafe-xem-tarot-o-sai-gon/"
+  ],
+  "status": "uncertain",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Tour ẩm thực đêm bằng xe máy",
+  "type": "activity",
+  "category": "street food tour",
+  "district": "Quận 1",
+  "address": "Đón tại khách sạn khu trung tâm (đi Q1–Q4–Q10 tuỳ tour)",
+  "price_per_couple_vnd": null,
+  "price_note": "Từ ~39 USD/người hoặc gói 1.050.000đ tuỳ đơn vị (theo nguồn)",
+  "opening_hours": "Khởi hành khoảng 17:30, 3–4 giờ",
+  "mood_tags": [
+   "năng động",
+   "đêm muộn",
+   "kỷ niệm"
+  ],
+  "description_vi": "Ngồi sau xe máy của hướng dẫn viên đi ăn vặt nhiều quận.",
+  "source_urls": [
+   "https://www.vietbalotour.com/tour-an-vat-sai-gon",
+   "https://saigonadventuretours.com/tour/saigon-night-street-food-bike-tour/"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Tour xe đạp đêm Sài Gòn",
+  "type": "activity",
+  "category": "đạp xe đêm",
+  "district": "Quận 1",
+  "address": "Khởi hành khu trung tâm Q1 (theo đơn vị tour)",
+  "price_per_couple_vnd": null,
+  "price_note": "Khoảng 49–50 USD/người (theo nguồn)",
+  "opening_hours": "Buổi tối, 3–4 giờ",
+  "mood_tags": [
+   "năng động",
+   "lãng mạn",
+   "đêm muộn"
+  ],
+  "description_vi": "Đạp xe qua hẻm nhỏ, săn đồ ăn đường phố buổi tối.",
+  "source_urls": [
+   "https://jackfruitadventure.com/tour/saigon-foodie-night-ride/",
+   "https://outty.co/activities/saigon-night-bicycle-tour-hidden-alleys-street-food-hunt-375384p4"
+  ],
+  "status": "uncertain",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Nhà hàng tại gia",
+  "type": "idea",
+  "category": "idea",
+  "district": null,
+  "address": null,
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "lãng mạn",
+   "kỷ niệm",
+   "ngày mưa"
+  ],
+  "description_vi": "Một người lên menu, thắp nến, đóng vai phục vụ; người kia là thực khách. Đổi vai lần sau.",
+  "source_urls": [
+   "https://trylovely.app/games/at-home-date-night-ideas-for-couples",
+   "https://www.theknot.com/content/at-home-date-ideas"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Thi nấu với nguyên liệu bí mật",
+  "type": "idea",
+  "category": "idea",
+  "district": null,
+  "address": null,
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "năng động",
+   "rẻ mà vui"
+  ],
+  "description_vi": "Mỗi người mua 3 nguyên liệu bất ngờ cho đối phương, nấu trong 45 phút rồi chấm điểm.",
+  "source_urls": [
+   "https://trylovely.app/games/at-home-date-night-ideas-for-couples"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Lều chăn + đèn dây xem phim",
+  "type": "idea",
+  "category": "idea",
+  "district": null,
+  "address": null,
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "chill",
+   "ngày mưa",
+   "rẻ mà vui"
+  ],
+  "description_vi": "Dựng 'pháo đài' bằng chăn gối, đèn dây, bắp rang và một bộ phim cả hai chọn.",
+  "source_urls": [
+   "https://trylovely.app/games/at-home-date-night-ideas-for-couples",
+   "https://adeux.app/en/date-ideas/at-home"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Viết thư tay cho nhau",
+  "type": "idea",
+  "category": "idea",
+  "district": null,
+  "address": null,
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "lãng mạn",
+   "kỷ niệm"
+  ],
+  "description_vi": "Viết thư tay kể lại kỷ niệm đáng nhớ, đọc to cho nhau nghe.",
+  "source_urls": [
+   "https://trylovely.app/games/at-home-date-night-ideas-for-couples"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Playlist kỷ niệm",
+  "type": "idea",
+  "category": "idea",
+  "district": null,
+  "address": null,
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "chill",
+   "kỷ niệm",
+   "đêm muộn"
+  ],
+  "description_vi": "Cùng làm playlist những bài gắn với từng giai đoạn yêu nhau, kể chuyện đằng sau mỗi bài.",
+  "source_urls": [
+   "https://trylovely.app/games/at-home-date-night-ideas-for-couples",
+   "https://adeux.app/en/date-ideas/at-home"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Vẽ chân dung nhau",
+  "type": "idea",
+  "category": "idea",
+  "district": null,
+  "address": null,
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "rẻ mà vui",
+   "ngày mưa"
+  ],
+  "description_vi": "Vẽ chân dung đối phương trong 10 phút (càng xấu càng vui), đóng khung treo tường.",
+  "source_urls": [
+   "https://trylovely.app/games/at-home-date-night-ideas-for-couples",
+   "https://adeux.app/en/date-ideas/at-home"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Học nhảy theo video",
+  "type": "idea",
+  "category": "idea",
+  "district": null,
+  "address": null,
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "năng động",
+   "rẻ mà vui"
+  ],
+  "description_vi": "Chọn một điệu nhảy đôi trên YouTube/TikTok, tập và quay lại thành quả.",
+  "source_urls": [
+   "https://trylovely.app/games/at-home-date-night-ideas-for-couples",
+   "https://adeux.app/en/date-ideas/at-home"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Ghép puzzle/lego đôi",
+  "type": "idea",
+  "category": "idea",
+  "district": null,
+  "address": null,
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "chill",
+   "ngày mưa"
+  ],
+  "description_vi": "Mua một bộ puzzle 500 mảnh hoặc lego, vừa ráp vừa nói chuyện.",
+  "source_urls": [
+   "https://adeux.app/en/date-ideas/at-home"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Massage và skincare cho nhau",
+  "type": "idea",
+  "category": "idea",
+  "district": null,
+  "address": null,
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "lãng mạn",
+   "chill"
+  ],
+  "description_vi": "Bật nhạc thư giãn, đắp mặt nạ và massage cho nhau.",
+  "source_urls": [
+   "https://trylovely.app/games/at-home-date-night-ideas-for-couples",
+   "https://adeux.app/en/date-ideas/at-home"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Karaoke tại nhà",
+  "type": "idea",
+  "category": "idea",
+  "district": null,
+  "address": null,
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "năng động",
+   "rẻ mà vui",
+   "đêm muộn"
+  ],
+  "description_vi": "Mở karaoke YouTube, bốc thăm bài hát cho đối phương hát.",
+  "source_urls": [
+   "https://adeux.app/en/date-ideas/at-home"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Ngắm sao trên sân thượng",
+  "type": "idea",
+  "category": "idea",
+  "district": null,
+  "address": null,
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "lãng mạn",
+   "đêm muộn"
+  ],
+  "description_vi": "Mang thảm, đồ ăn vặt lên sân thượng, dùng app bản đồ sao tìm chòm sao.",
+  "source_urls": [
+   "https://trylovely.app/games/at-home-date-night-ideas-for-couples",
+   "https://adeux.app/en/date-ideas/at-home"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Bộ câu hỏi deep talk",
+  "type": "idea",
+  "category": "idea",
+  "district": null,
+  "address": null,
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "chill",
+   "kỷ niệm",
+   "đêm muộn"
+  ],
+  "description_vi": "Lần lượt trả lời bộ câu hỏi hiểu nhau (vd. 36 câu hỏi), tắt điện thoại.",
+  "source_urls": [
+   "https://www.theknot.com/content/at-home-date-ideas",
+   "https://mytour.vn/vi/blog/bai-viet/y-tuong-hen-ho-buoi-toi-trong-tuan.html"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ },
+ {
+  "name": "Game đôi trên console/điện thoại",
+  "type": "idea",
+  "category": "idea",
+  "district": null,
+  "address": null,
+  "price_per_couple_vnd": null,
+  "price_note": null,
+  "opening_hours": null,
+  "mood_tags": [
+   "năng động",
+   "ngày mưa"
+  ],
+  "description_vi": "Chơi game co-op như It Takes Two hoặc game đôi trên điện thoại.",
+  "source_urls": [
+   "https://trylovely.app/games/at-home-date-night-ideas-for-couples",
+   "https://adeux.app/en/date-ideas/at-home"
+  ],
+  "status": "likely_operating",
+  "source": "web",
+  "out_of_area": false,
+  "date_checked": "2026-10-25"
+ }
+]

@@ -1,0 +1,617 @@
+[
+ [
+  "unhide",
+  215,
+  "Công Viên Vui Chơi Thỏ Trắng"
+ ],
+ [
+  "unhide",
+  258,
+  "Life4cuts photobooth - 인생네컷 (Tân Phú)"
+ ],
+ [
+  "unhide",
+  271,
+  "Photo Objet Aeon Tân Phú( 포토 오브제 이온몰 떤푸)"
+ ],
+ [
+  "unhide",
+  273,
+  "PixelB Vintage Photobooth"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "restaurant",
+  "Izakaya Unatoto Phan Xích Long"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "cafe",
+  "Blanca Coffee & Tea"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "streetfood",
+  "Bún bò Huế O Xuân"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "cafe",
+  "Button Boardgames Coffee"
+ ],
+ [
+  "skip",
+  "The Rán Korea Phú Nhuận",
+  "QMWR+HQ2"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "streetfood",
+  "Mì Gia Duy Ký"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "restaurant",
+  "FAST SUSHI PHÚ NHUẬN CHI NHÁNH 1"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "restaurant",
+  "MoonGo Cầu Kiệu - Ẩm thực Hàn Quốc"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "restaurant",
+  "TIỆM LẨU 1996"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "restaurant",
+  "Chivago Phú Nhuận - Gà rán Hàn Quốc & Bia"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "restaurant",
+  "Nem nướng D'ran - Since 1968 - Phổ Quang"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "cafe",
+  "quiqui - our space"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "dessert",
+  "Dao Niu Guo Phan Xích Long"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "restaurant",
+  "Pizza Chất in Saigon"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "cafe",
+  "Garini Coffee and Tea"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "cafe",
+  "FaRída Check-in & Coffee"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "streetfood",
+  "Hủ Tiếu Nam Vang Nhất Phẩm"
+ ],
+ [
+  "skip",
+  "KING POUTINE",
+  "KING POUTINE"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "cafe",
+  "Tiệm trà tươi Trung Hoa Fujian"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "restaurant",
+  "An Yang Mì Gà Hàn Quốc Phan Xích Long"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "cafe",
+  "Sip & Soul Cafe"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "restaurant",
+  "Ốc Quậy Phú Nhuận"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "cafe",
+  "COCOCHA TEAHOUSE"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "streetfood",
+  "MalaJoy"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "streetfood",
+  "latẩm kitchen"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "restaurant",
+  "KOHAKU RAMEN & UDON - PHAN XÍCH LONG"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "dessert",
+  "Bake By T"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "dessert",
+  "The Flour Donut PXL"
+ ],
+ [
+  "skip",
+  "Bơ by Butterman",
+  "Bơ by Butterman"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "dessert",
+  "Baben Fresh Bakery - Phổ Quang"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "dessert",
+  "Bánh Pía Sóc Trăng Tân Bình - Hương Việt"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "restaurant",
+  "Kingbeef Steak & Pasta House"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "dessert",
+  "BreadTalk Menas Mall"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "streetfood",
+  "Tiệm Cháo Sườn HaBi"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "cafe",
+  "Cà Phê Muối Huế Cao Loan"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "streetfood",
+  "Bún Đậu Tràng An"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "cafe",
+  "Mướt Cháo Sườn Quẩy Giòn - Eat & Chill"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "restaurant",
+  "Sushi TO No3"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "cafe",
+  "Imago Coffee & Workshop"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "restaurant",
+  "Liu Shan Men Taiwan Hotpot Mini Tan Binh"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "restaurant",
+  "Tiệm Nướng NỌ"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "restaurant",
+  "Tiệm Nướng Nhà Bird"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "cafe",
+  "TRẠM HỌC MOCHI"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "restaurant",
+  "Izakaya Unatoto Tân Bình"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "restaurant",
+  "KFC Đường Đồng Đen TP Hồ Chí Minh"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "streetfood",
+  "Jollibee 268 Âu Cơ"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "streetfood",
+  "HỶ KÝ MÌ GIA"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "streetfood",
+  "PHỞ BÒ NGA - GẦN BỆNH VIỆN TÂN PHÚ"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "restaurant",
+  "RENGE RAMEN"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "restaurant",
+  "Nhà hàng Bếp Dì Toàn"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "cafe",
+  "FISA Kafé"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "dessert",
+  "Bánh Kem Hannie - Bánh Kem Tân Bình"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "cafe",
+  "Đồng Cafe - Bàu Cát"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "cafe",
+  "Tiệm Ở Đây Coffee - Tea & Cake"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "restaurant",
+  "Dao Niu Guo Lê Văn Sỹ"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "restaurant",
+  "Kohaku Udon & Ramen - LOTTE Mart Tân Bình"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "restaurant",
+  "북촌 한식당 공항점 (BUKCHON Korean Restaurant Tan Binh Branch)"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "cafe",
+  "Milligram Coffee and Food"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "dessert",
+  "Chè Tuyết"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "dessert",
+  "Chewy Chewy Tân Bình - CMT8"
+ ],
+ [
+  "skip",
+  "HYAKUMI RAMEN - Tây Thạnh",
+  "HYAKUMI RAMEN - Tây Thạnh"
+ ],
+ [
+  "add",
+  "Tân Phú",
+  "streetfood",
+  "Bún Quậy Hai Anh Em 16 - 18 Tân Quý"
+ ],
+ [
+  "add",
+  "Tân Phú",
+  "dessert",
+  "Tiệm bánh ANYCAKE"
+ ],
+ [
+  "add",
+  "Tân Phú",
+  "dessert",
+  "Tiệm Bánh An Cake"
+ ],
+ [
+  "add",
+  "Tân Phú",
+  "cafe",
+  "TH25 Coffee - Tân Phú - POKER Board Game"
+ ],
+ [
+  "add",
+  "Tân Phú",
+  "streetfood",
+  "ANH BAR - MÌ CAY & TRÀ TRÁI CÂY - LÊ NGÃ"
+ ],
+ [
+  "add",
+  "Tân Phú",
+  "restaurant",
+  "PANDA BBQ LÊ TRỌNG TẤN"
+ ],
+ [
+  "add",
+  "Tân Phú",
+  "streetfood",
+  "Mì Cay Sasin 123 Lê Trọng Tấn"
+ ],
+ [
+  "add",
+  "Tân Phú",
+  "cafe",
+  "Arli - Tea & Coffee"
+ ],
+ [
+  "add",
+  "Tân Phú",
+  "restaurant",
+  "Mikado Sushi Aeon Mall Tân Phú Celadon"
+ ],
+ [
+  "add",
+  "Tân Phú",
+  "streetfood",
+  "TACOS DELI"
+ ],
+ [
+  "add",
+  "Tân Phú",
+  "restaurant",
+  "Chả Cá Hàng Sơn Aeon Mall Tân Phú"
+ ],
+ [
+  "skip",
+  "Cháy GUME Nướng Ôm Lẩu",
+  "Cháy GUME Nướng Ôm Lẩu"
+ ],
+ [
+  "add",
+  "Tân Phú",
+  "restaurant",
+  "NÓ Nướng & Sốt"
+ ],
+ [
+  "add",
+  "Tân Phú",
+  "restaurant",
+  "KangNam Chicken - Gà Rán KangNam"
+ ],
+ [
+  "add",
+  "Tân Phú",
+  "restaurant",
+  "Ẩm Thực Trần - Celadon City"
+ ],
+ [
+  "add",
+  "Tân Phú",
+  "cafe",
+  "FOCUS SPACE - Cafe học tập & làm việc (CN Tân Phú)"
+ ],
+ [
+  "add",
+  "Tân Phú",
+  "restaurant",
+  "Ốc Na"
+ ],
+ [
+  "add",
+  "Tân Phú",
+  "restaurant",
+  "Bác 2 Voi: Gà Ủ Muối Đậm Vị - Tân Phú"
+ ],
+ [
+  "add",
+  "Tân Phú",
+  "restaurant",
+  "GoGi House Pandora Trường Chinh"
+ ],
+ [
+  "add",
+  "Tân Phú",
+  "cafe",
+  "Cafe 24H - Tiên Lãng Coffee CN 2"
+ ],
+ [
+  "add",
+  "Tân Phú",
+  "cafe",
+  "LANI COFFEE"
+ ],
+ [
+  "add",
+  "Tân Phú",
+  "cafe",
+  "W Station - Study & Chill Café"
+ ],
+ [
+  "add",
+  "Tân Phú",
+  "restaurant",
+  "K-Pub AEON MALL Tân Phú Celadon"
+ ],
+ [
+  "add",
+  "Tân Phú",
+  "cafe",
+  "MeetCha"
+ ],
+ [
+  "add",
+  "Tân Phú",
+  "restaurant",
+  "Buffet Góc Nướng BBQ - Tân Phú"
+ ],
+ [
+  "add",
+  "Tân Phú",
+  "cafe",
+  "Homebrew Café Tân Thắng -"
+ ],
+ [
+  "add",
+  "Tân Phú",
+  "dessert",
+  "Chè Bưởi Huỳnh Nga"
+ ],
+ [
+  "add",
+  "Tân Phú",
+  "dessert",
+  "Tiệm bánh TACOS HAPPY"
+ ],
+ [
+  "add",
+  "Tân Phú",
+  "dessert",
+  "Savouré Bakery & Café - Thoại Ngọc Hầu"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "workshop",
+  "Hiên Concept – workshop gốm"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "bar",
+  "Tiệm Bia Bọt – Rooftop Tân Bình"
+ ],
+ [
+  "add",
+  "Tân Phú",
+  "bar",
+  "MA BAE – Tap&Bar"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "game",
+  "Inside Xcape Room"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "game",
+  "Jinzo Escape Saigon"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "game",
+  "Spirit Escape (cơ sở 2)"
+ ],
+ [
+  "add",
+  "Tân Bình",
+  "photobooth",
+  "PHOTO TIME – Lotte Mart Tân Bình"
+ ],
+ [
+  "add",
+  "Tân Phú",
+  "photobooth",
+  "PHOTO TIME – AEON Mall Tân Phú"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "photobooth",
+  "Photoism Phú Nhuận"
+ ],
+ [
+  "add",
+  "Phú Nhuận",
+  "cinema",
+  "GenZ Cinema Phan Xích Long (phòng chiếu riêng)"
+ ]
+]

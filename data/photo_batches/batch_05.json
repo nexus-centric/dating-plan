@@ -1,0 +1,242 @@
+[
+ {
+  "idx": 287,
+  "name": "Dear Bar",
+  "address": "107f Trương Định, Xuân Hòa (Quận 3)",
+  "maps_url": "https://maps.google.com/?cid=2378759223162286272"
+ },
+ {
+  "idx": 288,
+  "name": "BỜM - Kitchen & Wine Bar",
+  "address": "24 Nguyễn Thị Nghĩa, Quận 1 (Quận 1)",
+  "maps_url": "https://maps.google.com/?cid=836618591257411385"
+ },
+ {
+  "idx": 289,
+  "name": "Đèn Dầu Thảo Điền",
+  "address": "19C Ngô Quang Huy, An Khánh (TP Thủ Đức (Q2 cũ))",
+  "maps_url": "https://maps.google.com/?cid=10014747013754599250"
+ },
+ {
+  "idx": 290,
+  "name": "Mr.Saigon - Mì Ý, Salad Sài Gòn - Lê Lai",
+  "address": "75 Đ. Lê Lai, Hạnh Thông (Gò Vấp)",
+  "maps_url": "https://maps.google.com/?cid=18345390020191431127"
+ },
+ {
+  "idx": 291,
+  "name": "Fenice - Cuisine & Bar",
+  "address": "688/46 Đ. Lê Đức Thọ, An Hội Đông (Gò Vấp)",
+  "maps_url": "https://maps.google.com/?cid=15586756056140073011"
+ },
+ {
+  "idx": 292,
+  "name": "Mạch Saigon",
+  "address": "75/1 Mai Thị Lựu, Ward, Tân Định (Quận 1)",
+  "maps_url": "https://maps.google.com/?cid=14959707225316052550"
+ },
+ {
+  "idx": 293,
+  "name": "Matsuri Japanese Restaurant - Vincom Center Landmark 81",
+  "address": "Vincom Center Landmark, 81 772 Điện Biên Phủ, Vinhomes Tân Cảng, Thạnh Mỹ Tây (Bình Thạnh)",
+  "maps_url": "https://maps.google.com/?cid=12687578907184847249"
+ },
+ {
+  "idx": 294,
+  "name": "Apero Bistro & Bar",
+  "address": "45 Nguyễn Duy Hiệu, An Khánh (TP Thủ Đức (Q2 cũ))",
+  "maps_url": "https://maps.google.com/?cid=15395378955149592825"
+ },
+ {
+  "idx": 295,
+  "name": "Én’s Kitchen- Italian Cuisine & more",
+  "address": "109/11 Nguyễn Bỉnh Khiêm, Tân Định (Quận 1)",
+  "maps_url": "https://maps.google.com/?cid=9296704098185562656"
+ },
+ {
+  "idx": 297,
+  "name": "NOIRE Dining & Cafe - Phạm Ngọc Thạch",
+  "address": "1Bis Phạm Ngọc Thạch, Sài Gòn (Quận 1)",
+  "maps_url": "https://maps.google.com/?cid=15399171321270558361"
+ },
+ {
+  "idx": 298,
+  "name": "GLAMISQUE - Fusion Dining",
+  "address": "59 - 59B Nguyễn Hữu Cầu, Tân Định (Quận 1)",
+  "maps_url": "https://maps.google.com/?cid=17170652856801171958"
+ },
+ {
+  "idx": 299,
+  "name": "Trạm Hầm Quận 3",
+  "address": "540/17 Cách Mạng Tháng Tám, Nhiêu Lộc (Quận 3)",
+  "maps_url": "https://maps.google.com/?cid=17233405473500960878"
+ },
+ {
+  "idx": 300,
+  "name": "CHIIK Steak & Pasta Thảo Điền",
+  "address": "07 Đ. Đỗ Quang, An Khánh (TP Thủ Đức (Q2 cũ))",
+  "maps_url": "https://maps.google.com/?cid=15826299511284551122"
+ },
+ {
+  "idx": 301,
+  "name": "Le Monde Steak, Nguyễn Thị Minh Khai",
+  "address": "11H Nguyễn Thị Minh Khai, Sài Gòn (Quận 1)",
+  "maps_url": "https://maps.google.com/?cid=698686859458746675"
+ },
+ {
+  "idx": 302,
+  "name": "Calóre Coffee & Eatery",
+  "address": "769/1 Cách Mạng Tháng Tám, Tân Hòa (Tân Bình)",
+  "maps_url": "https://maps.google.com/?cid=2602636969669274400"
+ },
+ {
+  "idx": 303,
+  "name": "Livannah - Sips & Bites Thảo Điền",
+  "address": "12 Nguyễn Ư Dĩ, An Khánh (TP Thủ Đức (Q2 cũ))",
+  "maps_url": "https://maps.google.com/?cid=11212778547773392000"
+ },
+ {
+  "idx": 304,
+  "name": "Chamie Steak",
+  "address": "770B Sư Vạn Hạnh, Hòa Hưng (Quận 10)",
+  "maps_url": "https://maps.google.com/?cid=4428804828236072666"
+ },
+ {
+  "idx": 306,
+  "name": "Yeshi Taiwanese Fusion",
+  "address": "1F 16 Thảo Điền, An Khánh (TP Thủ Đức (Q2 cũ))",
+  "maps_url": "https://maps.google.com/?cid=7720365190874347052"
+ },
+ {
+  "idx": 307,
+  "name": "Gabi's Corner",
+  "address": "702/76 Điện Biên Phủ, Vườn Lài (Quận 10)",
+  "maps_url": "https://maps.google.com/?cid=16067774961846500752"
+ },
+ {
+  "idx": 308,
+  "name": "Workshop Hub",
+  "address": "6 Lê Văn Miến, An Khánh (TP Thủ Đức (Q2 cũ))",
+  "maps_url": "https://maps.google.com/?cid=1891703473409843252"
+ },
+ {
+  "idx": 309,
+  "name": "The Joy Workshop",
+  "address": "39/5 Hoàng Dư Khương, Hòa Hưng (Quận 10)",
+  "maps_url": "https://maps.google.com/?cid=15307891693303714970"
+ },
+ {
+  "idx": 310,
+  "name": "Another Saigon by LG",
+  "address": "96 Mạc Thị Bưởi, Sài Gòn (Quận 1)",
+  "maps_url": "https://maps.google.com/?cid=11632347301854382662"
+ },
+ {
+  "idx": 311,
+  "name": "Véry Nice Bracelet",
+  "address": "37/10 Đinh Công Tráng, Tân Định (Quận 1)",
+  "maps_url": "https://maps.google.com/?cid=13629466097535387659"
+ },
+ {
+  "idx": 312,
+  "name": "Hiên Concept",
+  "address": "26 Bá Tòng, Bảy Hiền (Tân Bình)",
+  "maps_url": "https://maps.google.com/?cid=9201637827315729830"
+ },
+ {
+  "idx": 313,
+  "name": "Workshop Làm Bánh-IdiM DIY Bakery (Phú Mỹ Hưng) 自己做烘培俱樂部",
+  "address": "22 Raymondienne, Khu đô thị Phú Mỹ Hưng, Tân Mỹ (Quận 7)",
+  "maps_url": "https://maps.google.com/?cid=14532866850236077185"
+ },
+ {
+  "idx": 314,
+  "name": "MYU MEMORIES - Trang Sức Phụ Kiện Italy",
+  "address": "The Box Icon, 22 Đ. Trần Huy Liệu, Phú Nhuận (Phú Nhuận)",
+  "maps_url": "https://maps.google.com/?cid=3589678750324716460"
+ },
+ {
+  "idx": 315,
+  "name": "Tiệm Tranh Bắp Vẽ Workshop Thư Giãn tại Sunsetview Coffee",
+  "address": "353/7a Bình Quới (Bình Thạnh)",
+  "maps_url": "https://maps.google.com/?cid=4843187519958327835"
+ },
+ {
+  "idx": 316,
+  "name": "XOXO SAIGON - Workshop, Accessories, Custom",
+  "address": "47L Đ. số 11, Gia Định (Bình Thạnh)",
+  "maps_url": "https://maps.google.com/?cid=14534545580668960162"
+ },
+ {
+  "idx": 317,
+  "name": "Tía Tô Artbook",
+  "address": "chung cư 14, Tôn Thất Đạm, Sài Gòn (Quận 1)",
+  "maps_url": "https://maps.google.com/?cid=3428837490935868958"
+ },
+ {
+  "idx": 318,
+  "name": "CHUCKY BEETLE INDUSTRY",
+  "address": "525/9 Quang Trung, Gò Vấp (Gò Vấp)",
+  "maps_url": "https://maps.google.com/?cid=6204892324642994380"
+ },
+ {
+  "idx": 320,
+  "name": "Art Vendors Studio",
+  "address": "443/6 Đ. Lê Văn Sỹ, Nhiêu Lộc (Quận 3)",
+  "maps_url": "https://maps.google.com/?cid=11109671393023194084"
+ },
+ {
+  "idx": 3,
+  "name": "Momento Rooftop (trước đây Cocoon Rooftop)",
+  "address": "Tầng 8, 105 Cô Giang, Q.1",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Momento%20Rooftop%20T%E1%BA%A7ng%208%2C%20105%20C%C3%B4%20Giang%2C%20Q.1%20TP.HCM"
+ },
+ {
+  "idx": 4,
+  "name": "Chill Skybar (AB Tower)",
+  "address": "Tầng 76, AB Tower, 2 Hải Triều, Q.1 (theo nguồn)",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Chill%20Skybar%20T%E1%BA%A7ng%2076%2C%20AB%20Tower%2C%202%20H%E1%BA%A3i%20Tri%E1%BB%81u%2C%20Q.1%20%28theo%20ngu%E1%BB%93n%29%20TP.HCM"
+ },
+ {
+  "idx": 5,
+  "name": "Rooftop Grand Lounge (Hotel Grand Saigon)",
+  "address": "8 Đồng Khởi, Q.1",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Rooftop%20Grand%20Lounge%208%20%C4%90%E1%BB%93ng%20Kh%E1%BB%9Fi%2C%20Q.1%20TP.HCM"
+ },
+ {
+  "idx": 6,
+  "name": "Bar57",
+  "address": "57 Nguyễn Du, Q.1",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar57%2057%20Nguy%E1%BB%85n%20Du%2C%20Q.1%20TP.HCM"
+ },
+ {
+  "idx": 8,
+  "name": "Cork and Bottle",
+  "address": "7 Thái Văn Lung, Q.1",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Cork%20and%20Bottle%207%20Th%C3%A1i%20V%C4%83n%20Lung%2C%20Q.1%20TP.HCM"
+ },
+ {
+  "idx": 9,
+  "name": "CỘI",
+  "address": "77–79 Lý Tự Trọng, Q.1",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=C%E1%BB%98I%2077%E2%80%9379%20L%C3%BD%20T%E1%BB%B1%20Tr%E1%BB%8Dng%2C%20Q.1%20TP.HCM"
+ },
+ {
+  "idx": 10,
+  "name": "Trên Tầng Thượng",
+  "address": "540/19 Cách Mạng Tháng Tám, P.11, Q.3",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Tr%C3%AAn%20T%E1%BA%A7ng%20Th%C6%B0%E1%BB%A3ng%20540/19%20C%C3%A1ch%20M%E1%BA%A1ng%20Th%C3%A1ng%20T%C3%A1m%2C%20P.11%2C%20Q.3%20TP.HCM"
+ },
+ {
+  "idx": 11,
+  "name": "3Đ Chill Cafe",
+  "address": "120/4 Trần Quốc Thảo, P.14, Q.3",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=3%C4%90%20Chill%20Cafe%20120/4%20Tr%E1%BA%A7n%20Qu%E1%BB%91c%20Th%E1%BA%A3o%2C%20P.14%2C%20Q.3%20TP.HCM"
+ },
+ {
+  "idx": 12,
+  "name": "OZ Coffee House",
+  "address": "CS: 207/31 Lê Văn Sỹ Q.3; 30 Huỳnh Tịnh Của Q.3; 273/46 Nguyễn Văn Đậu Bình Thạnh",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=OZ%20Coffee%20House%20CS%3A%20207/31%20L%C3%AA%20V%C4%83n%20S%E1%BB%B9%20Q.3%3B%2030%20Hu%E1%BB%B3nh%20T%E1%BB%8Bnh%20C%E1%BB%A7a%20Q.3%3B%20273/46%20Nguy%E1%BB%85n%20V%C4%83n%20%C4%90%E1%BA%ADu%20B%C3%ACnh%20Th%E1%BA%A1nh%20TP.HCM"
+ }
+]

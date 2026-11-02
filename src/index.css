@@ -1,0 +1,79 @@
+@tailwind base; @tailwind components; @tailwind utilities;
+:root { --ink: #1e232c; --line: rgba(30,35,44,.09); }
+body { @apply min-h-screen antialiased; color: var(--ink); background-color: #fdf8f9; font-family: "Be Vietnam Pro", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; letter-spacing: -.005em; }
+h1, h2, h3 { letter-spacing: -.015em; }
+.eyebrow { @apply text-[11px] font-medium uppercase tracking-[.18em] text-blush-700; }
+.chip { @apply px-3.5 py-1.5 rounded-full text-[13px] font-medium transition-all duration-200 select-none whitespace-nowrap active:scale-[.97]; border: 1px solid var(--line); }
+.chip-off { @apply bg-white text-slate-700 hover:border-blush-300 hover:text-blush-800; }
+.chip-on { @apply bg-blush-100 border-blush-300 text-blush-800; box-shadow: 0 1px 2px rgba(215,69,98,.12); }
+.chip-on.mint { @apply bg-mint-50 border-mint-300 text-mint-800; box-shadow: 0 1px 2px rgba(33,138,99,.12); }
+.card { @apply bg-white rounded-[22px]; border: 1px solid var(--line); box-shadow: 0 1px 3px rgba(0,0,0,.04); }
+.card.mint-shadow { border-color: rgba(33,138,99,.18); }
+.card-hover { transition: transform .25s ease, box-shadow .25s ease; }
+.card-hover:hover { transform: translateY(-2px); box-shadow: 0 8px 24px -12px rgba(30,35,44,.18); }
+.btn { @apply rounded-full px-4 py-2 text-sm font-medium transition-all duration-200 active:scale-[.97]; }
+.btn-pop { box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+.btn-pop:hover { box-shadow: 0 4px 14px -6px rgba(179,54,79,.45); }
+.btn-primary { @apply bg-blush-700 text-white hover:bg-blush-800; }
+.sticker { @apply inline-block px-2 py-0.5 rounded-full text-[11px] font-medium; border: 1px solid rgba(33,138,99,.25); }
+.hl { color: inherit; }
+@keyframes wiggle { 0%,100% { transform: scale(1.1) } 40% { transform: scale(1.3) } }
+.wiggle { animation: wiggle .35s ease-out; transform: scale(1.1); }
+
+/* ---- motion & responsive layer ---- */
+html { scroll-behavior: smooth; }
+body { overflow-x: clip; }
+:focus-visible { outline: 2px solid #b3364f; outline-offset: 2px; border-radius: 9999px; }
+.card:focus-visible, input:focus-visible, textarea:focus-visible { border-radius: inherit; }
+.chip { transition-property: background-color, border-color, color, box-shadow, transform; }
+.chip-on { transform: scale(1.03); }
+.chip-on:active { transform: scale(.97); }
+.btn:active { transform: scale(.97); }
+/* scroll reveal (opacity/transform only → no layout shift) */
+.rv { opacity: 0; transform: translateY(14px); transition: opacity .5s cubic-bezier(.2,.7,.2,1), transform .5s cubic-bezier(.2,.7,.2,1), box-shadow .25s; }
+.rv.in { opacity: 1; transform: none; }
+.rv.in.card-hover:hover { transform: translateY(-2px); }
+/* tab switch */
+@keyframes tabIn { from { opacity: 0; transform: translateY(8px) } to { opacity: 1; transform: none } }
+.tab-in { animation: tabIn .35s cubic-bezier(.2,.7,.2,1) both; }
+::view-transition-old(root) { animation: vtOut .18s ease both; }
+::view-transition-new(root) { animation: vtIn .3s cubic-bezier(.2,.7,.2,1) both; }
+@keyframes vtOut { to { opacity: 0 } }
+@keyframes vtIn { from { opacity: 0 } }
+/* image skeleton: solid colour opacity pulse, then fade-in */
+@keyframes pulseSoft { 0%,100% { opacity: 1 } 50% { opacity: .55 } }
+.skeleton { animation: pulseSoft 1.4s ease-in-out infinite; }
+.img-fade { transition: opacity .45s ease; }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .rv { opacity: 1 !important; transform: none !important; }
+  .chip-on { transform: none; }
+  ::view-transition-old(root), ::view-transition-new(root) { animation: none !important; }
+}
+
+/* ---- DSH-style cloud background (solid blurred blobs, solid fills only) ---- */
+body { background-color: #fbf1f4; }
+.clouds { position: fixed; inset: 0; z-index: -1; overflow: hidden; pointer-events: none; }
+.blob { position: absolute; border-radius: 50%; filter: blur(90px); will-change: transform; animation: drift 38s ease-in-out infinite alternate; }
+.b1 { width: 62vw; height: 52vw; left: -16vw; top: -18vw; background: #f6b4bf; opacity: .75; }
+.b2 { width: 50vw; height: 44vw; right: -14vw; top: 6vh; background: #84d4b2; opacity: .72; animation-duration: 46s; animation-delay: -12s; }
+.b3 { width: 58vw; height: 48vw; left: 18vw; top: 52vh; background: #f9d3da; opacity: .9; animation-duration: 52s; animation-delay: -20s; }
+.b4 { width: 46vw; height: 40vw; left: -10vw; bottom: -12vh; background: #84d4b2; opacity: .55; animation-duration: 44s; animation-delay: -6s; }
+.b5 { width: 34vw; height: 30vw; right: 4vw; bottom: -12vh; background: #f4899c; opacity: .35; animation-duration: 58s; animation-delay: -30s; }
+@media (max-width: 639px) {
+  .blob { filter: blur(60px); animation-duration: 60s; }
+  .b1 { width: 120vw; height: 90vw; left: -40vw; top: -30vw; }
+  .b2 { width: 90vw; height: 80vw; right: -45vw; top: 30vh; }
+  .b3 { width: 110vw; height: 90vw; left: -20vw; top: 70vh; }
+  .b4 { width: 90vw; height: 80vw; left: -40vw; bottom: -20vh; }
+}
+@keyframes drift { 0% { transform: translate3d(0,0,0) scale(1) } 50% { transform: translate3d(4vw,3vh,0) scale(1.08) } 100% { transform: translate3d(-3vw,5vh,0) scale(.96) } }
+/* frosted surfaces */
+.card { background-color: rgba(255,255,255,.72); -webkit-backdrop-filter: blur(18px) saturate(1.2); backdrop-filter: blur(18px) saturate(1.2); border-color: rgba(255,255,255,.75); box-shadow: 0 1px 3px rgba(30,35,44,.05), 0 12px 32px -18px rgba(30,35,44,.18); }
+.card.mint-shadow { border-color: rgba(255,255,255,.75); }
+.chip-off { background-color: rgba(255,255,255,.6); }
+.win-bar { border-bottom: 1px solid rgba(30,35,44,.06); background-color: rgba(255,255,255,.45); border-radius: 22px 22px 0 0; }
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation: none !important; transition: none !important; } }
+
+/* Perf: list cards skip backdrop-filter (one GPU layer per card x ~400 crashed mobile tabs); offscreen cards skip render. */
+.card.card-hover { -webkit-backdrop-filter: none; backdrop-filter: none; background-color: rgba(255,255,255,.88); content-visibility: auto; contain-intrinsic-size: auto 420px; }

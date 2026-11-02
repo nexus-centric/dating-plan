@@ -1,0 +1,52 @@
+[
+ {
+  "idx": 13,
+  "name": "Oromia Coffee & Lounge",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfWA58CbmILJPvtQ6i-wh1fGvFrEqSYqZFhWnjR9OY5AqAZbBndlhzttJxYFcX6QTQEcUu68Obs3K6mIEN20j--5eWu4H7G-tk6z6SI1LkPC3vsuroPVMpBfghMaLFckUPMGB7M=w408-h271-k-no",
+  "contributor": null,
+  "place_url": "https://www.google.com/maps/place/Oromia+Coffee+%26+Lounge/@10.7906677,106.6983617,17z/data=!3m1!4b1!4m6!3m5!1s0x317529d17a01d24f:0xba30a4f3588755bf!8m2!3d10.7906677!4d106.6983617!16s%2Fg%2F11rylp49k3",
+  "note": "interior",
+  "maps_name": "Oromia Coffee & Lounge"
+ },
+ {
+  "idx": 24,
+  "name": "The Butcher Shop & Grill",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfy69ZrWTZMEeXKGpImtSQ0DF1rByqUN5D95w6GUKO-EU698rtl7Rn4T_ZOnutn82h_D09-onXmATWW1lkXXreOCxfFxo34yxbw8tV0UMD5Q8Aw4OlZSwtonat-0R9mV2n7740p=w408-h544-k-no",
+  "contributor": null,
+  "place_url": "https://www.google.com/maps/place/The+Butcher+Shop+%26+Grill/@10.8038924,106.73606,17z/data=!3m1!4b1!4m6!3m5!1s0x317526174e148e79:0x5d4bcb45252e1d84!8m2!3d10.8038924!4d106.73606!16s%2Fg%2F11h414hqzw",
+  "note": "storefront; Maps addr 108C Xuân Thủy",
+  "maps_name": "The Butcher Shop & Grill"
+ },
+ {
+  "idx": 67,
+  "name": "PhotoYoyo",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdy_u76Zf73-niWNdD7okvR6mp2oxnGkdTbwDkcDOiOAvWssrebY4NOblRp16g7ptY_DOeTppyj_AX9Ed9a8ThO0QRKMf00pWW9ERSG70VczvFK0qIfHmSbInNyP2a_czpVzhYBVLWi5MCC=w408-h489-k-no",
+  "contributor": null,
+  "place_url": "https://www.google.com/maps/place/PhotoYoyo/@10.777666,106.6658674,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f64dff817e3:0xac0a3635f829cb44!8m2!3d10.777666!4d106.6658674!16s%2Fg%2F11x27m_d6m",
+  "note": "",
+  "maps_name": "PhotoYoyo"
+ },
+ {
+  "idx": 74,
+  "name": "Fotopop Selfie Studio",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdmc_87X5-lkhgKQuNA_gO_F9BuzS9X0JrkHLutGLXtQ_n9coyvXJSvqE7eOWxNx53ZP0-JODrSUz-Cz9V7qBoxtAnjv2aUEU4gtSBqOSbpRp31qNVHTH4YSY-7yoSMk-mhXizh5846Tphm=w408-h612-k-no",
+  "contributor": null,
+  "place_url": "https://www.google.com/maps/place/Fotopop+Photo+Booth+%26+Selfie+Studio/@10.765924,106.7047441,17z/data=!3m1!4b1!4m6!3m5!1s0x31752fa518d3c35d:0x8f800745ec7aa1!8m2!3d10.765924!4d106.7047441!16s%2Fg%2F11qb882fvd",
+  "note": "",
+  "maps_name": "Fotopop Photo Booth & Selfie Studio"
+ },
+ {
+  "idx": 82,
+  "name": "Sax n' Art Jazz Club",
+  "status": "ok",
+  "image_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeyFTLx6ax42AHOP34osSl_s50v_ELZNEQc3b14n00WhGRZhCqmR4FfLyIPrzekrRlha9Tcm1G5hdsUsSHYIHamOn9-UgsLJQdXlaEESwIKvqMdmCQmIV6g8rcHqWCoUljXIcK7MNJ121YC=w408-h272-k-no",
+  "contributor": null,
+  "place_url": "https://www.google.com/maps/place/Saxn'Art+Club/@10.8163193,106.7297275,17z/data=!3m1!4b1!4m6!3m5!1s0x31752725630b16a3:0x44b57b321c71c31!8m2!3d10.8163193!4d106.7297275!16s%2Fg%2F11y1_2g035",
+  "note": "BB4 188 Nguyễn Văn Hưởng",
+  "maps_name": "Saxn'Art Club"
+ }
+]

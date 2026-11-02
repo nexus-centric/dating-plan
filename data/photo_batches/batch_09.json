@@ -1,0 +1,164 @@
+[
+ {
+  "idx": 326,
+  "name": "GENZ Cinema Tân Bình (phòng chiếu phim riêng)",
+  "address": "419 Nguyễn Thái Bình, P.12, Tân Bình",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=GENZ%20Cinema%20T%C3%A2n%20B%C3%ACnh%20%28ph%C3%B2ng%20chi%E1%BA%BFu%20phim%20ri%C3%AAng%29%20419%20Nguy%E1%BB%85n%20Th%C3%A1i%20B%C3%ACnh%2C%20P.12%2C%20T%C3%A2n%20B%C3%ACnh"
+ },
+ {
+  "idx": 327,
+  "name": "Rạp Xiếc Công viên Gia Định",
+  "address": "3 Hoàng Minh Giám, P.3, Gò Vấp",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=R%E1%BA%A1p%20Xi%E1%BA%BFc%20C%C3%B4ng%20vi%C3%AAn%20Gia%20%C4%90%E1%BB%8Bnh%203%20Ho%C3%A0ng%20Minh%20Gi%C3%A1m%2C%20P.3%2C%20G%C3%B2%20V%E1%BA%A5p"
+ },
+ {
+  "idx": 328,
+  "name": "Công viên Sáng Tạo Thủ Thiêm (Creative Park)",
+  "address": "33 Lương Định Của, Thủ Thiêm, TP Thủ Đức",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=C%C3%B4ng%20vi%C3%AAn%20S%C3%A1ng%20T%E1%BA%A1o%20Th%E1%BB%A7%20Thi%C3%AAm%20%28Creative%20Park%29%2033%20L%C6%B0%C6%A1ng%20%C4%90%E1%BB%8Bnh%20C%E1%BB%A7a%2C%20Th%E1%BB%A7%20Thi%C3%AAm%2C%20TP%20Th%E1%BB%A7%20%C4%90%E1%BB%A9c"
+ },
+ {
+  "idx": 329,
+  "name": "Xéooo Nhật Tảo – Pizza & Pasta",
+  "address": "137 Nhật Tảo, P.8, Quận 10",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=X%C3%A9ooo%20Nh%E1%BA%ADt%20T%E1%BA%A3o%20%E2%80%93%20Pizza%20%26%20Pasta%20137%20Nh%E1%BA%ADt%20T%E1%BA%A3o%2C%20P.8%2C%20Qu%E1%BA%ADn%2010"
+ },
+ {
+  "idx": 330,
+  "name": "SIEM Bar (cocktail kiểu hang động)",
+  "address": "Lầu 1, 14B Cống Quỳnh, Quận 1",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=SIEM%20Bar%20%28cocktail%20ki%E1%BB%83u%20hang%20%C4%91%E1%BB%99ng%29%20L%E1%BA%A7u%201%2C%2014B%20C%E1%BB%91ng%20Qu%E1%BB%B3nh%2C%20Qu%E1%BA%ADn%201"
+ },
+ {
+  "idx": 331,
+  "name": "No Nê Eatery (No-Nê Bistro)",
+  "address": "48 Nguyễn Văn Mai, P.8, Quận 3",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=No%20N%C3%AA%20Eatery%20%28No-N%C3%AA%20Bistro%29%2048%20Nguy%E1%BB%85n%20V%C4%83n%20Mai%2C%20P.8%2C%20Qu%E1%BA%ADn%203"
+ },
+ {
+  "idx": 332,
+  "name": "Kyo Watami Grill & Sushi",
+  "address": "259 Điện Biên Phủ, P.7, Quận 3",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Kyo%20Watami%20Grill%20%26%20Sushi%20259%20%C4%90i%E1%BB%87n%20Bi%C3%AAn%20Ph%E1%BB%A7%2C%20P.7%2C%20Qu%E1%BA%ADn%203"
+ },
+ {
+  "idx": 333,
+  "name": "Elsol Meat & Wine Steakhouse",
+  "address": "140/2 Võ Thị Sáu, Quận 3",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Elsol%20Meat%20%26%20Wine%20Steakhouse%20140/2%20V%C3%B5%20Th%E1%BB%8B%20S%C3%A1u%2C%20Qu%E1%BA%ADn%203"
+ },
+ {
+  "idx": 334,
+  "name": "Luna & Co. Rooftop Bar",
+  "address": "Tầng 5, 2 Nguyễn Bá Huân, Thảo Điền, TP Thủ Đức",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Luna%20%26%20Co.%20Rooftop%20Bar%20T%E1%BA%A7ng%205%2C%202%20Nguy%E1%BB%85n%20B%C3%A1%20Hu%C3%A2n%2C%20Th%E1%BA%A3o%20%C4%90i%E1%BB%81n%2C%20TP%20Th%E1%BB%A7%20%C4%90%E1%BB%A9c"
+ },
+ {
+  "idx": 335,
+  "name": "NOIRE Café & Bistro (Thảo Điền – theo bài đăng)",
+  "address": "17 Trần Ngọc Diện, Thảo Điền, TP Thủ Đức (theo bài đăng, chưa xác minh)",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=NOIRE%20Caf%C3%A9%20%26%20Bistro%20%28Th%E1%BA%A3o%20%C4%90i%E1%BB%81n%20%E2%80%93%20theo%20b%C3%A0i%20%C4%91%C4%83ng%29%2017%20Tr%E1%BA%A7n%20Ng%E1%BB%8Dc%20Di%E1%BB%87n%2C%20Th%E1%BA%A3o%20%C4%90i%E1%BB%81n%2C%20TP%20Th%E1%BB%A7%20%C4%90%E1%BB%A9c%20%28theo%20b%C3%A0i%20%C4%91%C4%83ng%2C%20ch%C6%B0a%20x%C3%A1c%20minh%29"
+ },
+ {
+  "idx": 336,
+  "name": "Ốc Sên Shop – workshop charm handmade",
+  "address": "500 Lê Văn Sỹ, P.14, Quận 3",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=%E1%BB%90c%20S%C3%AAn%20Shop%20%E2%80%93%20workshop%20charm%20handmade%20500%20L%C3%AA%20V%C4%83n%20S%E1%BB%B9%2C%20P.14%2C%20Qu%E1%BA%ADn%203"
+ },
+ {
+  "idx": 337,
+  "name": "Daydreamer Workshop (HCM)",
+  "address": "Tầng 2, 464 Nguyễn Thị Minh Khai, Quận 3 (theo bài đăng)",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Daydreamer%20Workshop%20%28HCM%29%20T%E1%BA%A7ng%202%2C%20464%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20Minh%20Khai%2C%20Qu%E1%BA%ADn%203%20%28theo%20b%C3%A0i%20%C4%91%C4%83ng%29"
+ },
+ {
+  "idx": 338,
+  "name": "Kani Workshop",
+  "address": "Bình Thạnh (chưa xác minh số nhà)",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Kani%20Workshop%20B%C3%ACnh%20Th%E1%BA%A1nh%20%28ch%C6%B0a%20x%C3%A1c%20minh%20s%E1%BB%91%20nh%C3%A0%29"
+ },
+ {
+  "idx": 339,
+  "name": "Chạm Cọ Workshop (tranh resin)",
+  "address": "48/62A Hồ Biểu Chánh, P.11, Phú Nhuận",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Ch%E1%BA%A1m%20C%E1%BB%8D%20Workshop%20%28tranh%20resin%29%2048/62A%20H%E1%BB%93%20Bi%E1%BB%83u%20Ch%C3%A1nh%2C%20P.11%2C%20Ph%C3%BA%20Nhu%E1%BA%ADn"
+ },
+ {
+  "idx": 340,
+  "name": "Ward Coffee (workshop cặp đôi)",
+  "address": "43CT Tam Đảo, Cư xá Bắc Hải, Quận 10",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Ward%20Coffee%20%28workshop%20c%E1%BA%B7p%20%C4%91%C3%B4i%29%2043CT%20Tam%20%C4%90%E1%BA%A3o%2C%20C%C6%B0%20x%C3%A1%20B%E1%BA%AFc%20H%E1%BA%A3i%2C%20Qu%E1%BA%ADn%2010"
+ },
+ {
+  "idx": 341,
+  "name": "Vi Decord – workshop hoa thủy tinh",
+  "address": "34/7 Đinh Thị Thi, P. Hiệp Bình Phước, TP Thủ Đức",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Vi%20Decord%20%E2%80%93%20workshop%20hoa%20th%E1%BB%A7y%20tinh%2034/7%20%C4%90inh%20Th%E1%BB%8B%20Thi%2C%20P.%20Hi%E1%BB%87p%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc%2C%20TP%20Th%E1%BB%A7%20%C4%90%E1%BB%A9c"
+ },
+ {
+  "idx": 342,
+  "name": "Tâm Ngọc Coffee & Workshop",
+  "address": "Villa 16 D10, Saigon Pearl, Bình Thạnh",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=T%C3%A2m%20Ng%E1%BB%8Dc%20Coffee%20%26%20Workshop%20Villa%2016%20D10%2C%20Saigon%20Pearl%2C%20B%C3%ACnh%20Th%E1%BA%A1nh"
+ },
+ {
+  "idx": 343,
+  "name": "KULA #3065 Art Space & Cafe",
+  "address": "191B Nguyễn Văn Hưởng, Thảo Điền, TP Thủ Đức",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=KULA%20%233065%20Art%20Space%20%26%20Cafe%20191B%20Nguy%E1%BB%85n%20V%C4%83n%20H%C6%B0%E1%BB%9Fng%2C%20Th%E1%BA%A3o%20%C4%90i%E1%BB%81n%2C%20TP%20Th%E1%BB%A7%20%C4%90%E1%BB%A9c"
+ },
+ {
+  "idx": 344,
+  "name": "GÓC Cà Phê",
+  "address": "29 Huỳnh Thúc Kháng, P. Bến Nghé, Quận 1",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=G%C3%93C%20C%C3%A0%20Ph%C3%AA%2029%20Hu%E1%BB%B3nh%20Th%C3%BAc%20Kh%C3%A1ng%2C%20P.%20B%E1%BA%BFn%20Ngh%C3%A9%2C%20Qu%E1%BA%ADn%201"
+ },
+ {
+  "idx": 345,
+  "name": "JellyKiss – Café in Bed",
+  "address": "Tầng 3, 14 Tôn Thất Đạm, P. Nguyễn Thái Bình, Quận 1",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=JellyKiss%20%E2%80%93%20Caf%C3%A9%20in%20Bed%20T%E1%BA%A7ng%203%2C%2014%20T%C3%B4n%20Th%E1%BA%A5t%20%C4%90%E1%BA%A1m%2C%20P.%20Nguy%E1%BB%85n%20Th%C3%A1i%20B%C3%ACnh%2C%20Qu%E1%BA%ADn%201"
+ },
+ {
+  "idx": 346,
+  "name": "Press & Play – Cà phê Board Game",
+  "address": "451 Xô Viết Nghệ Tĩnh, Bình Thạnh",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Press%20%26%20Play%20%E2%80%93%20C%C3%A0%20ph%C3%AA%20Board%20Game%20451%20X%C3%B4%20Vi%E1%BA%BFt%20Ngh%E1%BB%87%20T%C4%A9nh%2C%20B%C3%ACnh%20Th%E1%BA%A1nh"
+ },
+ {
+  "idx": 347,
+  "name": "FIGHT STATION – PS5 PES Cinema Nintendo",
+  "address": "200 Xô Viết Nghệ Tĩnh, P.19, Bình Thạnh",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=FIGHT%20STATION%20%E2%80%93%20PS5%20PES%20Cinema%20Nintendo%20200%20X%C3%B4%20Vi%E1%BA%BFt%20Ngh%E1%BB%87%20T%C4%A9nh%2C%20P.19%2C%20B%C3%ACnh%20Th%E1%BA%A1nh"
+ },
+ {
+  "idx": 348,
+  "name": "Lumi Photobooth – Saigon Garden",
+  "address": "Tầng 3 Saigon Garden, 99 Nguyễn Huệ, Quận 1",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Lumi%20Photobooth%20%E2%80%93%20Saigon%20Garden%20T%E1%BA%A7ng%203%20Saigon%20Garden%2C%2099%20Nguy%E1%BB%85n%20Hu%E1%BB%87%2C%20Qu%E1%BA%ADn%201"
+ },
+ {
+  "idx": 349,
+  "name": "Menya Ichiban Plus – Diamond Plaza",
+  "address": "Tầng 5 Diamond Plaza, 34 Lê Duẩn, Quận 1",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Menya%20Ichiban%20Plus%20%E2%80%93%20Diamond%20Plaza%20T%E1%BA%A7ng%205%20Diamond%20Plaza%2C%2034%20L%C3%AA%20Du%E1%BA%A9n%2C%20Qu%E1%BA%ADn%201"
+ },
+ {
+  "idx": 350,
+  "name": "JW Marriott Saigon – trà chiều \"Le Jeu\" + trang trí bánh",
+  "address": "JW Marriott Hotel & Suites Saigon, 22 Hai Bà Trưng, Quận 1",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=JW%20Marriott%20Saigon%20%E2%80%93%20tr%C3%A0%20chi%E1%BB%81u%20%22Le%20Jeu%22%20%2B%20trang%20tr%C3%AD%20b%C3%A1nh%20JW%20Marriott%20Hotel%20%26%20Suites%20Saigon%2C%2022%20Hai%20B%C3%A0%20Tr%C6%B0ng%2C%20Qu%E1%BA%ADn%201"
+ },
+ {
+  "idx": 351,
+  "name": "Triệu Coffee & Tea – cắm hoa",
+  "address": "112/1 Dương Quảng Hàm, P.5, Gò Vấp",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Tri%E1%BB%87u%20Coffee%20%26%20Tea%20%E2%80%93%20c%E1%BA%AFm%20hoa%20112/1%20D%C6%B0%C6%A1ng%20Qu%E1%BA%A3ng%20H%C3%A0m%2C%20P.5%2C%20G%C3%B2%20V%E1%BA%A5p"
+ },
+ {
+  "idx": 352,
+  "name": "Midas Hotel 3 (staycation)",
+  "address": "11–13 Nguyễn Văn Lạc, P.19, Bình Thạnh",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Midas%20Hotel%203%20%28staycation%29%2011%E2%80%9313%20Nguy%E1%BB%85n%20V%C4%83n%20L%E1%BA%A1c%2C%20P.19%2C%20B%C3%ACnh%20Th%E1%BA%A1nh"
+ }
+]

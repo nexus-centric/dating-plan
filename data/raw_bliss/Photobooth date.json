@@ -1,0 +1,282 @@
+[
+ {
+  "name": "Bliss Photobooth",
+  "lat": 10.842374,
+  "lng": 106.6396123,
+  "addr": "448/20 Phan Huy Ích, An Hội Tây, Hồ Chí Minh",
+  "cid": "17825365554666882654"
+ },
+ {
+  "name": "MÈO MỐC PHOTOBOOTH QUẬN 5",
+  "lat": 10.7527793,
+  "lng": 106.6607397,
+  "addr": "10 Đ. Nguyễn Án, Phường 11, Chợ Lớn, Hồ Chí Minh",
+  "cid": "3005543593449753832"
+ },
+ {
+  "name": "Paris Booth",
+  "lat": 10.7688489,
+  "lng": 106.6714038,
+  "addr": "580 Sư Vạn Hạnh, Phường 10, Vườn Lài, Hồ Chí Minh 72508",
+  "cid": "7558716747605130672"
+ },
+ {
+  "name": "Twinkle.booth",
+  "lat": 10.7733236,
+  "lng": 106.7050364,
+  "addr": "40E Ngô Đức Kế, Bến Nghé, Sài Gòn, Hồ Chí Minh",
+  "cid": "1290325520960581584"
+ },
+ {
+  "name": "Ngói Photobooth - Nguyễn Tri Phương",
+  "lat": 10.764672299999999,
+  "lng": 106.6679628,
+  "addr": "404 Nguyễn Tri Phương, phường 2, Vườn Lài, Hồ Chí Minh 72500",
+  "cid": "5399841572448172335"
+ },
+ {
+  "name": "Mothaiba Vivid - Quận 3",
+  "lat": 10.7872957,
+  "lng": 106.6785263,
+  "addr": "301a Đ. Lê Văn Sỹ, Phường 12, Nhiêu Lộc, Hồ Chí Minh 700000",
+  "cid": "10532084900028986352"
+ },
+ {
+  "name": "Photoism",
+  "lat": 10.773508,
+  "lng": 106.7035164,
+  "addr": "17 Huỳnh Thúc Kháng, Bến Nghé, Sài Gòn, Hồ Chí Minh 70000",
+  "cid": "11339683690479081854"
+ },
+ {
+  "name": "MonoBooth",
+  "lat": 10.7735614,
+  "lng": 106.7021764,
+  "addr": "42 Đ. Tôn Thất Thiệp, Bến Nghé, Sài Gòn, Hồ Chí Minh 70000",
+  "cid": "2436969112656734194"
+ },
+ {
+  "name": "Foto Hunter/ JULY ULIKE",
+  "lat": 10.7733504,
+  "lng": 106.6949592,
+  "addr": "88 Trương Định, Bến Thành, Quận 1, Hồ Chí Minh 700000",
+  "cid": "16990269700721188070"
+ },
+ {
+  "name": "Foto.Flicker Photobooth Saigon",
+  "lat": 10.8064214,
+  "lng": 106.7343918,
+  "addr": "",
+  "cid": "4331812101798570882"
+ },
+ {
+  "name": "Photogenic Gò Vấp",
+  "lat": 10.8336547,
+  "lng": 106.6701372,
+  "addr": "",
+  "cid": "5905739629421241011"
+ },
+ {
+  "name": "SAY CHEESE TÔ HIẾN THÀNH",
+  "lat": 10.779093,
+  "lng": 106.6668055,
+  "addr": "",
+  "cid": "8378172916741096504"
+ },
+ {
+  "name": "Photo Palette - Quận 7",
+  "lat": 10.7393889,
+  "lng": 106.7058289,
+  "addr": "",
+  "cid": "13564465742973453634"
+ },
+ {
+  "name": "Photo Palette - Bình Thạnh",
+  "lat": 10.8017854,
+  "lng": 106.7155686,
+  "addr": "",
+  "cid": "13860427242249073509"
+ },
+ {
+  "name": "Photo Palette - Tân Phú",
+  "lat": 10.8063266,
+  "lng": 106.6278679,
+  "addr": "",
+  "cid": "6812549644405563340"
+ },
+ {
+  "name": "Photo Palette - Quận 1",
+  "lat": 10.773179299999999,
+  "lng": 106.702888,
+  "addr": "",
+  "cid": "11845655354934577042"
+ },
+ {
+  "name": "Photo Palette - Quận 10",
+  "lat": 10.774034799999999,
+  "lng": 106.6681849,
+  "addr": "",
+  "cid": "619868388722498004"
+ },
+ {
+  "name": "QAN Photobooth",
+  "lat": 10.7900569,
+  "lng": 106.6741639,
+  "addr": "",
+  "cid": "9664685120369988877"
+ },
+ {
+  "name": "Life4cuts photobooth - 인생네컷",
+  "lat": 10.7427958,
+  "lng": 106.61193109999999,
+  "addr": "",
+  "cid": "17331803306430159352"
+ },
+ {
+  "name": "Life4cuts photobooth - 인생네컷",
+  "lat": 10.8276275,
+  "lng": 106.72163549999999,
+  "addr": "",
+  "cid": "13021835153874956294"
+ },
+ {
+  "name": "Life4cuts photobooth - 인생네컷",
+  "lat": 10.8012797,
+  "lng": 106.6165901,
+  "addr": "",
+  "cid": "17666310573480102495"
+ },
+ {
+  "name": "Life4cuts photobooth - 인생네컷",
+  "lat": 10.730171,
+  "lng": 106.7034006,
+  "addr": "",
+  "cid": "15336115002245107186"
+ },
+ {
+  "name": "Life4cuts photobooth - 인생네컷",
+  "lat": 10.8233337,
+  "lng": 106.6934237,
+  "addr": "",
+  "cid": "11739511226195411116"
+ },
+ {
+  "name": "Life4cuts 인생네컷",
+  "lat": 10.7695964,
+  "lng": 106.69282299999999,
+  "addr": "",
+  "cid": "2926528670349064094"
+ },
+ {
+  "name": "Life Four Cut",
+  "lat": 10.7781788,
+  "lng": 106.7011072,
+  "addr": "",
+  "cid": "12018387478435852432"
+ },
+ {
+  "name": "Life4cuts photobooth - 인생네컷",
+  "lat": 10.7640313,
+  "lng": 106.6826033,
+  "addr": "",
+  "cid": "16908056550518072440"
+ },
+ {
+  "name": "Life Four Cuts Photobooth",
+  "lat": 10.774605,
+  "lng": 106.70346669999999,
+  "addr": "",
+  "cid": "12662174903771791778"
+ },
+ {
+  "name": "Life4cuts photobooth Thiso Sala - 인생네컷",
+  "lat": 10.7721095,
+  "lng": 106.7221739,
+  "addr": "",
+  "cid": "16573336938765858049"
+ },
+ {
+  "name": "PHOTO OBJET Quận 7",
+  "lat": 10.7260656,
+  "lng": 106.72046929999999,
+  "addr": "",
+  "cid": "4552915326094210959"
+ },
+ {
+  "name": "PHOTO OBJET QUANG TRUNG",
+  "lat": 10.829776899999999,
+  "lng": 106.6726037,
+  "addr": "",
+  "cid": "2447195865547793418"
+ },
+ {
+  "name": "PHOTO OBJET VẠN HẠNH MALL (포토 오브제 반한몰)",
+  "lat": 10.7706331,
+  "lng": 106.6697428,
+  "addr": "",
+  "cid": "10731385431044702751"
+ },
+ {
+  "name": "PHOTO OBJET NOWZONE",
+  "lat": 10.764479999999999,
+  "lng": 106.682267,
+  "addr": "",
+  "cid": "1649272468030145634"
+ },
+ {
+  "name": "PHOTO OBJET Quận 3",
+  "lat": 10.783164,
+  "lng": 106.6958786,
+  "addr": "",
+  "cid": "15620324466602198306"
+ },
+ {
+  "name": "Photo Objet Saigon Centre HCM",
+  "lat": 10.7732193,
+  "lng": 106.70094789999999,
+  "addr": "",
+  "cid": "1747428491214547094"
+ },
+ {
+  "name": "PHOTO OBJET THẢO ĐIỀN",
+  "lat": 10.8023796,
+  "lng": 106.7409716,
+  "addr": "",
+  "cid": "10637974342495107350"
+ },
+ {
+  "name": "Photo Objet Aeon Tân Phú( 포토 오브제 이온몰 떤푸)",
+  "lat": 10.801284299999999,
+  "lng": 106.61679509999999,
+  "addr": "",
+  "cid": "7695425993317257208"
+ },
+ {
+  "name": "PHOTO OBJET AEON MALL BÌNH TÂN",
+  "lat": 10.7427338,
+  "lng": 106.61197039999999,
+  "addr": "",
+  "cid": "10050016668797536180"
+ },
+ {
+  "name": "MIRAFILM PHOTOBOOTH",
+  "lat": 10.791228199999999,
+  "lng": 106.6964393,
+  "addr": "",
+  "cid": "9646801485504317118"
+ },
+ {
+  "name": "PixelB Vintage Photobooth",
+  "lat": 10.7997888,
+  "lng": 106.6155859,
+  "addr": "",
+  "cid": "17235848034969743102"
+ },
+ {
+  "name": "PixelB photobooth",
+  "lat": 10.7949054,
+  "lng": 106.64176479999999,
+  "addr": "",
+  "cid": "9284838276646274161"
+ }
+]
