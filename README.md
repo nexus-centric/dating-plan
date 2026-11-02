@@ -1,33 +1,34 @@
-# Hẹn Hò Sài Gòn 💞 (demo)
+# Hen Ho Sai Gon
 
-Web app (PWA) gợi ý kế hoạch hẹn hò cho cặp đôi ở trung tâm TP.HCM. React + Vite + TypeScript + Tailwind, không backend.
+A progressive web app that suggests date plans for couples in central Ho Chi Minh City. Pick a budget range, a combo and a mood, and the app proposes a food stop plus a cafe or activity, with photos and Google Maps links. Built with React, Vite, TypeScript and Tailwind; there is no backend.
 
-## Chạy
+Live site: https://nexus-centric.github.io/dating-plan/
+
+## Getting started
+
+Requires Node.js 24.22.1 or newer.
+
 ```bash
-npm install
+npm ci
 npm run dev        # http://localhost:5173
-npm run build      # kiểm tra TS + build ra dist/
+npm run build      # type-check and build into dist/
 npm run preview    # http://localhost:4173
 ```
 
-## Dữ liệu (cập nhật 26/10/2026)
-- `src/data.json` = bản copy của `data/merged_hcm.json`, sinh bởi `python3 scripts/merge_v2.py` từ:
-  `data/research_hcm.json` (nghiên cứu web) + `data/web_additions.json` + `data/new_types_hcm.json` + list Bliss Home (`data/bliss_home_places.json`).
-- Địa chỉ Bliss lấy từ trang Google Maps công khai của từng địa điểm (`scripts/gm_details.cjs` → `data/raw_bliss/_gm_details.json`);
-  quận suy ra từ toạ độ Google Maps + ranh giới quận cũ (GADM, `scripts/geo_util.py`). Không tìm được địa chỉ → `data/unresolved_bliss.json`.
-- Loại ra: `data/excluded_hcm.json` (ngoài trung tâm / ngoài TP.HCM, đóng cửa vĩnh viễn). Trùng lặp đã gộp: `data/duplicates_merged.json`.
-- lat/lng: toạ độ Google Maps (Bliss) hoặc Nominatim (`scripts/forward_geocode.py`, 1 req/s, chỉ nhận khi đúng quận).
-- Trường thêm: `rating, reviews, lat, lng, lists, maps_url, website, google_category, area` (quận chuẩn hoá), `kind` (loại dùng cho planner), `hours` ([mở, đóng] phút).
-- Bộ lọc khu vực lấy tự động từ `area` trong dữ liệu (`DISTRICTS` trong `src/data.ts`).
+## Project layout
 
-## Planner
-- Quy tắc slot & combo: xem đầu `src/planner.ts` (bữa tối chỉ nhà hàng/phố ẩm thực; bar/rooftop/cafe/dessert ở slot 2).
-- Hai điểm luôn cùng quận hoặc quận kề (`ADJ_LIST`), hiện khoảng cách km nếu có toạ độ; giờ mở cửa không khớp = phạt điểm mềm + cảnh báo.
-- Ảnh: thêm `"image": "https://..."` hoặc `/photos/x.jpg` trong `public/photos/`.
+- `src/App.tsx`: UI (Plan, Explore, Trips and Diary tabs).
+- `src/planner.ts`: plan generation (slot and combo rules, weighted random picks, per-session history to keep suggestions varied).
+- `src/data.ts`: data loading, normalisation and district list.
+- `src/data.json`: the place list used by the app.
+- `public/images/`: bundled place photos (webp).
+- `scripts/`: data collection, verification and audit scripts (Python and Node).
+- `data/`: raw and intermediate data for each data batch.
 
-## Ảnh chụp màn hình
-`npm run build && npx vite preview --port 4173 &` rồi `node scripts/screenshots.cjs` → `screenshots/`.
+## Data
 
-## Deploy miễn phí
-- **Cloudflare Pages**: kết nối repo → Build command `npm run build`, output `dist`. Hoặc `npx wrangler pages deploy dist`.
-- **Vercel**: import repo (preset Vite tự nhận) hoặc `npx vercel --prod`.
+Each place has a name, district (`area`), `kind`, price range with source and confidence, rating, Google Maps link, optional photo, opening hours and status. Places are verified against Google Maps before they are added; entries whose details cannot be confirmed are marked `uncertain` or hidden. Coverage is central Ho Chi Minh City, including Phu Nhuan, Tan Binh and Tan Phu; outer districts such as District 12, Cu Chi and Hoc Mon are excluded. Plans are capped at 1,000,000 VND per outing for two people.
+
+## Deployment
+
+Pushing to `main` runs `.github/workflows/pages.yml`, which builds the app and deploys `dist/` to GitHub Pages. The base path is taken from the repository name. CI also runs `npm audit --omit=dev --audit-level=low` and `npm audit --audit-level=high`.
